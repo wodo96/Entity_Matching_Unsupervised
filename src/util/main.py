@@ -13,7 +13,7 @@ blocks = opt.block
 start = datetime.now()
 for block in range(1, blocks+1):
     os.system("g++ -fopenmp %s_matrix_block.cpp -o %s_matrix_block" % (dataset, dataset))
-    os.system("./%s_matrix_block %d %d" % (dataset, block, blocks))
+    os.system(".\%s_matrix_block %d %d" % (dataset, block, blocks))
 end = datetime.now()
 total_seconds = (end - start).seconds
 
