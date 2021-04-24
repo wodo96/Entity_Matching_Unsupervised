@@ -12,6 +12,9 @@ def read_txt(sentences):
                 pairs[int(rec[0])].append(int(rec[1]))
             else:
                 pairs[int(rec[0])] = [int(rec[1])]
+    print(">>>>><<<<<")
+    print (pairs)
+    print(">>>>><<<<<")
     return pairs
 
 
