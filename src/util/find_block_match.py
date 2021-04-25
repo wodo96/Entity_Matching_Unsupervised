@@ -1,5 +1,18 @@
 import json
 import argparse
+import os
+
+
+def read_source(filename):
+    with open(filename, "r+", encoding="utf-8") as f:
+        a = f.read()
+    a_list = a.split("\n")
+    if not a_list[-1]:
+        a_list = a_list[:-1]
+    return a_list
+
+
+
 
 
 def read_txt(sentences):
@@ -12,9 +25,6 @@ def read_txt(sentences):
                 pairs[int(rec[0])].append(int(rec[1]))
             else:
                 pairs[int(rec[0])] = [int(rec[1])]
-    print(">>>>><<<<<")
-    print (pairs)
-    print(">>>>><<<<<")
     return pairs
 
 
@@ -28,6 +38,24 @@ def inv(map_dict):
     return [s1_dict, s2_dict]
 
 
+def read_txt1(sentences):
+    pairs = []
+    for pair in sentences:
+        if pair:
+            rec = pair.split(" ")
+            pairs.append(rec)
+    return pairs
+
+def lst_finder(s1,s2):
+    match= []
+    for i in range (len(s1)):
+        for j in range (len(s2)):
+            if ((s1[i])==(s2[j])):
+                match.append("%d\t%d" % (i, j))
+    return read_txt1(match)
+
+
+
 parser = argparse.ArgumentParser()
 parser.add_argument('-dataset', required=True)
 parser.add_argument('-block', type=int, default=5000)
@@ -35,10 +63,24 @@ opt = parser.parse_args()
 
 dataset = opt.dataset
 block = opt.block
+data_path = "../../data/%s" % dataset
+if os.path.exists(data_path + "/match.txt"):
+    with open("../../data/%s/match.txt" % dataset, "r+", encoding="utf-8") as f:
+        match = f.read()
+        pairs = read_txt(match)
+        print("exists, so =>")
+else:
+    print("not exists, so =>")
+    with open(data_path + "/match.txt", "w+", encoding="utf-8") as f:
+        s1=read_source(data_path + "/source_1.txt")
+        s2=read_source(data_path + "/source_2.txt")
+        lst = lst_finder(s1,s2)
+        for lst1 in lst:
+            f.write("\n".join(lst1) + "\n")
 
-with open("../../data/%s/match.txt" % dataset, "r+", encoding="utf-8") as f:
-    match = f.read()
-    pairs = read_txt(match)
+    with open (data_path + "/match.txt", "r+", encoding="utf-8") as f:
+        match = f.read()
+        pairs = read_txt(match)
 
 for i in range(block):
     i += 1
@@ -49,7 +91,6 @@ for i in range(block):
     new_match = []
     new_match_ret = ""
     ret_str = ""
-
     for (id1, total_id1) in map_list[0].items():
         total_id2_list = pairs.get(total_id1)
         if total_id2_list:
