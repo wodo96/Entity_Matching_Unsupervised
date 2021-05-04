@@ -64,23 +64,10 @@ opt = parser.parse_args()
 dataset = opt.dataset
 block = opt.block
 data_path = "../../data/%s" % dataset
-if os.path.exists(data_path + "/match.txt"):
-    with open("../../data/%s/match.txt" % dataset, "r+", encoding="utf-8") as f:
-        match = f.read()
-        pairs = read_txt(match)
-        print("exists, so =>")
-else:
-    print("not exists, so =>")
-    with open(data_path + "/match.txt", "w+", encoding="utf-8") as f:
-        s1=read_source(data_path + "/source_1.txt")
-        s2=read_source(data_path + "/source_2.txt")
-        lst = lst_finder(s1,s2)
-        for lst1 in lst:
-            f.write("\n".join(lst1) + "\n")
 
-    with open (data_path + "/match.txt", "r+", encoding="utf-8") as f:
-        match = f.read()
-        pairs = read_txt(match)
+with open("../../data/%s/match.txt" % dataset, "r+", encoding="utf-8") as f:
+    match = f.read()
+    pairs = read_txt(match)
 
 for i in range(block):
     i += 1
