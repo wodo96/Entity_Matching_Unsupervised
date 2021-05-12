@@ -20,7 +20,7 @@ def readcsv(filename):
 source1 = readcsv("../../data/%s/tableA.csv" % dataset)[1:]
 source2 = readcsv("../../data/%s/tableB.csv" % dataset)[1:]
 
-def functionSource(source):
+def functionSource(source, num):
 
     exp=""
     txt=""
@@ -30,10 +30,11 @@ def functionSource(source):
         experimental =str(source)
         experimental = experimental.replace("[","")
         experimental = experimental.replace("]","")
+        experimental = experimental.replace("'","")
         exp += experimental+"\n"
 
         print(experimental)
-    if(source == source1):
+    if(num == 1):
         with open("../../data/%s/source_1.txt" % (dataset), "w+", encoding="utf-8") as f:
             f.write(exp)
     else:
@@ -41,5 +42,5 @@ def functionSource(source):
             f.write(exp)
 
 
-functionSource(source1)
-functionSource(source2)
+functionSource(source1,1)
+functionSource(source2,2)
