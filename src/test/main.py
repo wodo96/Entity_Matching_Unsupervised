@@ -16,12 +16,12 @@ dataset = opt.dataset
 blocks = opt.block
 start = datetime.now()
 
-os.system("py ../util/corpus_get_idf.py -dataset %s" % dataset)
-os.system("py ../util/get_pid_score.py -dataset %s -block %d" % (dataset, blocks))
+os.system("python3 ../util/corpus_get_idf.py -dataset %s" % dataset)# Without the wiki files we can't use it
+os.system("python3 ../util/get_pid_score.py -dataset %s -block %d" % (dataset, blocks))
 
 for block in range(1, blocks+1):
-    os.system("g++ -fopenmp %s_matrix_block.cpp -o %s_matrix_block" % (dataset, dataset))
-    os.system(".\%s_matrix_block %d %d" % (dataset, block, blocks))
+    os.system("g++ -fopenmp Matrix_block.cpp -o Matrix_block")
+    os.system("./Matrix_block %s %d %d" % (dataset, block, blocks))
 
 
 end = datetime.now()
@@ -37,3 +37,4 @@ print("Time: %d : %d : %d" % (hours, minutes, seconds))
 cal_prec(dataset, blocks)
 cal_sco(dataset, blocks)
 cal_res(dataset, blocks)
+cal_prec.training_creator(dataset,blocks)

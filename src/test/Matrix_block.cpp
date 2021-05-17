@@ -173,13 +173,14 @@ int main(int argc, char** argv) {
     int S = 20;
     float eta = 0.98;
 
+    string dataset;
     string block;
     string blocks;
-    block = argv[1];
-    blocks = argv[2];
+    dataset = argv[1];
+    block = argv[2];
+    blocks = argv[3];
     cout << "[Info]Handle Block " << block << endl;
     // read the data source file
-    string dataset = "Amazon-Google";
     string outfilename;
     outfilename = "../../data_block/" + dataset + "/" + blocks + "/" + block + "/precision.txt";
     cout << "outfile: " << outfilename << endl;
@@ -307,7 +308,7 @@ int main(int argc, char** argv) {
     CliqueRankMatrix *walker;
     for (int iter = 0;; iter++) {
         cout << "Iteration " << iter << endl;
-        walker = new CliqueRankMatrix(bigraph->p_score, N1 + N2, alpha, S, 0.5);
+        walker = new CliqueRankMatrix(bigraph->p_score, N1 + N2, alpha, S, 0.4);
         for (int i = 0; i < N1; i++) {
             int id1 = i;
             for (int j = 0; j < N2; j++) {
