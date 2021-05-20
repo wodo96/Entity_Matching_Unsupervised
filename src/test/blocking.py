@@ -6,8 +6,8 @@ from util.upper_bound import upper_bou
 
 
 def blo_main(dataset, blocks):
-    os.system("python3 ../util/tfidf-blocking.py -dataset %s -block %d" % (dataset, blocks))
-    os.system("python3 ../util/find_block_match.py -dataset %s -block %d" % (dataset, blocks))
+    os.system("py ../util/tfidf-blocking.py -dataset %s -block %d" % (dataset, blocks))
+    os.system("py ../util/find_block_match.py -dataset %s -block %d" % (dataset, blocks))
     result = upper_bou(dataset, blocks)
     return result
 

@@ -16,12 +16,12 @@ dataset = opt.dataset
 blocks = opt.block
 start = datetime.now()
 
-os.system("python3 ../util/corpus_get_idf.py -dataset %s" % dataset)# Without the wiki files we can't use it
-os.system("python3 ../util/get_pid_score.py -dataset %s -block %d" % (dataset, blocks))
+os.system("py ../util/corpus_get_idf.py -dataset %s" % dataset)# Without the wiki files we can't use it
+os.system("py ../util/get_pid_score.py -dataset %s -block %d" % (dataset, blocks))
 
 for block in range(1, blocks+1):
     os.system("g++ -fopenmp Matrix_block.cpp -o Matrix_block")
-    os.system("./Matrix_block %s %d %d" % (dataset, block, blocks))
+    os.system(".\Matrix_block %s %d %d" % (dataset, block, blocks))
 
 
 end = datetime.now()
