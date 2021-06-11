@@ -59,3 +59,29 @@ def cal_prec(dataset, blocks):
 
     with open("../../data_block/%s/%d/all_precision.json" % (dataset, blocks), "w+", encoding="utf-8") as f:
         f.write(json.dumps(all_precision))
+    print ("all_precision done!!")
+
+def training_creator(dataset, blocks):
+    path = "../../data_block/%s/%d" % (dataset, blocks)
+    train = "ltable_id,rtable_id,label\n"
+
+    block_file_path = os.path.join(path, "all_precision.json")
+
+    precisions_all=[]
+    if os.path.exists(block_file_path):
+        with open(block_file_path, "r+", encoding="utf-8") as f:
+            precisions_all = json.loads(f.read())
+
+    experimental= ""
+    for precision in precisions_all:
+        experimental=str(precision)
+        experimental = experimental.replace("[","")
+        experimental = experimental.replace("]","")
+        experimental = experimental.replace(" ","")
+        experimental = experimental.split(",")
+        train += (experimental[0] + "," + experimental[1] + ",1\n")
+
+    print (train)
+
+    with open("../../data_block/%s/%d/train.txt" % (dataset, blocks), "w+", encoding="utf-8") as f:
+        f.write(train)
