@@ -33,4 +33,5 @@ seconds = total_seconds % 60
 print("Time lost: %d : %d : %d" % (hours, minutes, seconds))
 
 cal_prec(dataset, blocks)
+print("DATASET: %s" %dataset)
 cal_sco(dataset, blocks)
