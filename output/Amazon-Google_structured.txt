@@ -1,0 +1,218 @@
+  0%|          | 0/20 [00:00<?, ?it/s]100%|██████████| 20/20 [00:00<00:00, 552.14it/s]
+vocabulary:  7293
+===============================
+69
+213
+===============================
+69
+166
+===============================
+69
+152
+===============================
+68
+254
+===============================
+68
+143
+===============================
+68
+173
+===============================
+68
+167
+===============================
+68
+127
+===============================
+68
+137
+===============================
+68
+149
+===============================
+68
+184
+===============================
+68
+141
+===============================
+68
+183
+===============================
+68
+172
+===============================
+68
+149
+===============================
+68
+143
+===============================
+68
+163
+===============================
+68
+153
+===============================
+68
+112
+===============================
+68
+145
+[Info]Handle Block 1
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 2
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 3
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 4
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 5
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 6
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 7
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 8
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 9
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 10
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 11
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 12
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 13
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 14
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 15
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 16
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 17
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 18
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 19
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 20
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+Time lost: 0 : 1 : 42
+all_precision done!!
+DATASET: Amazon-Google_structured
+==========result============
+total_pair:  1073 matches:  1167 count:  632
+precision:  58.9
+recall:  54.16
+f1_score:  56.43
+
+Old_touple:1074
+Those touple will be eliminate:
+>>>>><<<<<
+New_touple:944
+  
+All completed!! :)
+  

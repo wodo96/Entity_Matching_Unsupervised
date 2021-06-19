@@ -1,0 +1,218 @@
+  0%|          | 0/20 [00:00<?, ?it/s] 35%|███▌      | 7/20 [00:00<00:00, 62.43it/s] 70%|███████   | 14/20 [00:00<00:00, 64.94it/s]100%|██████████| 20/20 [00:00<00:00, 67.61it/s]
+vocabulary:  7864
+===============================
+218
+173
+===============================
+218
+146
+===============================
+218
+153
+===============================
+218
+167
+===============================
+218
+154
+===============================
+217
+147
+===============================
+217
+146
+===============================
+217
+172
+===============================
+217
+152
+===============================
+217
+127
+===============================
+217
+164
+===============================
+217
+154
+===============================
+217
+137
+===============================
+217
+131
+===============================
+217
+166
+===============================
+217
+158
+===============================
+217
+137
+===============================
+217
+130
+===============================
+217
+150
+===============================
+217
+136
+[Info]Handle Block 1
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 2
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 3
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 4
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 5
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 6
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 7
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 8
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 9
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 10
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 11
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 12
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 13
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 14
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 15
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 16
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 17
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 18
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 19
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+[Info]Handle Block 20
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+Time lost: 0 : 4 : 50
+all_precision done!!
+DATASET: BeerAdvo-RateBeer_structured
+==========result============
+total_pair:  2949 matches:  67 count:  58
+precision:  1.97
+recall:  86.57
+f1_score:  3.85
+
+Old_touple:2950
+Those touple will be eliminate:
+>>>>><<<<<
+New_touple:2935
+  
+All completed!! :)
+  
