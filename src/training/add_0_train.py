@@ -29,12 +29,10 @@ def makefilecsv (train, tA, tB):
 	for i in range(int((len (train))/2)):
 		ran_number.insert(i,[str(random.randrange(0,lenTa)),str(random.randrange(0,lenTb)),'0'])
 	for j in range(len(ran_number)):
-		try:
-			train.remove([str(ran_number[j][0]),str(ran_number[j][1]),'1'])
-			print("Random number found:")
-			print(ran_number[j])
-		except ValueError:
+		
+		if not(train.count(([str(ran_number[j][0]),str(ran_number[j][1]),'1'])>0)):
 			train.append(ran_number[j])
+	
 	train_def = ""
 	for touple in train:
 		train_def += ((str(touple[0])) + "," + (str(touple[1])) + "," + (str(touple[2]))+ "\n")
