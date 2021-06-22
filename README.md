@@ -25,3 +25,20 @@ it will store the output in a folder.
 3- If you just want to store the two trains files generated from this system (train.csv and (dataset_name)_output-unsupervised.csv) run the script Store_train_data.sh as:
 
     sh ./Store_train_data.sh (DATASET_NAME)
+
+
+# Contents of 'output' folder
+
+Inside 'output' folder are stored the files processed by Entity Matching Unsupervised.
+In particular we can see three type of files:
+
+1- DATASET_NAME.txt -> in this file is stored the output precompiled of datasets by running "Run_and_save.sh".
+
+2- Inside every dataset folder we find two type of file:
+
+    a- DATASET_NAME_output-unsupervised.csv -> in this file are stored the tuples that the system found. The format is:
+        ltable_id,rtable_id,label
+    
+    b- train.csv -> this file instead contains the previous file but it will be processed in this way:
+        - removing similar tuple from train taken from test.csv
+        - adding random tuples with 0 label
