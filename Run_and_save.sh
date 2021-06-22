@@ -8,3 +8,7 @@ mkdir -p output
 
 #2
 sh ./Run.sh $DATASET 2>&1 | tee ./output/$DATASET.txt
+
+#3
+
+sh ./Store_train_data.sh $DATASET
