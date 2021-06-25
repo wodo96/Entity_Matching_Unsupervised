@@ -1,0 +1,131 @@
+datablitz : a high performance main-memory storage manager j baulier p bohannon s gogate s joshi c gupta a khivesera h korth p mcilroy j miller p narayan m nemeth r rastogi a silberschatz s sudarshan  vldb 1998.0 
+processing complex aggregate queries over data streams a dobra m garofalakis j gehrke r rastogi  sigmod conference 2002.0 
+declare and sds : early efforts to commercialize deductive database technology vldb j. w kieÐ¿ling h schmidt w strauÐ¿ g dÑnzinger  1994.0 
+heterogeneous database query optimization in db2 universal datajoiner s venkataraman t zhang vldb 1998.0 
+architecture of oracle parallel server r bamford d butler b klots n macnaughton vldb 1998.0 
+checkpointing in oracle vldb 1998 a joshi w bridge j loaiza t lahiri   
+applying update streams in a soft real-time database system b adelberg h garcia-molina b kao 1995  sigmod conference  
+reminiscences on influential papers   2002.0 
+real-time index concurrency control sigmod record 1996 j haritsa s seshadri   
+resource scheduling for composite multimedia objects vldb 1998 m garofalakis y ioannidis b Ð¶zden   
+phrase matching in xml vldb s amer-yahia m fernandez d srivastava y xu  2003.0 
+dms : a parallel data mining server f george vldb   1998.0 
+directv and oracle rdb : the challenges of vldb transaction processing w gettys 1995  sigmod conference  
+data extraction and transformation for the data warehouse c squire sigmod conference 1995.0 
+w3qs : a query system for the world-wide web vldb d konopnicki o shmueli  1995.0 
+reminiscences an influential papers   2003.0 
+index concurrency control in firm real-time database systems b goyal j haritsa s seshadri v srinivasan vldb 1995.0 
+mapping adaptation under evolving schemas y velegrakis r miller l popa vldb   2003.0 
+the merge/purge problem for large databases m hernÑndez s stolfo  sigmod conference 1995.0 
+dalÑ : a high performance main memory storage manager 1994 h jagadish d lieuwen r rastogi a silberschatz s sudarshan vldb  
+database techniques for the world-wide web : a survey 1998 d florescu a levy a mendelzon sigmod record  
+fast incremental indexing for full-text information retrieval 1994 e brown j callan w croft vldb  
+view maintenance in a warehousing environment y zhuge h garcia-molina j hammer j widom sigmod conference 1995.0 
+maintaining data privacy in association rule mining s rizvi j haritsa vldb   2002.0 
+architectures for internal web services deployment 2001 o shmueli vldb  
+upsizing from file server to clent server architectures t team sigmod conference   1995.0 
+toward autonomic computing with db2 universal database s lightstone g lohman d zilio  sigmod record 2002.0 
+reminiscences on influential papers 2002    
+smart : making db2 ( more ) autonomic g lohman s lightstone 2002  vldb  
+preference sql - design implementation experiences vldb w kieÐ¿ling g kÑstler  2002.0 
+clio : a semi-automatic tool for schema mapping 2001 m hernÑndez r miller l haas sigmod conference  
+design and analysis of parametric query optimization algorithms vldb s ganguly  1998.0 
+cosima - your smart speaking e-salesperson w kieÐ¿ling s holland s 0003 t ehm sigmod conference   2001.0 
+the rubicon of smart data r king  vldb 2002.0 
+caching technologies for web applications 2001 c mohan vldb  
+cost-based optimization of decision support queries using transient views s subramanian s venkataraman sigmod conference 1998    
+reminiscences on influential papers 2002    
+fast-start : quick fault recovery in oracle sigmod conference t lahiri a ganesh r weiss a joshi  2001.0 
+reminiscences on influential papers 1998    
+the oracle warehouse 1995 g hallmark vldb  
+discovery of influence sets in frequently updated databases i stanoi m riedewald d agrawal a abbadi 2001  vldb  
+semantic web workshop : models architectures and management 2001    
+shore : combining the best features of oodbms and file systems sigmod conference s team  1995.0 
+incorporating xsl processing into database engines g moerkotte 2002  vldb  
+optimizing view queries in rolex to support navigable result trees p bohannon s ganguly h korth p narayan p shenoy vldb 2002.0 
+a low-cost storage server for movie on demand databases b Ð¶zden a biliris r rastogi a silberschatz vldb 1994    
+content-based image indexing t chiueh 1994  vldb  
+overview of the stanford real-time information processor ( strip ) sigmod record b adelberg b kao h garcia-molina  1996.0 
+foundations of preferences in database systems w kieÐ¿ling 2002  vldb  
+i/o-conscious data preparation for large-scale web search engines m lifantsev t chiueh vldb 2002    
+exact indexing of dynamic time warping e keogh vldb 2002    
+optimizing the secure evaluation of twig queries s cho s amer-yahia l lakshmanan d srivastava  vldb 2002.0 
+using latency-recency profiles for data delivery on the web l bright l raschid vldb   2002.0 
+approximate join processing over data streams sigmod conference 2003 a das j gehrke m riedewald   
+detection and classification of intrusions and faults using sequences of system calls 2001 j cabrera l lewis r mehra sigmod record  
+translating web data vldb 2002 l popa y velegrakis r miller m hernÑndez r fagin   
+a survey and critique of advanced transaction models c mohan sigmod conference 1994.0 
+secure buffering in firm real-time database systems b george j haritsa vldb   1998.0 
+locally adaptive dimensionality reduction for indexing large time series databases sigmod conference e keogh k chakrabarti s mehrotra m pazzani  2001.0 
+applying database visualization to the world wide web m hasan a mendelzon d vista sigmod record 1996.0 
+reminiscences on influential papers 2001    
+semantics for update rule programs and implementations in a relational database management system l raschid j lobo 1996  acm trans . database syst .  
+predictive dynamic load balancing of parallel and distributed rule and query processing h dewan s stolfo m hernÑndez j hwang sigmod conference 1994.0 
+materialized views in oracle r bello k dias a downing j jr. j finnerty w norcott h sun a witkowski m ziauddin vldb 1998.0 
+minimization of tree pattern queries s amer-yahia s cho l lakshmanan d srivastava  sigmod conference 2001.0 
+lineage tracing for general data warehouse transformations y cui j widom vldb 2001.0 
+using the golden rule of sampling for query estimation y wu d agrawal a abbadi  sigmod conference 2001.0 
+qualified answers that reflect user needs and preferences t gaasterland j lobo 1994  vldb  
+efficient resumption of interrupted warehouse loads 2000 w labio j wiener h garcia-molina v gorelik sigmod conference  
+oracle rdb 's record caching model 1998 r anderson g arun r frank sigmod conference  
+reminiscences on influential papers   2002.0 
+automated resolution of semantic heterogeneity in multidatabases acm trans . database syst . 1994 m bright a hurson s pakzad   
+tracing the lineage of view data in a warehousing environment y cui j widom j wiener acm trans . database syst . 2000    
+oracle 's symmetric replication technology and implications for application design sigmod conference d daniels l doo a downing c elsbernd g hallmark s jain b jenkins p lim g smith b souder j stamos  1994.0 
+sybase replication server a gorelik y wang m deppe sigmod conference 1994    
+the strip rule system for efficiently maintaining derived data b adelberg h garcia-molina j widom sigmod conference 1997.0 
+the myriad federated database prototype s hwang e lim h yang s musukula k mediratta m ganesh d clements j stenoien j srivastava sigmod conference   1994.0 
+ensuring consistency in multidatabases by preserving two-level serializability 1998 s mehrotra r rastogi h korth a silberschatz acm trans . database syst .  
+dwms : data warehouse management system n mohan 1996  vldb  
+hardware acceleration for spatial selections and joins c sun d agrawal a abbadi  sigmod conference 2003.0 
+calls for papers and announcements sigmod record   1995.0 
+cache coherency in oracle parallel server b klots vldb 1996.0 
+information gathering in the world-wide web : the w3ql query language and the w3qs system d konopnicki o shmueli acm trans . database syst . 1998.0 
+composing xsl transformations with xml publishing views sigmod conference 2003 c li p bohannon h korth p narayan   
+efficient view maintenance at data warehouses d agrawal a abbadi a singh t yurek sigmod conference 1997.0 
+optimizing multi-feature queries for image databases u gÑntzer w balke w kieÐ¿ling 2000  vldb  
+reminiscences on influential papers   2003.0 
+fault-tolerant architectures for continuous media servers b Ð¶zden r rastogi p shenoy a silberschatz sigmod conference   1996.0 
+on periodic resource scheduling for continuous-media databases m garofalakis b Ð¶zden a silberschatz  vldb j. 1998.0 
+optimizing queries on compressed bitmaps vldb 2000 s amer-yahia t johnson   
+logical and physical versioning in main memory databases r rastogi s seshadri p bohannon d leinbaugh a silberschatz s sudarshan 1997  vldb  
+oracle xml db repository sigmod conference v krishnamurthy  2003.0 
+the whips prototype for data warehouse creation and maintenance sigmod conference 1997 w labio y zhuge j wiener h gupta h garcia-molina j widom   
+secure bufering in firm real-time database systems b george j haritsa vldb j.   2000.0 
+processing set expressions over continuous update streams s ganguly m garofalakis r rastogi sigmod conference   2003.0 
+the oracle universal server buffer w bridge a joshi m keihl t lahiri j loaiza n macnaughton vldb 1997.0 
+schema mapping as query discovery vldb 2000 r miller l haas m hernÑndez   
+the clio project : managing heterogeneity sigmod record r miller m hernÑndez l haas l yan c ho r fagin l popa  2001.0 
+resource scheduling in enhanced pay-per-view continuous media databases m garofalakis b Ð¶zden a silberschatz 1997  vldb  
+local dimensionality reduction : a new approach to indexing high dimensional spaces vldb k chakrabarti s mehrotra  2000.0 
+parametric query optimization vldb j. 1997 y ioannidis r ng k shim t sellis   
+concurrency control in hierarchical multidatabase systems s mehrotra h korth a silberschatz vldb j. 1997    
+reminiscences on influential papers 2001    
+concurrency in the data warehouse r taylor vldb 2000.0 
+calls for papers and announcements sigmod record   1995.0 
+replication : db2 oracle or sybase ? d stacey sigmod record 1995    
+parallel query scheduling and optimization with time - and space-shared resources m garofalakis y ioannidis vldb 1997    
+secure transaction processing in firm real-time database systems b george j haritsa  sigmod conference 1997.0 
+efficient concurrency control in multidimensional access methods 1999 k chakrabarti s mehrotra sigmod conference  
+reminiscences on influential papers   2003.0 
+efficient integration and aggregation of historical information m riedewald d agrawal a abbadi 2002  sigmod conference  
+text databases : a survey of text models and systems a loeffen sigmod record   1994.0 
+lineage tracing for general data warehouse transformations y cui j widom vldb j. 2003.0 
+rolex : relational on-line exchange with xml p bohannon x dong s ganguly h korth c li p narayan p shenoy 2003  sigmod conference  
+reminiscences on influential papers   2003.0 
+tree pattern query minimization 2002 s amer-yahia s cho l lakshmanan d srivastava vldb j.  
+automatic discovery of language models for text databases j callan m connell a du sigmod conference 1999.0 
+applying database technology in the adsm mass storage system l cabrera r rees w hineman vldb 1995    
+lockx : a system for efficiently querying secure xml s cho s amer-yahia l lakshmanan d srivastava 2003  sigmod conference  
+locally adaptive dimensionality reduction for indexing large time series databases 2002 k chakrabarti e keogh s mehrotra m pazzani acm trans . database syst .  
+pix : exact and approximate phrase matching in xml 2003 s amer-yahia m fernandez d srivastava y xu sigmod conference  
+calls for papers / announcements sigmod record 1994    
+datablitz storage manager : main memory database performance for critical applications j baulier p bohannon s gogate c gupta s haldar s joshi a khivesera h korth p mcilroy j miller p narayan m nemeth r rastogi s seshadri a silberschatz s sudarshan m wilder c wei 1999  sigmod conference  
+query processing and optimization in oracle rdb 1996 g antoshenkov m ziauddin vldb j.  
+reminiscences on influential papers 1999    
+xml schemas in oracle xml db r murthy s banerjee  vldb 2003.0 
+parallelising oodbms traversals : a performance evaluation d dewitt j naughton j shafer s venkataraman vldb j. 1996    
+query optimization for selections using bitmaps sigmod conference 1999 m wu   
+multi-dimensional resource scheduling for parallel queries m garofalakis y ioannidis sigmod conference 1996    
+querying network directories sigmod conference h jagadish l lakshmanan t milo d srivastava d vista  1999.0 
+calls for papers / announcements sigmod record   1994.0 

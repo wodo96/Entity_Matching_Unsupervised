@@ -1,0 +1,131 @@
+efficiently instantiating view-objects from remote relational databases b lee g wiederhold vldb j.   1994.0 
+a database system for real-time event aggregation in telecommunication j baulier s blott h korth a silberschatz  vldb 1998.0 
+statix : making xml count j freire j haritsa m ramanath p roy j simÑon sigmod conference 2002    
+fastmap : a fast algorithm for indexing data-mining and visualization of traditional and multimedia datasets c faloutsos k lin  sigmod conference 1995.0 
+extracting entity profiles from semistructured information spaces r nado s huffman 1997  sigmod record  
+from focused crawling to expert information : an application framework for web exploration and portal generation vldb 2003 s sizov j graupmann m theobald   
+sampling large databases for association rules 1996 h toivonen vldb  
+copy detection mechanisms for digital documents s brin j davis h garcia-molina sigmod conference 1995    
+sampling-based estimation of the number of distinct values of an attribute 1995 p haas j naughton s seshadri l stokes vldb  
+enterprise transaction processing on windows nt g hope  sigmod conference 1995.0 
+minimal probing : supporting expensive predicates for top-k queries 2002 k chang s hwang sigmod conference  
+on the costs of multilingualism in database systems 2003 a kumaran j haritsa vldb  
+a quantitative analysis and performance study for similarity-search methods in high-dimensional spaces r weber h schek s blott vldb 1998.0 
+garlic : a new flavor of federated query processing for db2 sigmod conference 2002 v josifovski p schwarz l haas e lin   
+quadtree and r-tree indexes in oracle spatial : a comparison using gis data k kanth s ravada d abugov sigmod conference 2002.0 
+recovery protocols for shared memory database systems l molesky k ramamritham sigmod conference 1995    
+data bubbles for non-vector data : speeding-up hierarchical clustering in arbitrary metric spaces j zhou j sander vldb 2003.0 
+querying a multilevel database : a logical analysis f cuppens 1996  vldb  
+using schema matching to simplify heterogeneous data translation t milo s zohar  vldb 1998.0 
+converting relational to object-oriented databases sigmod record 1997 j fong   
+extraction of object-oriented structures from existing relational databases s ramanathan j hodges sigmod record 1997.0 
+leo - db2 's learning optimizer m stillger g lohman v markl m kandil vldb 2001    
+learning table access cardinalities with leo 2002 v markl g lohman sigmod conference  
+combining fuzzy information : an overview r fagin  sigmod record 2002.0 
+dynamic maintenance of data distribution for selectivity estimation k whang s kim g wiederhold  vldb j. 1994.0 
+indexing medium-dimensionality data in oracle sigmod conference k kanth s ravada j sharma j banerjee  1999.0 
+an almost-serial protocol for transaction execution in main-memory database systems 2002 s blott h korth vldb  
+distinct sampling for highly-accurate answers to distinct values queries and event reports vldb p gibbons  2001.0 
+data bubbles : quality preserving performance boosting for hierarchical clustering sigmod conference 2001 m breunig h kriegel p krÑger j sander   
+fas - a freshness-sensitive coordination middleware for a cluster of olap components vldb 2002 u rÑhm k bÑhm h schek h schuldt   
+sql/med - a status report j melton j michels v josifovski k kulkarni p schwarz sigmod record 2002.0 
+discovering web services : an overview vldb v draluk  2001.0 
+sql memory management in oracle9i b dageville m zaÑt 2002  vldb  
+querying shapes of histories r agrawal g psaila e wimmers m zaÑt vldb 1995    
+fast evaluation techniques for complex similarity queries vldb 2001 k bÑhm m mlivoncic h schek r weber   
+an automated system for web portal personalization c aggarwal p yu vldb 2002.0 
+near neighbor search in large metric spaces vldb s brin  1995.0 
+algorithms for mining distance-based outliers in large datasets vldb 1998 e knorr r ng   
+scientific journals : extinction or explosion ? ( panel ) vldb 1995 r ramakrishnan h garcia-molina g rossbach a silberschatz g wiederhold j zijlstra   
+a database index to large biological sequences e hunt m atkinson r irving vldb 2001.0 
+the p operator : discovering and ranking associations on the semantic web k anyanwu a sheth 2002  sigmod record  
+data-driven understanding and refinement of schema mappings l yan r miller l haas r fagin 2001  sigmod conference  
+dimensionality reduction for similarity searching in dynamic databases k kanth d agrawal a singh 1998  sigmod conference  
+use of a component architecture in integrating relational and non-relational storage systems r atkinson 1995  sigmod conference  
+metrics for accessing heterogeneous data : is there any hope ? ( panel ) vldb 1995 l seligman n belkin e neuhold m stonebraker g wiederhold   
+enhanced hypertext categorization using hyperlinks sigmod conference s chakrabarti b dom p indyk  1998.0 
+legodb : customizing relational storage for xml documents p bohannon j freire j haritsa m ramanath p roy j simÑon vldb   2002.0 
+report on the edbt '02 panel on scientific data integration 2002    
+storage technology : raid and beyond 1995    
+semantic integration in heterogeneous databases using neural networks w li c clifton vldb   1994.0 
+integration of heterogeneous databases without common domains using queries based on textual similarity sigmod conference 1998 w cohen   
+fast and accurate text classification via multiple linear discriminant projections s chakrabarti s roy m soundalgekar  vldb 2002.0 
+a 20/20 vision of the vldb-2020 ? s deen a jhingran s navathe e neuhold g wiederhold  vldb 2000.0 
+referee : an open framework for practical testing of recommender systems using researchindex d cosley s lawrence d pennock vldb 2002.0 
+new sampling-based summary statistics for improving approximate query answers sigmod conference p gibbons y matias  1998.0 
+integrating mining with relational database systems : alternatives and implications s sarawagi s thomas r agrawal 1998  sigmod conference  
+semint : a system prototype for semantic integration in heterogeneous databases w li c clifton  sigmod conference 1995.0 
+plan selection based on query clustering a ghosh j parikh v sengar j haritsa 2002  vldb  
+groupwise processing of relational queries vldb 1997 d chatziantoniou k ross   
+aries/csa : a method for database recovery in client-server architectures c mohan i narang sigmod conference   1994.0 
+spartan : a model-based semantic compression system for massive data tables sigmod conference 2001 s babu m garofalakis r rastogi   
+continuous queries over data streams s babu j widom sigmod record   2001.0 
+caprera : an activity framework for transaction processing on wide-area networks s kumar e kwang d agrawal vldb 1997    
+fast time sequence indexing for arbitrary lp norms b yi c faloutsos 2000  vldb  
+efficient testing of high performance transaction processing systems d wildfogel r yerneni vldb 1997    
+main-memory index structures with fixed-size partial keys p bohannon p mcilroy r rastogi sigmod conference 2001    
+distributed top-k monitoring sigmod conference b babcock c olston  2003.0 
+providing database-like access to the web using queries based on textual similarity sigmod conference w cohen  1998.0 
+efficient similarity search and classification via rank aggregation r fagin r kumar d sivakumar sigmod conference 2003.0 
+ratio rules : a new paradigm for fast quantifiable data mining f korn a labrinidis y kotidis c faloutsos vldb 1998.0 
+mining surprising patterns using temporal description length s chakrabarti s sarawagi b dom vldb 1998.0 
+estimating compilation time of a query optimizer i ilyas j rao g lohman d gao e lin sigmod conference   2003.0 
+microsoft universal data access platform j blakeley m pizzo 1998  sigmod conference  
+supporting global user profiles through trusted authorities i cingil 2002  sigmod record  
+intelligent rollups in multidimensional olap data g sathe s sarawagi  vldb 2001.0 
+fast and accurate text classification via multiple linear discriminant projections pp vldb j. s chakrabarti s roy m soundalgekar  2003.0 
+to table or not to table : a hypertabular answer g santucci l tarantino  sigmod record 1996.0 
+information communication and money : for what can we charge and how can we meter it ? vldb s blott h korth a silberschatz  1998.0 
+the prototype of the dare system 2001 t catarci g santucci sigmod conference  
+range queries in olap data cubes c ho r agrawal n megiddo r srikant sigmod conference   1997.0 
+a framework for expressing and combining preferences r agrawal e wimmers sigmod conference   2000.0 
+oracle media server : providing consumer based interactive access to multimedia data a laursen j olkin m porter 1994  sigmod conference  
+atomicity and isolation for transactional processes acm trans . database syst . 2002 h schuldt g alonso c beeri h schek   
+adaptive filters for continuous queries over distributed data streams c olston j jiang j widom  sigmod conference 2003.0 
+focused crawling using context graphs m diligenti f coetzee s lawrence c giles m gori  vldb 2000.0 
+dlfm : a transactional resource manager h hsiao i narang  sigmod conference 2000.0 
+efficiently supporting ad hoc queries in large datasets of time sequences 1997 f korn h jagadish c faloutsos sigmod conference  
+expressing business rules sigmod conference 2000 r ross   
+query by diagram : a graphical environment for querying databases 1994 t catarci g santucci sigmod conference  
+sql/cli - a new binding style for sql m venkatrao m pizzo 1995  sigmod record  
+data access for the masses through ole db sigmod conference j blakeley  1996.0 
+user-adaptive exploration of multidimensional data vldb s sarawagi  2000.0 
+lof : identifying density-based local outliers sigmod conference m breunig h kriegel r ng j sander  2000.0 
+a research status report on adaptation for mobile data access b noble m satyanarayanan sigmod record 1995.0 
+mapping extended entity relationship model to object modeling technique j fong  sigmod record 1995.0 
+quantifiable data mining using ratio rules f korn a labrinidis y kotidis c faloutsos  vldb j. 2000.0 
+distance-based outliers : algorithms and applications vldb j. e knorr r ng v tucakov  2000.0 
+offering a precision-performance tradeoff for aggregation queries over replicated data c olston j widom  vldb 2000.0 
+sql and management of external data j melton j michels v josifovski k kulkarni p schwarz k zeidenstein 2001  sigmod record  
+using taxonomy discriminants and signatures for navigating in text databases s chakrabarti b dom r agrawal p raghavan  vldb 1997.0 
+graphical interaction with heterogeneous databases vldb j. t catarci g santucci j cardiff  1997.0 
+revisiting commit processing in distributed database systems 1997 r gupta j haritsa k ramamritham sigmod conference  
+scalable feature selection classification and signature generation for organizing large text databases into hierarchical topic taxonomies s chakrabarti b dom r agrawal p raghavan  vldb j. 1998.0 
+on schema matching with opaque column names and data values j kang j naughton 2003  sigmod conference  
+re-designing distance functions and distance-based applications for high dimensional data c aggarwal sigmod record 2001.0 
+spectral bloom filters s cohen y matias 2003  sigmod conference  
+database indexing for large dna and protein sequence collections e hunt m atkinson r irving vldb j. 2002.0 
+best-effort cache synchronization with source cooperation c olston j widom sigmod conference   2002.0 
+archiving scientific data p buneman s khanna k tajima w tan sigmod conference 2002    
+i3 : intelligent interactive investigaton of olap data cubes 2000 s sarawagi g sathe sigmod conference  
+plastic : reducing query optimization overheads through plan recycling sigmod conference 2003 v sengar j haritsa   
+fast similarity search in the presence of noise scaling and translation in time-series databases r agrawal k lin h sawhney k shim 1995  vldb  
+repeating history beyond aries vldb c mohan  1999.0 
+discovering all most specific sentences acm trans . database syst . 2003 d gunopulos r khardon h mannila s saluja h toivonen r sharm   
+bifocal sampling for skew-resistant join size estimation s ganguly p gibbons y matias a silberschatz sigmod conference 1996.0 
+querying multiple features of groups in relational databases d chatziantoniou k ross 1996  vldb  
+user-cognizant multidimensional analysis vldb j. s sarawagi  2001.0 
+modeling skewed distribution using multifractals and the ` 80-20 ' law c faloutsos y matias a silberschatz vldb 1996.0 
+integrating and customizing heterogeneous e-commerce applications a eyal t milo vldb j.   2001.0 
+the garlic project m roth m arya l haas m carey w cody r fagin p schwarz j ii e wimmers sigmod conference   1996.0 
+analysis of existing databases at the logical level : the dba companion project f marchi s lopes j petit f toumani 2003  sigmod record  
+distributed hypertext resource discovery through examples s chakrabarti m berg b dom 1999  vldb  
+finding intensional knowledge of distance-based outliers vldb 1999 e knorr r ng   
+improving performance with bulk-inserts in oracle r-trees n an k kanth s ravada vldb 2003    
+automating physical database design in a parallel database j rao c zhang n megiddo g lohman sigmod conference   2002.0 
+hyperfile : a data and query model for documents c clifton h garcia-molina d bloom vldb j. 1995.0 
+data compression in oracle 2003 m pÑss d potapov vldb  
+ordered shared locks for real-time databases 1995 d agrawal a abbadi r jeffers l lin vldb j.  
+static detection of security flaws in object-oriented databases 1996 k tajima sigmod conference  
+coordinating backup/recovery and data consistency between database and file systems sigmod conference s bhattacharya c mohan k brannon i narang h hsiao m subramanian  2002.0 
+optics : ordering points to identify the clustering structure m ankerst m breunig h kriegel j sander  sigmod conference 1999.0 

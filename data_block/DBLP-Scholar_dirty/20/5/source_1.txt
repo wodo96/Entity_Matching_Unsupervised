@@ -1,0 +1,131 @@
+the semantic web : semantics for data on the web 2003    
+editor 's notes l liu 2002  sigmod record  
+chair 's message   1997.0 
+editor 's notes l liu sigmod record   2003.0 
+s-topss : semantic toronto publish/subscribe system m petrovic i burcea h jacobsen 2003  vldb  
+data mining : practical machine learning tools and techniques - book review sigmod record 2002 j geller   
+editor 's notes m franklin sigmod record 1997    
+databases and transaction processing : an application-oriented approach - book review sigmod record 2002 a kemper   
+chair 's message 2002    
+workshop on workflow management in scientific and engineering applications - report 1997    
+supporting incremental join queries on ranked inputs vldb 2001 a natsev y chang j smith c li j vitter   
+chair 's message 1997    
+mind your vocabulary : query mapping across heterogeneous information sources k chang h garcia-molina sigmod conference 1999.0 
+editor 's notes sigmod record 2002 l liu   
+editor 's notes l liu sigmod record 2002    
+scheduling for shared window joins over data streams m hammad m franklin w aref a elmagarmid 2003  vldb  
+chair 's message   2002.0 
+call for book reviews   2003.0 
+managing web data 1999    
+report on the first international conference on ontologies databases and applications of semantics 2003    
+editor 's notes   1997.0 
+data warehousing and business intelligence for e-commerce - book review f goethals sigmod record 2002.0 
+data mining : concepts and techniques - book review f galiano n marÑn sigmod record   2002.0 
+managing business processes via workflow technology 2001    
+coarse-grained optimization : techniques for rewriting sql statement sequences t kraft h schwarz r rantzau b mitschang 2003  vldb  
+processing sliding window multi-joins in continuous queries over data streams l golab m Ð¶zsu  vldb 2003.0 
+chair 's message 1998    
+chair 's message   2002.0 
+algebraic change propagation for semijoin and outerjoin queries t griffin b kumar 1998  sigmod record  
+treasurer 's message   2002.0 
+discover : keyword search in relational databases 2002 v hristidis y papakonstantinou vldb  
+editor 's notes m franklin sigmod record   1998.0 
+ontologies : a silver bullet for knowledge management and electronic commerce - book review   2002.0 
+joining ranked inputs in practice i ilyas w aref a elmagarmid 2002  vldb  
+small worlds : the dynamics of networks between order and randomness - book review   2002.0 
+report on the second ieee metadata conference ( metadata ' 97 )   1998.0 
+chair 's message   1998.0 
+editor 's notes 2002 l liu sigmod record  
+editor 's notes m franklin  sigmod record 1997.0 
+champagne : data change propagation for heterogeneous information systems r rantzau c constantinescu u heinkel h meinecke vldb 2002.0 
+generic schema matching with cupid j madhavan p bernstein e rahm  vldb 2001.0 
+grid data management systems & services   2003.0 
+optimization algorithms for exploiting the parallelism-communication tradeoff in pipelined parallelism w hasan r motwani 1994  vldb  
+design and development of a stream service in a heterogenous client environment vldb 2000 n pappas s christodoulakis   
+open issues in parallel query optimization sigmod record 1996 w hasan d florescu p valduriez   
+approximate query translation across heterogeneous information sources vldb k chang h garcia-molina  2000.0 
+editor 's notes j widom sigmod record   1996.0 
+editor 's notes 2001    
+editor 's notes sigmod record l liu  2001.0 
+challenges for global information systems a levy a silberschatz d srivastava m zemankova 1994  vldb  
+treasurer 's message   2001.0 
+a scalable algorithm for answering queries using views r pottinger a levy 2000  vldb  
+chair 's message 2001    
+pc database systems - present and future p bernstein  vldb 1994.0 
+editor 's notes sigmod record 2001 l liu   
+coma - a system for flexible combination of schema matching approaches vldb h do e rahm  2002.0 
+chair 's message   2001.0 
+scientific databases - state of the art and future directions vldb m zemankova y ioannidis  1994.0 
+a framework for implementing hypothetical queries sigmod conference t griffin r hull  1997.0 
+prefer : a system for the efficient execution of multi-parametric ranked queries v hristidis n koudas y papakonstantinou 2001  sigmod conference  
+information warfare and security - book review 2001    
+treasurer 's message 2000    
+modularization techniques for active rules design e baralis s ceri s paraboschi acm trans . database syst . 1996    
+editor 's notes jennifer widom sigmod record   1996.0 
+editor 's notes j widom sigmod record 1996    
+nonstop sql : scalability and availability for decision support sigmod conference 1994 s englert   
+dynamic load balancing in hierarchical parallel database systems 1996 l bouganim d florescu p valduriez vldb  
+answering queries with aggregation using views 1996 d srivastava s dar h jagadish a levy vldb  
+editor 's notes m franklin sigmod record   1999.0 
+chair 's message   2000.0 
+an algebraic approach to static analysis of active database rules acm trans . database syst . 2000 e baralis j widom   
+panel : is generic metadata management feasible ? vldb 2000 p bernstein l haas m jarke e rahm g wiederhold   
+data grid management systems a jagatheesan a rajasekar 2003  sigmod conference  
+editor 's notes l liu  sigmod record 2003.0 
+metadata in video databases r jain a hampapur  sigmod record 1994.0 
+editor 's notes m franklin sigmod record 2000    
+sigmod digital symposium collection ( disc ) editor 's message 2000    
+sigmod ' 2000 program chair 's message   2000.0 
+sigmod anthology editor 's message 2000    
+chair 's message 2000    
+parallelism and its price : a case study of nonstop sql/mp sigmod record 1995 s englert r glasstone w hasan   
+vice chair 's message 2000    
+specification and implementation of exceptions in workflow management systems f casati s ceri s paraboschi g pozzi acm trans . database syst . 1999    
+nonstop sql/mx publish/subscribe : continuous data streams in transaction processing h zeller sigmod conference 2003.0 
+editor 's notes 2000 m franklin sigmod record  
+merging ranks from heterogeneous internet sources l gravano h garcia-molina vldb   1997.0 
+theory of answering queries using views a halevy sigmod record 2000    
+introduction ( special issue on multimedia databases ) 1998 m Ð¶zsu s christodoulakis vldb j.  
+the future of web services - i a bosworth sigmod conference   2003.0 
+editor 's notes j widom sigmod record   1995.0 
+the future of web services - ii f cabrera 2003  sigmod conference  
+editor 's notes sigmod record m franklin  2000.0 
+hypothetical queries in an olap environment a balmin t papadimitriou y papakonstantinou 2000  vldb  
+treasurer 's message   2003.0 
+a vision of management of complex models p bernstein a halevy r pottinger  sigmod record 2000.0 
+chair 's message 2000    
+chair 's message 2003    
+editor 's notes 1995 j widom sigmod record  
+chair 's message   2001.0 
+rondo : a programming platform for generic model management s melnik e rahm p bernstein sigmod conference 2003    
+editor 's notes l liu sigmod record 2003    
+statistical schema matching across web query interfaces 2003 b he k chang sigmod conference  
+editor 's notes l liu sigmod record 2003.0 
+editor 's notes m franklin sigmod record 1998.0 
+answering queries using views : a survey a halevy 2001  vldb j.  
+chair 's message 1998    
+new partnership with acm and update on the journal m Ð¶zsu vldb j. 2003    
+editor 's notes m franklin 1998  sigmod record  
+coloring away communication in parallel query optimization w hasan r motwani 1995  vldb  
+statement from the treasurer e hanson 1999  sigmod record  
+issues in data stream management sigmod record 2003 l golab m Ð¶zsu   
+chair 's message   2003.0 
+a survey of approaches to automatic schema matching e rahm p bernstein 2001  vldb j.  
+semantic video indexing : approach and issue sigmod record 1999 a hampapur   
+editor 's notes a segev 1994  sigmod record  
+minicon : a scalable algorithm for answering queries using views vldb j. r pottinger a halevy  2001.0 
+chair 's message   1999.0 
+merging models based on given correspondences r pottinger p bernstein vldb 2003.0 
+chair 's message 1999    
+vice chair 's message 1999    
+supporting top-k join queries in relational databases i ilyas w aref a elmagarmid 2003  vldb  
+towards adaptive workflow systems cscw-98 workshop report 1999    
+editor 's notes sigmod record m franklin  1999.0 
+data management issues in electronic commerce ( panel ) m Ð¶zsu sigmod conference 1999.0 
+editor 's notes m franklin sigmod record 1999    
+dynamic load balancing for parallel association rule mining on heterogenous pc cluster systems m tamura m kitsuregawa vldb 1999.0 
+editor 's notes a segev sigmod record 1994.0 
+efficient ir-style keyword search over relational databases v hristidis l gravano y papakonstantinou 2003  vldb  
+a system for keyword proximity search on xml databases vldb 2003 a balmin v hristidis n koudas y papakonstantinou d srivastava t wang   
+grid and applications ( industrial session ) vldb 2003 f leymann   
+web services ( industrial session ) f cabrera  vldb 2003.0 

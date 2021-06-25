@@ -1,0 +1,131 @@
+datablitz : a high performance main-memory storage manager j baulier p bohannon s gogate s joshi c gupta a khivesera h korth p mcilroy j miller p narayan m nemeth r rastogi a silberschatz s sudarshan vldb 1998 
+adapting materialized views after redefinitions a gupta i mumick k ross sigmod conference 1995 
+chair 's message   1997 
+managing intra-operator parallelism in parallel database systems m mehta d dewitt vldb 1995 
+workflow management with service quality guarantees m gillmann g weikum w wonner sigmod conference 2002 
+chair 's message   2002 
+carnot and infosleuth : database technology and the world wide web d woelk w bohrer n jacobs k ong c tomlinson c unnikrishnan sigmod conference 1995 
+statistical synopses for graph-structured xml databases n polyzotis m garofalakis sigmod conference 2002 
+db2 query parallelism : staging and implementation y wang vldb 1995 
+chair 's message   1997 
+optimized query execution in large search engines with global page ordering x long t suel vldb 2003 
+wavelet synopses with error guarantees m garofalakis p gibbons sigmod conference 2002 
+db2 common server : technology progress & directions b lindsay vldb 1995 
+load shedding in a data stream manager n tatbul u Ñetintemel s zdonik m cherniack m stonebraker vldb 2003 
+leo - db2 's learning optimizer m stillger g lohman v markl m kandil vldb 2001 
+chair 's message   2002 
+learning table access cardinalities with leo v markl g lohman sigmod conference 2002 
+sprint : a scalable parallel classifier for data mining j shafer r agrawal m mehta vldb 1996 
+optimal histograms with quality guarantees h jagadish n koudas s muthukrishnan v poosala k sevcik t suel vldb 1998 
+inferring function semantics to optimize queries m cherniack s zdonik vldb 1998 
+improving adaptable similarity query processing by using approximations m ankerst b braunmÑller h kriegel t seidl vldb 1998 
+dalÑ : a high performance main memory storage manager h jagadish d lieuwen r rastogi a silberschatz s sudarshan vldb 1994 
+chair 's message   1998 
+bitmap index design and evaluation c chan y ioannidis sigmod conference 1998 
+data staging for on-demand broadcast d aksoy m franklin s zdonik vldb 2001 
+chair 's message   2002 
+treasurer 's message   2002 
+bit-sliced index arithmetic d rinfret p o'neil e o'neil sigmod conference 2001 
+epsilon grid order : an algorithm for the similarity join on massive high-dimensional data c bÑhm b braunmÑller f krebs h kriegel sigmod conference 2001 
+information integration and xml in ibm 's db2 p selinger vldb 2002 
+toward autonomic computing with db2 universal database s lightstone g lohman d zilio sigmod record 2002 
+smart : making db2 ( more ) autonomic g lohman s lightstone vldb 2002 
+interview with david maier   2002 
+chair 's message   1998 
+changing the rules : transformations for rule-based optimizers m cherniack s zdonik sigmod conference 1998 
+design implementation and performance of the lham log-structured history data access method p muth p o'neil a pick g weikum vldb 1998 
+data management for pervasive computing m cherniack m franklin s zdonik vldb 2001 
+query optimization by predicate move-around a levy i mumick y sagiv vldb 1994 
+materialized view selection and maintenance using multi-query optimization h mistry p roy s sudarshan k ramamritham sigmod conference 2001 
+garbage collection in object oriented databases using transactional cyclic reference counting s ashwin p roy s seshadri a silberschatz s sudarshan vldb 1997 
+efficient filtering of xml documents for selective dissemination of information m altinel m franklin vldb 2000 
+monitoring streams - a new class of data management applications d carney u Ñetintemel m cherniack c convey s lee g seidman m stonebraker n tatbul s zdonik vldb 2002 
+ensuring relaxed atomicity for flexible transactions in multidatabase systems a zhang m nodine b bhargava o bukhres sigmod conference 1994 
+updates for structure indexes r kaushik p bohannon j naughton p shenoy vldb 2002 
+on the academic interview circuit : an end-to-end discussion u Ñetintemel sigmod record 2001 
+independence is good : dependency-based histogram synopses for high-dimensional data a deshpande m garofalakis r rastogi sigmod conference 2001 
+structure and value synopses for xml data graphs n polyzotis m garofalakis vldb 2002 
+treasurer 's message   2001 
+chair 's message   2001 
+main-memory index structures with fixed-size partial keys p bohannon p mcilroy r rastogi sigmod conference 2001 
+chair 's message   2001 
+efficient checking of temporal integrity constraints using bounded history encoding j chomicki acm trans . database syst . 1995 
+implementation of magic-sets in a relational database system i mumick h pirahesh sigmod conference 1994 
+estimating compilation time of a query optimizer i ilyas j rao g lohman d gao e lin sigmod conference 2003 
+treasurer 's message   2000 
+fast parallel similarity search in multimedia databases s berchtold c bÑhm b braunmÑller d keim h kriegel sigmod conference 1997 
+spatial data management for computer aided design h kriegel a mÑller m pÑtke t seidl sigmod conference 2001 
+aurora : a new model and architecture for data stream management d abadi d carney u Ñetintemel m cherniack c convey s lee m stonebraker n tatbul s zdonik vldb j. 2003 
+interview with avi silberschatz   2002 
+efficient resumption of interrupted warehouse loads w labio j wiener h garcia-molina v gorelik sigmod conference 2000 
+practical predicate placement j hellerstein sigmod conference 1994 
+infosleuth : semantic integration of information in open and dynamic environments ( experience paper ) r jr. w bohrer r brice a cichocki j fowler a helal v kashyap t ksiezyk g martin m nodine m rashid m rusinkiewicz r shea c unnikrishnan a unruh d woelk sigmod conference 1997 
+object-oriented features of db2 client/server h pirahesh sigmod conference 1994 
+size separation spatial join n koudas k sevcik sigmod conference 1997 
+relaxed transaction processing m singh c tomlinson d woelk sigmod conference 1994 
+temporal statement modifiers m bÑhlen c jensen r snodgrass acm trans . database syst . 2000 
+coalescing in temporal databases m bÑhlen r snodgrass m soo vldb 1996 
+sybase replication server a gorelik y wang m deppe sigmod conference 1994 
+efficient and extensible algorithms for multi query optimization p roy s seshadri s sudarshan s bhobe sigmod conference 2000 
+range queries in olap data cubes c ho r agrawal n megiddo r srikant sigmod conference 1997 
+chair 's message   2000 
+aurora : a data stream management system d abadi d carney u Ñetintemel m cherniack c convey c erwin e galvez m hatoun a maskey a rasin a singer m stonebraker n tatbul y xing r yan s zdonik sigmod conference 2003 
+improved query performance with variant indexes p o'neil d quass sigmod conference 1997 
+efficient snapshot differential algorithms for data warehousing w labio h garcia-molina vldb 1996 
+querying atsql databases with temporal logic j chomicki d toman m bÑhlen acm trans . database syst . 2001 
+filter trees for managing spatial data over a range of size granularities k sevcik n koudas vldb 1996 
+a goal-driven auto-configuration tool for the distributed workflow management system mentor-lite m gillmann j weiÐ¿enfels g shegalov w wonner g weikum sigmod conference 2000 
+sigmod digital symposium collection ( disc ) editor 's message   2000 
+sigmod ' 2000 program chair 's message   2000 
+sigmod anthology editor 's message   2000 
+chair 's message   2000 
+the mentor workbench for enterprise-wide workflow management d wodtke j weiÐ¿enfels g weikum a dittrich p muth sigmod conference 1997 
+interview with pat selinger   2003 
+managing intervals efficiently in object-relational databases h kriegel m pÑtke t seidl vldb 2000 
+vice chair 's message   2000 
+temporal database system implementations m bÑhlen sigmod record 1995 
+parallel algorithms for high-dimensional similarity joins for data mining applications j shafer r agrawal vldb 1997 
+fast joins using join indices z li k ross vldb j. 1999 
+set containment joins : the good the bad and the ugly k ramasamy j patel j naughton r kaushik vldb 2000 
+object database evolution using separation of concerns a rashid p sawyer sigmod record 2000 
+the infosleuth project r jr. w bohrer r brice a cichocki j fowler a helal v kashyap t ksiezyk g martin m nodine m rashid m rusinkiewicz r shea c unnikrishnan a unruh d woelk sigmod conference 1997 
+logical and physical versioning in main memory databases r rastogi s seshadri p bohannon d leinbaugh a silberschatz s sudarshan vldb 1997 
+on relational support for xml publishing : beyond sorting and tagging s chaudhuri r kaushik j naughton sigmod conference 2003 
+sigmod program review   2000 
+the lham log-structured history data access method p muth p o'neil a pick g weikum vldb j. 2000 
+multi-table joins through bitmapped join indices p o'neil g graefe sigmod record 1995 
+treasurer 's message   2003 
+chair 's message   2000 
+chair 's message   2003 
+data management in ecommerce : the good the bad and the ugly   2000 
+d ( k ) - index : an adaptive structural summary for graph-structured data c qun a lim k ong sigmod conference 2003 
+chair 's message   2001 
+garbage collection in object-oriented databases using transactional cyclic reference counting p roy s seshadri a silberschatz s sudarshan s ashwin vldb j. 1998 
+replication : db2 oracle or sybase ? d stacey sigmod record 1995 
+the dangers of replication and a solution j gray p helland p o'neil d shasha sigmod conference 1996 
+covering indexes for branching path queries r kaushik p bohannon j naughton h korth sigmod conference 2002 
+preference formulas in relational queries j chomicki acm trans . database syst . 2003 
+path sharing and predicate evaluation for high-performance xml filtering y diao m altinel m franklin h zhang p fischer acm trans . database syst . 2003 
+interview with rakesh agrawal   2003 
+performance measurements of compressed bitmap indices t johnson vldb 1999 
+what is the data warehousing problem ? ( are materialized views the answer ? ) a gupta i mumick vldb 1996 
+chair 's message   1998 
+interview with michael stonebraker   2003 
+hmap - a temporal data model managing intervals with different granularities and indeterminacy from natural language sentences c combi g pozzi vldb j. 2001 
+an efficient bitmap encoding scheme for selection queries c chan y ioannidis sigmod conference 1999 
+statement from the treasurer e hanson sigmod record 1999 
+chair 's message   2003 
+interview with jim gray   2003 
+agent-based semantic interoperability in infosleuth j fowler b perry m nodine b bargmeyer sigmod record 1999 
+a critique of ansi sql isolation levels h berenson p bernstein j gray j melton e o'neil p o'neil sigmod conference 1995 
+chair 's message   1999 
+dbis-toolkit : adaptable middleware for large scale data delivery m altinel d aksoy t baby m franklin w shapiro s zdonik sigmod conference 1999 
+avoiding ordering and grouping in query processing x wang m cherniack vldb 2003 
+data placement in shared-nothing parallel database systems m mehta d dewitt vldb j. 1997 
+chair 's message   1999 
+datablitz storage manager : main memory database performance for critical applications j baulier p bohannon s gogate c gupta s haldar s joshi a khivesera h korth p mcilroy j miller p narayan m nemeth r rastogi s seshadri a silberschatz s sudarshan m wilder c wei sigmod conference 1999 
+vice chair 's message   1999 
+materialized view maintenance and integrity constraint checking : trading space for time k ross d srivastava s sudarshan sigmod conference 1996 
+rule languages and internal algebras for rule-based optimizers m cherniack s zdonik sigmod conference 1996 
+automating physical database design in a parallel database j rao c zhang n megiddo g lohman sigmod conference 2002 
+operator scheduling in a data stream manager d carney u Ñetintemel a rasin s zdonik m cherniack m stonebraker vldb 2003 

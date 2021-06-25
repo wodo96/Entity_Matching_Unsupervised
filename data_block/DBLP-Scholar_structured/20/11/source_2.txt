@@ -1,0 +1,1568 @@
+too much middleware m stonebraker sigmod record   2002.0 
+tunning red for web traffic m christiansen   k jeffay   d ott   fd smith proc .  
+a sigma ~ 3 type condition for heavy cycles in weighted graphs s zhang   x li   h broersma discussiones mathematicae graph theory   2001.0 
+process specification language : an analysis of existing representations   nistir 6160   national a knutilla   c schlenoff   s ray   st polyak   a tate   md    
+understandittg activex and ole d chappell   
+babel : a testbed for research in origins of language   1998 a mcintyre submitted for  
+scalable session messages in srm using self-configuration p sharma   d estrin   s floyd   l zhang   
+contextual method for the re-design of existing software products r jones   n milic-frayling   k rodden   a blackwell   
+rainwater-harvesting agriculture for food production in arid zones : the challenge of the african hj bruins   m evenari   u nessler applied geography    
+personal communications j mao ibm almaden research center    
+correlation-dispersion method of measuring the output of a water-water power reactor ln bogachek   ka gazaryan   vv lyenkoÃÂ¢ ? ÃÂ¦ at .  
+arrangement of latches in scan-path design to improve delay fault coverage w mao   md ciletti proc . int . test conference   1990.0 
+the discovery of the individual 1050-1200 c morris   
+database decomposition into 4nf g grahne   k raiha 9th vldb    
+dictionary methods for cross-lingual information retrieval l ballesteros   wb croft lecture notes in computer science   1996.0 
+1 w 980 nm pump modules with very high efficiency b sverdlov   b schmidt   s pawlik   b mayer   c harder proc . 28th eur . conf . on optical communication    
+id 90.1 reference manual . csg memo 284-2 rs nikhil  1990.0 
+commuting with delay prone buses m datar   
+a majority consensus approach to concurrency control for multiple copy databases rh thomas acm transactions on database systems   1979.0 
+issues in co-operative software engineering using globally distributed teams i gorton   s motwani information and software technology   1996.0 
+integrating association rule mining with relational database systems : alternatives and implications / s sarawagi   s thomas   r agrawal san jose   california   usa   marz    
+r-trees : a dynamic index structure for spatial searching a guttrnan proceedings of the sigmod conference   boston   june    
+ole automation programmerÃÂ¢ ?? s reference d clark  1996.0 
+microsoft excel data analysis and business modeling wl winston  2004.0 
+msn messenger 5.0 msn messenger microsoft corporation    
+providing focus for financial management . aj falender new directions for higher education   1983.0 
+s. peyt on jones   a short-cut to deforestation a gill   j launchbury proc . acm  
+hemispheric asymmetry and emotion rj davidson approaches to emotion    
+participation in the iczm processes : mechanisms and procedures needed g king & hellip ; study for the european demonstration programme on iczm    
+a conceptual framework for the design of organizational control mechanisms wg ouchi management science   1979.0 
+value and productivity in the internet economy a barua   ab whinston   f yin   
+neural networks for identification   prediction   and control dt pham   x liu  1995.0 
+administrative arm-twisting in the shadow of congressional delegations of authority l noah wisconsin law review   1997.0 
+the colorado wind-profiling network - a summary of performance rg strauch   kb earnshaw   da merritt   kp moran   k conference on radar meteorology   22 nd   zurich   switzerland   1984.0 
+low thrust ion propulsion : development activity at profiel tecnologie gf cirri   g matticari   g noci   g perrotta   mf ross proceedings of the 23rd international electric propulsion & hellip ;    
+preparation for the role of teacher as part of induction into faculty life and work s johnston new directions for teaching and learning   1997.0 
+loading data in description reasoners . acm sigmod intern a borgida   rj brachman conference on management of data ( washington   dc   usa   1993 )  
+distance browsing in spatial databases gr hjaltason   h samet acm transactions on database systems   1999.0 
+modell des langwelligen strahlungsaustauschs und idealer regler fÃÂ£ 1/4 r das gebÃÂ£ $ udemodul type56 c felsmann technical university of dresden    
+reduction of the cost of erythropoietin therapy by coadministration of l-carnitine in hemodialysis d karvadias   c fortounas   j tsouchnikas   t edta 32nd congress   athens   greece    
+real-time resource tracking system for semiconductor industry ieeexplore.ieee.org   
+converting relational to object-oriented databases j fong sigmod record   1997.0 
+hierarchical techniques for visibility computations j bittner  2002.0 
+scanning tunneling microscopy of polysialic acid ( abstract only ) l haikkila   jps aalto   lj pelliniemi   r laiho   j oulu univ   proceedings of the 25 th annual conference of the & hellip ;   1991.0 
+eigenstructure assignment in descriptor linear systems by output feedback gr duan iee proceedings part d : control theory and applications    
+correct systems : building a business process solution wml holcombe   f ipate  1998.0 
+mohamed zc aÃÂ£ ÃÂ¯ t. querying shapes of histories rb akkesh agrawal   g psaila   el wimmers   
+a novel dna polymerase in the hyperthermophilic archaeon   pyrococcus furiosus : gene cloning   t uemori   y sato   i kato   h doi   y ishino genes to cells   1997.0 
+ordinary people on an extraordinary adventure . s steiner social studies and the young learner   1996.0 
+chain : operator scheduling for memory minimization in data stream systems b babcock   s babu   m datar   r motwani sigmod conference   2003.0 
+occupational infectious disease exposures in ems personnel e reed   mr daya   j jui   k grellman   l gerber   mo journal of emergency medicine   1993.0 
+the yin and yang of progress in social psychology : seven koan wj mcguire journal of personality and social psychology   1973.0 
+interventions for varicosities and leg oedema in pregnancy gl young   d jewell cochrane database syst rev   2000.0 
+when choice is demotivating : can one desire too much of a good thing ? ss iyengar   mr lepper journal of personality and social psychology   2000.0 
+constraints for the web a borning   r lin   k marriott   
+evidence and possible causes w traffic proc . acm  
+extreme divergence of mitochondrial dna within species of pulmonate land snails d thomaz   a guiller   b clarke proceedings : biological sciences   1996.0 
+calculation procedures for differential propagation phase shift ea mueller & hellip ; on radar meteorology   zurich   switzerland   amer . meteor . soc    
+andez   and d. suciu . storing semistructured data with stored a deutsch   m fern & hellip ; of the acm sigmod international conference on management of & hellip ;    
+a protection relay for generator stator windings x yin   p crossley proc . 29th univ. power eng .  
+analyzing the max 2-sat and max di-cut approximation algorithms of feige and goemans u zwick submitted for publication   2000.0 
+mathematics teacher belief system : exploring the social foundation p gates proceedings of the 25 thconference of the international & hellip ;    
+bearing capacities of the steel pipe piles subjected the plastic loading histories by the strong t matsuda   h akiyama   m kobayashi proceedings of the 25 thjsce earthquake engineering & hellip ;    
+sequencing problems with series-parallel precedence constraints el lawler unpublished manuscript    
+i.   floyd   ra   1984b z nagy & hellip ; spin resonance spectroscopic demonstration of the hydroxyl  
+thÃÂ£ ÃÂ© mis : a database programming language with integrity constraints . acms anthology   
+drs : a workstation-based document recognition system for text entry t amano   a yamashita   n itoh   y kobayashi   s katoh   
+active cabin noise control cf ross   mrj purver proc . active97    
+neonatal jaundice and erythrocyte acid phosphatase phenotype e bottini   r scacchi   f gloria-bottini   j mortera   lancet i    
+on pointed minima in the interfacial energy of bicrystal systems jc du plessis   jh van der merwe phil . mag    
+maps and cognitive maps : the young childÃÂ¢ ?? s perception sj catling geography    
+maintenance of implication integrity constraints under updates to constraints ns ishakbeyoglu   zm ozsoyoglu the vldb journal the international journal on very large & hellip ;   1998.0 
+measuring organizational is effectiveness : an overview and update of senior management perspectives pb seddon   v graeser   lp willcocks acm sigmis database   2002.0 
+inside ole . microsoft programming series k brockschmidt microsoft  
+arck-jones   and sj young . openvocabulary speech indexing for voice and video mail retrieval mg brown   jt foote proc . acm  
+technology alone no match for security risks s van dijk computerworld    
+an efficient implementation of a relational data base ms furman vldb   1985.0 
+advances in mixed-method evaluation : the challenges and benefits of integrating diverse paradigms v caracelli   j greene   j greene   v caracelli new directions for program evaluation  
+workspace characteristics   cusp locations   and boundary crossing for general rrp regional structures pe riley   le torfason proceedings of the 23rd biennial mechanisms  
+inside ole ( version 2 ) b kraig  1995.0 
+sleepers and workoholics-caching in mobile wireless environments d barbara   t imielinski proc . acm  
+graduate degree programs and distance education cd swenson new directions for adult and continuing education   1995.0 
+nf-kb activation through ikk-i-dependent i-traf/tank phosphorylation f nomura   t kawai   k nakanishi   s akira genes to cells   2000.0 
+sediment in streams : sources   biological effects   and control . amer . fish . soc . monogr . 7   bethesda te waters md    
+empirical evaluation of reuse sensitiveness of complexity metrics m oshige   n aoyagi   pv harris   kc burtis   k information and software technology   1999.0 
+non linear-linear approximation of reflectance functions epf lafortune   sc foo   ke torrance   dp greenberg proc . of acm siggraph    
+nonlinear spline approximation of functions of several variables and b-spaces y brudnyi   i irodova algebra i analiz    
+experimentell-morphologische untersuchungen ÃÂ£ 1/4 ber das verhalten der ÃÂ¢ ?? neurosekretorischen bahn ÃÂ¢ ?? w hild virchows archiv   1951.0 
+accelerating object-oriented simulation via automatic program specialization . department of d weise   s seligman stanford university   technical report csl-tr-92-519   april  
+molecular simulations du guide san diego   calif    
+understanding multicultural perspectives : a project approach . f miller social studies and the young learner   1999.0 
+investigations into the epidemiology of neospora caninum infection in dairy cattle in new zealand du pfeiffer   jw wichtel   mp reichel   nb williamson   
+reworking welfare : technical assistance for states and localities a brown manpower demonstration research corporation   march   new york    
+database compression ma roth   sj van horn sigmod record   1993.0 
+changes in red cell oxygen release capacity in diabetes mellitus j ditzel fed proc   1979.0 
+short group signatures d boneh   x boyen   h shacham lecture notes in computer science   2004.0 
+histopathology of cyclosporine nephrotoxicity mj mihatsch   g thiel   b ryffel transplant  
+individual differences and mis success : a review of the empirical literature rw zmud management science   1979.0 
+high temperature epr study of superionic conductors and strongly exchange coupled paramagnets c evora ph. d. thesis california univ.   santa barbara.   1978.0 
+intel and t. mudge . wrong-path instruction prefetching j pierce proc . 29th annual symp . and workshop on microprogramming and & hellip ;    
+content-based queries in image databases u shaft   r ramakrishnan computer sciences technical report-university of wisconsin & hellip ;   1996.0 
+effectiveness of various airway management techniques in a bench model simulating a cardiac arrest h ocker   v wenzel   p schmucker   v dorges journal of emergency medicine   2001.0 
+digital photo browsing with souvenirs e van den hoven   b eggen   
+automatic normalistation and entity : relationship generation through attributes and roles k meyer   j doughty acm sigmod record   1984.0 
+transport mechanisms in the choroid plexus m pollay fed proc   1974.0 
+congressional samples for approximate answering of group-by queries s acharya   pb gibbons   v poosala sigmod conference   2000.0 
+13 c cp/mas nmr studies of hemoprotein models with and without an axial hindered base : 13 c ip gerothanassis   m momenteau   pj barrie   cg acc . chem . res   1987.0 
+mining access patterns efficiently from web logs j pei   j han   b mortazavi-asl   h zhu lecture notes in computer science   2000.0 
+insiders slam navy intranet d verton computerworld    
+infrared extinction and standardization ef milone proceedings of two sessions of iau commissions 25 and 9 held & hellip ;   1989.0 
+speedier adcs pickup more bits and samples a bindra  1999.0 
+benchmarking spatial join operations with spatial output eg hoel   h samet proceedings of the international conference on very large & hellip ;   1995.0 
+dylan thomas r maud wisconsin studies in contemporary literature   1967.0 
+incorporating congestion feedback in b-isdn traffic management strategy o aboul-magd   h gilbert proc . int . switching  
+productivity : faith is n't enough j manzi computerworld    
+diluting acid . t kempster   c stirling   p thanisch sigmod record   1999.0 
+illustrating surgical procedures . f wadsworth j audiov media med   1978.0 
+multiprocessor hash-based join algorithms r gerber   d dewitt proc . vldb  
+report available from the nasa center for aerospace information   7121 standard drive   hanover uus category md    
+dj   and gerber   r   ÃÂ¢ ?? multlprocessor hash-based jom algorithms   ÃÂ¢ ?? d dewitt proc  
+the dislocation distribution   flow stress   and stored energy in cold-worked polycrystalline silver je bailey   pb hirsch phil . mag    
+interactive indexing into image database mj swain proc . spie   1993.0 
+d   gerber   b   graefe   g   heytens   m   kumar   k and m murahknshna   ÃÂ¢ ?? gamma-a high performance dataflow d dewitt proceedings of the 1986 vldb conference   japan   august  
+automated rich presentation of a semantic topic l lu   z li proceedings of the 13th annual acm international conference & hellip ;   2005.0 
+incorporating laptop technologies into an animal sciences curriculum g birrenkott   ja bertrand   b bolt new directions for teaching and learning   2005.0 
+taking care of supply cm russell   pb barnsley   mr holladay bt technology journal   1999.0 
+questions and answers   proposed guidance on cumulative risk assessment of pesticide chemicals that epa opp   
+a geochronological   geochemical   and mineralogical study of some tertiary plutonic rocks of the kg kyriakopoulos  1987.0 
+evaluating the quality of entity relationship models s kesh information and software technology    
+enactable process specification in support of process-centred environments am christie information and software technology   1994.0 
+nearest neighbor search in large metric space s brin proceedings of the 21th international conference on very  
+when to prototype : decision variables in industry bc hardgrave information and software technology    
+a visual query language for relational knowledge discovery h blau   n immerman   d jensen   
+applying various constraints for efficient processing of xml tree pattern queries d che   y liu   
+software cost estimation using an albus perceptron ( cmac ) b samson   d ellison   p dugard information and software technology   1997.0 
+production database systems : making them easy is hard work d campbell proceedings of the international conference on very large & hellip ;   2004.0 
+theoretical explanation for the output spectra of unlocked driven oscillators hl stover proc . ieee    
+approximation of functions of several variables and imbedding theorems sm nikol ` skii  1975.0 
+acknowledging the learning styles of diverse student populations : implications for instructional ja anderson   m adams new directions for teaching and learning   1992.0 
+nucleocytoplasmic protein traffic and its significance to cell function y yoneda genes to cells   2000.0 
+transient and impulse response approximations em kennaugh   dl moffatt   
+determination of threshold stress intensity factor without the astm testing b farahmand boeing technical excellent conference   seattle   washington   & hellip ;    
+large deviation techniques in decision   simulation   and estimation ja bucklew  1990.0 
+issues in ontology-based applications [ j ] c zhan   dm jones   po ` bfien sigmod record    
+the mid-cheshire salt industry k walwork geography    
+configuring sessions in programmable networks s choi   j turner   t wolf computer networks   2003.0 
+implementing semantic data integration for the internet p kabus msc thesis   department of computer science   darmstadt university  
+performance evaluation of the hdlc protocol e gelenbe   j labetoulle   g pujolle computer networks    
+workform processing : a model and language for parallel computation d cheriton  1985.0 
+immunocytochemical localization of atrial natriuretic peptide in the venae cavae and the pulmonary th larsen the histochemical journal   1988.0 
+towards effective software abstractions for application engineering r girardi procs . nasa focus on reuse workshop   sept    
+reuse strategies in software development : an empirical study a pohthong   d budgen information & software technology   2001.0 
+uniform object modeling methodology and reuse of real-time system using uml bm duc proceedings of the 5th acm international conference on & hellip ;   2005.0 
+a query language and optimization techniques for unstructured dataÃÂ¢ '' in sigmod p buneman   s davidson   g hillebrand   d suciu san diego    
+structural digital image signature for image authentication : an incidental distortion resistant cs lu   hym liao proc . acm multimedia workshop    
+on constant-weight tsp-tours s jones   
+cryptic crossword clue interpreter m hart   rh davis information and software technology   1992.0 
+rainforest-a framework for fast decision tree construction of l datasets   
+incremental distance join algorithms for spatial databases grhh samet proc . of the acm sigmod  
+relationship between amplitudes of harmonics and intermodulation frequencies m callendar   
+the role of body condition on breeding and foraging decisions in albatrosses and petrels h weimerskirch proc . int . ornithol . congr    
+andg . hd suciu . aquerylanguageandoptimizationtechniques forunstructured data p buneman   s davidson proceedings of acm sigmod conference    
+a unified approach for analyzing persistent   non-persistent and onÃÂ¢ ?? off tcp sessions in the a gupta   v sharma   
+an input/output primitive for object-oriented systems . ms powell information and software technology   1988.0 
+parallel index building in informix online 6.0 w davison   
+internet keyed payments protocol ( ikp m linehan   g tsudik  1995.0 
+models of women 's learning : implications for continuing professional education . k loughlin   v mott new directions for adult and continuing education   1992.0 
+supporting full-text information retrieval ew brown   jp callan   wb croft   jeb moss   
+too many it duties ? hire a second cio t hoffman computerworld    
+monitoring streamsÃÂ¢ ?? a new class of data management applications b babcock   s babu   r motwani   m datar sigmod  
+a prototype implementation of archival intermemory y chen   j edler   a goldberg   a gottlieb   s sobti     
+a typed intermediate language for supporting multiple inheritance via interfaces j chen   c chen   
+viewpoint . anonymity on the internet : why the price may be too high d davenport communications-acm   2002.0 
+gamma-irradiation combined with ozonization as a method of decomposition of impurities in textile j perkowski   l kos environment protection engineering   1992.0 
+a fast distance calculation between convex objects by optimization approach s zeghloul   p rambeaud   jp lallemand   
+relative exophthalmometry in zygomatic fractures using an optical sensor e nkenke   m benz   t maier   m kramer   g hÃÂ£ $ usler   j procs carsÃÂ¢ ?? 03    
+ÃÂ¢ ?? i prayed real hard   so i know i 'll get inÃÂ¢ ?? : living with randomization ja lam   sw hartwell   jf jekel new directions for program evaluation   1994.0 
+economics in cyberspace : a comparison study p navarro   j shoemaker unpublished manuscript   2000.0 
+security of human video objects by incorporating a chaos-based feedback cryptographic scheme t paraskevi   n klimis   k stefanos proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+the challenge of ta training in the 1990s jd nyquist   rd abbott   dh wulff new directions for teaching and learning   1989.0 
+biochemical mechanisms of pollutant stress rl heath see ref    
+what are sports grounds ? or : why semantics requires interoperability . interop '99 c riedemann   w kuhn  1999.0 
+non-heart-beating donor program contributes 40 of kidneys for transplantation jhc daemen   rj de wit   m bronkhorst   m yin   e transplantation proceedings   1996.0 
+citrus responses to irrigation methods dr rodney   rl roth   br gardner proc . int . soc . citriculture    
+f. mata   ÃÂ¢ ?? a language and a physical organization technique for summary tablesÃÂ¢ ??   proceed g ozsoyoglu   m ozsoyoglu & hellip ; acm international conference on management of data-sigmod & hellip ;    
+specification of stored data structures and desired output results in diam ii with foral . me senko vldb    
+how do places matter ? a comparative study of chinese ethnic economies in los angeles and new york y zhou urban geography   1998.0 
+the development of numerical methods for nonsmooth optimization in the ussr nz shor history of mathematical programming : a collection of & hellip ;    
+extreme programming in practice . 2001 : addison-wesley j newkirk   rc martin   
+the preparation of professional evaluators : issues   perspectives   and programs . wr shadishÃÂ¢ ? ÃÂ¦ new directions for program evaluation   1994.0 
+speech recognition by hierarchical segment classification h behme   wd brandt   hw strube proc . icann    
+sleepers and workaholics : caching strategies in mobile environments d barbarÃÂ£ ÃÂ¡   t imielinski proc . acm sigmod intÃÂ¢ ?? l conf . management of data   1994.0 
+activity-based costing : a cost management tool . fj turk new directions for higher education   1993.0 
+introducing the personal software process : three industry case studies p ferguson   ws humphrey   s khajenoori   s macke   a ieee computer    
+the paleobiological implications of herbivorous dinosaur coprolites : ichnologic   petrographic   and k chin  1996.0 
+acetic acid for analgesic screening r koster   m anderson   ej de beer fed . proc    
+software reuse : a key to the maintenance problem hd rombach information and software technology   1991.0 
+creams for preventing stretch marks in pregnancy g young   d jewell cochrane database syst rev   2000.0 
+an object-oriented deductive language with methods and method inheritance y lou   zm ozsoyoglu proceedings of the acm sigmod intl. conf . on management of  
+converting relational database into xml document j fong   f pang   c bloor   
+the major pathways of protein translocation across membranes k ito genes to cells   1996.0 
+random coefficient autoregressive models : an introduction df nicholls   bg quinn  1982.0 
+muhiprocessor hash-based join algorithms d dewitt   r gerber proc . 1985 vldb conference   stockholm   sweden   sept    
+data mining for very busy people t menzies   y hu   
+webfilter : a high-throughput xml-based publish and subscribe system f fabret   h jacobsen   f llirbat   j pereira   d vldb   rome   italy    
+storing semistructured data with stored ad dfs   m fernandez   d suciu proc . of acm sigmod conf . on management of data   & hellip ;    
+reference anytime anywhere : towards virtual reference services at penn state lm moyo electronic library   2002.0 
+the impact of database selection on distributed searching al powell   jc french   j callan   m connell   cl proceedings of the 23rd annual international acm sigir & hellip ;   2000.0 
+content-based image retrieval based on a fuzzy approach r krishnapuram   s medasani   sh jung   ys choi   r ieee transactions on knowledge and data engineering   2004.0 
+a mixture density based approach to object recognition for image retrieval j dahmen   k beulen   m guld   h ney procs . 6th international riao conference on content-based  
+unfixed tissue for electron immunocytochemistry : a simple preparation method for colloidal gold jw stirling the histochemical journal   1992.0 
+influence of reciprocal electromechanical transduction on outer hair cell admittance ek weitzel   r tasker   we brownell   
+human rights : some perspectives j minker acm sigmod record   1987.0 
+rural space as intellectual property w moran political geography   1993.0 
+preferences for separating or combining events pw linville   gw fischer journal of personality and social psychology   1991.0 
+architecture-driven component reuse pav hall information and software technology    
+integrating mining with relational database systems : alternativesandimplications s sarawagi   s thomas   r agrawal inacm sigmod international conference on management of data & hellip ;    
+strategic alliance structuring : a game theoretic and transaction cost examination of interfirm a parkhe the academy of management journal   1993.0 
+negative information weighs more heavily on the brain : the negativity bias in evaluative ta ito   jt larsen   nk smith   jt cacioppo journal of personality and social psychology   1998.0 
+using options for knowledge transfer in reinforcement learning tj perkins   d precup   
+u > finite-state syntax-directed braille translation < / u > jk millen technical report mtr-1829   mitre corporation   bedford    
+helpers liberate female fairy-wrens from constraints on extra-pair mate choice ra mulder   po dunn   a cockburn   ka lazenby-cohen   proceedings : biological sciences   1994.0 
+multaprocessor hash-based join algorithms d dewltt   r gerber proc of the 1985 vldb conf   stockholm   sweden   aug    
+wimmers edward l. and zzÃÂ£ ÃÂ¯ t mohamed . querying shapes of histories a rakesh   p giuseppe proceedings of the 21 stvldb conference   zÃÂ£ 1/4 rich   & hellip ;    
+system that tracked killer tied diverse data . b hoard computerworld.   1982.0 
+fipaÃÂ¢ ?? towards a standard for software agents pd o'brien   rc nicol bt technology journal   1998.0 
+data management research at the mitre corporation a rosenthal   l seligman   c mccollum   b blaustein   sigmod record   1995.0 
+approximation with vector-valued norms in linear spaces ac bacopoulos  1966.0 
+goverance   ownership   and corporate entrepreneurship : the moderating impact of industry sa zahra the academy of management journal   1996.0 
+full text full text available on the publisher site publisher sitesource artificial intelligence dw aha artificial intelligence review   1997.0 
+towards a neural model of timing g bugmann   
+a modular neural network for global modeling of microwave transistors m lÃÂ£ ÃÂ¡ zaro   i santamarÃÂ£a   c pantaleÃÂ£ ÃÂ³ n   c navarro     
+dow corning corporation : reengineering global processes j ross   
+the new tco metric j vijayan computerworld    
+analysis   modeling and generation of self-similar vbr video trac mw garrett   w willinger proc . acm sigcomm    
+exploratory approaches to the study of acid diffusion and acid loss from polymer films using c coenjarts   j cameron   n deschamps   d hambly   g proc . spie   1999.0 
+evaluation and congress me fishman new directions for program evaluation   1989.0 
+reuse of planÃÂ¢ ?? based knowledge sources in a uniform tagÃÂ¢ ?? based generation system k harbusch   j woch   
+generating schedules and code within a unified reordering transformation framework   university of w kelly   w pugh md    
+providing competence resources for new product development ieeexplore.ieee.org   
+neural computation of visual motion information in the fly a borst proc . 28th goettingen neurobiology conference    
+dj dewitt . c. turbyfill : benchmarking database systems : a systematic approach d bitton proc . vldb florence    
+s. jablonski . 1995 . policy resolution for workflow management c bussler proc . 28th hawaii internat . conf . system  
+fql-a funo tional query language p buneman   re frankei proc acm sigmod int conf management of data   boston   mass    
+benchmarking spatial join operations with spatial output . 606-618 eg hoel   h samet  1995.0 
+full text full text available on the publisher site publisher sitesource bt technology journal s garrett   d sheat bt technology journal   2002.0 
+extending object-oriented analysis to explore alternatives j mylopoulos   l chung   s liao   h wang   e yu submitted for publication    
+chain : operator scheduling for memory minimization in stream systems b brian   b shivnath   d mayur   m rajeev proceedings   international conference on management of data & hellip ;    
+characterization of legume and grass residues following in vitro and in sacco ruminal digestion djr cherney   jh cherney   ah davidson proc . int . grassl . congr    
+clustering using the contrast model dj navarro   md lee   
+andangelasgori . 1992 . activelearning : perspectives on learning that leads to personal development la cavaliere new directions for adult and continuing  
+taking chiral induction into the nanometre regime : chiral teleinduction in the synthesis of poly ( db amabilino   jl serrano   t sierra   j veciana acc . chem . res   2000.0 
+neural basis of elementary behavior in stick insects u bÃÂ£ $ ssler   
+approximation theorems of mathematical statistics rj serfling  1980.0 
+tourism as a community industry : an ecological model of tourism development pe murphy tourism management    
+publish/subscribe on the web at extreme speed f oise fabret   i rocquencourt   f ois llirbat   j ao   
+the impact and value of tree improvement in the south d todd   j pait   j hodges proceedings of the 23rd so . forest tree improvement conf    
+du tiroir ÃÂ£ lÃÂ¢ ?? ÃÂ£ ÃÂ© cran : les opÃÂ£ ÃÂ© rations de conversion rÃÂ£ ÃÂ© trospective de la bibliothÃÂ£ ÃÂ¨ que nationale m beaudiquez   am beaugendre   
+urban . an approach to the classification of domain models in support of analogical reuse ch lung   e joseph proc . acm  
+the challenge for kinetic simulations of substorm growth and onset pl pritchett   fv coroniti sixth intern . conf . on substorms   seattle   washington    
+sleepers and workaholics : caching in mobile distributed environments d barbara   t imielinski proc . of acm sigmod int . conf . on management of data    
+the qualitative-quantitative debate : new perspectives . cs reichardt   sf rallisÃÂ¢ ? ÃÂ¦ new directions for program evaluation   1994.0 
+internet research : comments on formulating the problem s floydÃÂ¢ ? ÃÂ¦ http : ÃÂ¢ ? ÃÂ¥ www . icir . org/fioyd/papers . html   1998.0 
+accurateestimation of the numberof tuplessatisfying a condition . inproc gpsc connell acm sigmod conference    
+exploiting interclass rules for focused crawling is altingÃÂ£ ÃÂ¶ vde   ÃÂ£ ? ulusoy computer  
+a shared   segmented memory system for an object-oriented database mf hornick   sb zdonik acm transactions on information systems ( tois )   1987.0 
+on random sampling over joins sc cmn   r motwani   vr narasayya proceedings of the acm sigmod international conference on  
+accurate estimation of the number of tuples satisfying a condition g piatetsky-shapiro   c connell proceedings of the 1984 acm sigmod international conference & hellip ;   1984.0 
+loggp : incorporating long messages into the logp modelÃÂ¢ ?? one step closer towards a realistic model a alexandrov   mf ionescu   ke schauser   c scheiman proceedings of the seventh annual acm symposium on parallel & hellip ;   1995.0 
+global perspectives in a new world . teacher 's resources . ph porterÃÂ¢ ? ÃÂ¦ social studies and the young learner   1994.0 
+keyword detection   navigation   and annotation in hierarchical text s chakrabarti   b dom   r agrawal   p raghavan proc . 23rd vldb    
+privacy preserving distributed data mining c clifton   
+antileukemic effect of graft-versus-host disease contributes to improved survival after allogeneic pl weiden   n flournoy   je sanders   km sullivan   ed transplant proc   1981.0 
+organ donation : the challenge for emergency nursing j cox journal of emergency nursing   1986.0 
+fast generation of neuro-asics j ouali   g saucier proc . int . neural networks conf    
+an architecturalframework forsupporting heterogeneous instruction-setarchitectures gmsk ebcioglu ieee computer    
+a synthesis of the effects of welfare-to-work programs on children pa morris   ac huston   g duncan   d crosby   j bos new york : manpower demonstration research corporation    
+seven issues '' : revisited . closing plenary address fg halasz proceedings of acm hypertext    
+oscillations in chemical systems : part 18 . mechanisms of chemical oscillators : conceptual bases rj field   rm noyes acc . chem . res    
+christe . m.   gong   y.   hauptmann a. lessons learned from building a terabyte digital video library h wactlar ieee  
+analysis of an optical amplified two-section link specification incorporating an erbium-doped fibre aw o'neill   tg hodgkinson bt technology journal   1993.0 
+white matter lesions after occlusion of the bilateral carotid arteries in the rat : temporal profile h tomimoto   i akiguchi   h wakita   j kimura no to shinkei   1997.0 
+ÃÂ£ cents ÃÂ¢ ? ÃÂ¬ ÃÂ¥?virtual clock : a new traffic control algorithm for packet switching networks   ÃÂ£ cents ÃÂ¢ ? ÃÂ¬ ÃÂ¢ ? in l zhang proc . of acm  
+object-oriented software construction [ m ] s mcconnell  1997.0 
+inside ole 2 k brocksmith  1994.0 
+algebraic support for complex objects with arrays   identity   and inheritance sl vandenberg   
+archival research methods . mj ventresca   jw mohr companion to organizations    
+therhetoricofeconomicx wiscon-sin d mccloskey  1985.0 
+the logic of reusable propositional output . 1999 d makinson   l van der torre   
+spatial modelling of deforestation in southern cameroon : spatial disaggregation of diverse b mertens   ef lambin applied geography   1997.0 
+program behavior at the symbolic level a batson ieee computer    
+cigarettes and domination in chinese business networks dl wank see davis    
+expression of the myelin basic protein gene in transgenic mice expressing human neurotropic virus   s haas   ns haque   ah beggs   k khalili virology-new york -   1994.0 
+nature of the optical transitions in charged oligothiophenes jpb cornil   jl br & das acc . chem . res   1992.0 
+a multi-environment cost evaluator for parallel database systems . procedings of the 2nd int . dasfaa f andres   m couprie   y viemont international conference on very large databases   santiago    
+text enhancement in digital video based on multiple frame integration h li   ds doermann proceedings of acm multimedia    
+chemical classification of the intermediate and acid rocks ( deccan trap ) of salsette island sf sethna   hk battiwala bombay : journal of the geological society of india    
+a computational model of neural contour processing f heitger   r von der heydt proc . int . conf . computer  
+geography in the new polytechnics lj wright   jh jones geography    
+approximate query processing : taming the terabytes ! a tutorial   
+g. & spyropoulos   c. ( 2000b ) . learning to filter spam e-mail : a comparison of a naive bayesian and a i androutsopoulos   j koutsias   g paliouras   vs procs of workshop on machine learning and textual & hellip ;    
+misdiagnosis of bilateral ectopic pregnancies : a caveat about operator expertise in the use of mc o'brien   t rutherford journal of emergency medicine   1993.0 
+the effect of altered sex ratios on the spawning of red salmon.ÃÂ¢ ?? in : studies of alaska red salmon ( oa mathisen  1962.0 
+multi-media gets real c levin   r raskin   mj ross   n zelnick pc magazine    
+terms of usage privacy policy code of ethics contact us j blakeley acm sigmod record   2001.0 
+robust real-time query processing with qstream s schmidt   t legler   w lehner proceedings of the 31st international conference on very & hellip ;   2005.0 
+uniform random number generators md maclaren   g marsaglia journal of the acm ( jacm )   1965.0 
+k. smith entity modeling in the mls relational model m winslett proceedings of the 18th international conference on  
+near-optimal n-layer channel routing rj enbody   hc du proceedings of the 23rd acm/ieee conference on design & hellip ;   1986.0 
+the nature and implications of recent population growth in california r goodenough geography    
+vibration damping ad nashif   dig jones   jp henderson  1985.0 
+forwarding in a content-based network a carzaniga   al wolf   
+the cost of general education . rp lisensky new directions for higher education   1993.0 
+the banca database and evaluation protocol e bailly-bailliere   s bengio   f bimbot   m hamouz   lecture notes in computer science   2003.0 
+corrections : perspectives on research   policy and impact jw newton   pg zimbardo  1975.0 
+07-mars-2003 congested d toxicity   
+distributed deviation detection in sensor networks tpdpv kalogeraki   d gunopulos sigmod record   2003.0 
+evidence for turonian rift related extensional subsidence and tertiary backthrusting : the almopias i sharp   ahf robertson bull . geol . soc . greece   athens    
+sick software c jones computerworld    
+neural stem cells   as a source of graft material for transplantation in neuronal disease w akamatsu   h okano no to hattatsu   2001.0 
+perspectives on pricing . lh litten new directions for higher education   1986.0 
+dynamics of manifolds in random media : the self-consistent hartree approximation h kinzelbach j. phys . i ( france )   1993.0 
+twelve tips for better presentations g venditto pc magazine    
+d. wood and s. shah   ÃÂ¢ ?? a modified hoek-brown failure criterion for jointed rock massesÃÂ¢ ?? e hoek proc . int . symp . eurock ÃÂ¢ ?? 92    
+turtle   and david d. lewis . 1991 . '' the use of phrases and structured queries in information wb croft   r howard proceedings of acm  
+the impact of xml on databases and data sharing l seligman   a rosenthal   
+freshwater mollusks of the upper sacramento system   california   with particular reference to the tj frest   ej johannes deixis consultants   seattle   washington    
+confidence in b2b sinks to a major new low . m meehan   
+tools for datalog boundedness gg hillebrand   pc kanellakis   hg mairson   my vardi proceedings of the tenth acm sigact-sigmod-sigart symposium & hellip ;   1991.0 
+a two-layered integration approach for product catalogs in b2b e-commerce b omelayenko   d fensel   
+diapers and underpads   part 2 : cost outcomes ds brown   
+category : 43 report available from the nasa center for aerospace information   7121 standard drive   zfzfuu subject   
+organizing university economic development : lessons from continuing education and technology gw matkin new directions for higher education   1997.0 
+census of marine life : fishing industry perspectives tj lassen oceanography-washington dc-oceanography society -   1999.0 
+empowerment in business process reengineering : an ethnographic study of implementation discourses k sayer   l harvey   
+do co-workersÃÂ¢ ?? wages matter ? theory and evidence on wage secrecy   wage compression and effort g charness   p kuhn   
+dwms : data warehouse management system n mohan proceedings of the international conference on very large & hellip ;   1996.0 
+anupdateguideforhazardi   version1 . 2   nistir5410   nationalinstituteofstandards and technology   rd peacock   ww jones   gp forney   rw portier   pa md    
+determination of chromium and zinc in corrosion-resistant coatings de harrington   js jones   wr bramstedt   t kling at . spectrosc.   1983.0 
+environmental control of horn length dimorphism in the beetle onthophagus acuminatus ( coleoptera : dj emlen proceedings : biological sciences   1994.0 
+heat shock and recovery protects renal allografts from warm ischemic injury and enhances hsp72 ga perdrizet   h kaneko   tm buckley   ms fishman transplantation proceedings   1993.0 
+automatic resource compilation by analyzing hyperlink structure and associated text s chakrabarti   b dom   p raghavan   s rajagopalan   d www7 / computer networks   1998.0 
+carrier mobilities in silicon empirically related to doping and field dm caughey   re thomas proc . ieee    
+on the diffusion approximation to a discontinuous model for a single neuron g kallianpur contributions to statistics    
+on the estimation of frequent itemsets for data streams : theory and experiments pa laur   r nock   je symphor   p poncelet proceedings of the 14th acm international conference on & hellip ;   2005.0 
+teaching effectiveness in technology-mediated distance learning j webster   p hackley the academy of management journal   1997.0 
+deficient hypoxia awakening response in infants of smoking mothers : possible relationship to sudden k lewis   e bosque journal of emergency medicine   1997.0 
+the relationship between cocaine urinalysis and daily self-reported cocaine use in a clinical rd crosby   sm specker   ga carlson   ja halikas submitted for publication    
+energy-related and ecological evaluation of the various use of biogas for generation of power and u hohenwarter technical university graz   austria    
+gap analysis of mainland california . f davis   d stoms   ad hollander   ka thomas   pa cd-rom . university of california   santa barbara   ca . [ http : / / & hellip ;    
+models and issues in data streams b babcock   s babu   m datar   r motwani   j widom proc . 21st acm sigact-sigmod-sigart symp . principles of & hellip ;    
+method procedures for sampling aldehyde and ketone using 2   4-dinitrophenylhydrazineÃÂ¢ ?? a review y yacoub proceedings of the i mech e part d journal of automobile & hellip ;   1999.0 
+managing data from high-throughput genomic processing : a case study t bloom   t sharpe proceedings of the international conference on very large & hellip ;    
+design reuse in hypermedia application development d schwabe   a garrido   g rossi proc . of acm  
+the theory of the long-run equilibrium exchange rate p montiel unpublished manuscript    
+introducing the microsoft . net platform ds platt  2001.0 
+an nc approximation algorithm for the minimum degree spanning tree problem m furer   b raghavachari proc . of the 28th annual allerton conf . on communication   & hellip ;    
+repression and the inaccessibility of affective memories pj davis   ge schwartz journal of personality and social psychology   1987.0 
+rainforestÃÂ¢ ?? a framework for fast decision tree construction of large datasets j gehrke   r ramakrishnan   v ganti data mining and knowledge discovery   2000.0 
+a query language and optimization techniques for unstructured data . university of pennsylvania   p buneman   s davidson   g hillebrand   d suciu technical report ms-cis 96-09    
+a matter of degrees f fitter computerworld    
+radical biology : advances and perspectives on the function of plant roots . american society of plant he flores   jp lynch   d eissenstat md    
+a translation algorithm for a multiprocessor computer js squire proc . acm 18th nat . conf    
+application of the landsat data collection system in alaska dm anderson   hl mckim & hellip ; telemetering conference   washington   d. c   proceedings   1975.0 
+neutrino masses and oscillationsÃÂ¢ ?? experiment y suzuki proc . of the 28th inter . conf . on high energy physics   & hellip ;    
+new and old algorithms for belief net inference and counting satisfying assignments m littman   t pitassi   r impagliazzo unpublished manuscript    
+bounded cutset conditioning : an incremental-refinement approach to belief under uncertain resources e horvitz   h suermondt   g cooper  1988.0 
+document quality models for web ad hoc retrieval y zhou   wb croft   
+environmental ethical decision making in the us metal-finishing industry bl flannery   dr may academy of management journal   2000.0 
+sediment in streams : sources   biological effects   and control . american fisheries society . bethesda tf waters md    
+generation of human artificial chromosomes expressing naturally controlled guanosine triphosphate m ikeno   h inagaki   k nagata   m morita   h ichinose genes to cells   2002.0 
+corba : des concepts a la pratiqueÃÂ¢ ?? collection intereditions   editions masson   paris   france   1997 j geib   c gransart   p merle   
+layered histories : the wandering bible of marseilles cb rubin   rj gluck proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+querying web metadata : native score management and text support in databases g ÃÂ£?zsoyoÃÂ§ ÃÂ§ lu   is altingÃÂ£ ÃÂ¶ vde   a al-hamdani   sa acm transactions on database systems ( tods )   2004.0 
+procol : a parallel object language with protocols j van den bos   c laffra acm sigplan notices   1989.0 
+deterministic broadcasting in unknown radio networks bs chlebus   l gasieniec   a gibbons   a pelc   w   
+acquaintance and awareness in belief representation a saffiotti   f sebastiani procs . of the computational intelligence  
+biogeography of the marine red algae of the south african west coast : a molecular approach mh hommersand   s fredericq   
+a description language and pilot-system executive for information-transport systems e sandewall vldb   1979.0 
+an ontology-based approach to ecatalogue management z cui   jw shepherdson   y li bt technology journal   2003.0 
+the fsn challenge : large-scale interactive television c blank   
+downside risk implications of multinationality and international joint ventures jj reuer   mj leiblein academy of management journal   2000.0 
+integrating mining with relational database systems : alternatives and implications s sunita   t shiby   a rakesh proceedings acm sigmod international conference on & hellip ;    
+on the problem of the software cost function jj dolado information & software technology   2001.0 
+squire : sequential pattern mining with quantities c kim   jh lim   r ng   k shim data engineering   2004 . proceedings . 20th international  
+the nclan economic assessment : approach   findings and implications rm adams   jd glyer   ba mccarl see ref    
+the effects of bone plug length and screw diameter on the holding strength of bone-tendon-bone g pomeroy   m baltz   k pierz   m nowak   w post   jp arthroscopy-new york -   1998.0 
+tests of stochastic dominance and cumulative independence in buying and selling prices of gambles mh birnbaum   s yeary submitted for  
+prosodic constraints on the emergence of grammatical morphemes : crosslinguistic evidence from c lleÃÂ£ ÃÂ³   k demuth   
+the challenge of helping low-income fathers support their children c miller   v knox   
+a new class of regularizable strongly continuous semigroups of fast growth near the origin pc kunstmann   
+concentrations of polycyclic aromatic hydrocarbons in sediment and ground water near the wyckoff jc cubbage west seattle   washington : washington department of ecology   & hellip ;    
+supporting full-text information retrieval with po store   ew brown   jp callan   wb croft   jeb moss   
+a qualitative comparison study of data structures for large line segment databases eg hoel   h samet proc . acm sigmod int . conf . on management of data   san diego & hellip ;   1992.0 
+the new idria serpentinite of california : a toxic rock ? : geological society of america abstracts m ross 1994 annual meeting   seattle   washington   october    
+stochastic coding of speech signals at very low bit rates bs atal   mr schroeder proc . int . conf . comm    
+automatic text recognition for video indexing r lienhart   
+component reuse in software design : an observational study d budgen   a pohthong submitted for  
+biological control of bruchids in stored cowpea in west africa . integrated protection of stored c stolk   c alder   m schoeller proceedings of the meeting at zurich   switzerland    
+spectral difference method for unstructured grids i : basic formulation y liu   m vinokur   zj wang   
+european business systems   london : sage encompasses a collective with heterogeneous interests rd whitley  1992.0 
+ch . 5 : 03   ÃÂ¢ ÃÂ§ 7 ( 4 ) ( a ) - ( b )   ( e ) - ( g ) . other considerations include the particular history of marital mc act   
+ÃÂ¢ ?? linear programming : the story about how it began . gb dantzig history of mathematical programming : a collection of  
+resource management for real-time fault-tolerant distributed systems v kalogeraki  2000.0 
+wilkinson overview of the jasmin database machine dh fishman   m lai proceedings of the acm sigmod conference on management of & hellip ;    
+distributed meetings : a meeting capture and broadcasting system r cutler   y rui   a gupta   jj cadiz   i tashev   l he   
+schools without failure . w glasser  1969.0 
+effects of tidal exchange on soil and sediment ws hicks   rw fitzpatrick demonstration of management and rehabilitation of acid & hellip ;    
+pearl : an interactive system for the preparation and validation of structured programs ra snowdon acm sigplan notices   1972.0 
+douglas ross talks about structured analysis ( interview ) dt ross ieee computer    
+sideshow : providing peripheral awareness of people and information jj cadiz   g venolia   g jancke   a gupta microsoft technical report 2001-83 . http://research . microsoft .  
+discourse transcription ( vol . 4 ) jw du bois   s cumming   s schuetze-coburn   d santa barbara   ca : university of california at santa barbara & hellip ;    
+lecture notes on the status of ieee standard 754 for binary floating-point arithmetic . may 1996 w kahan unpublished manuscript available at http://http . cs .  
+on the performance of beamforming antennas r ramanathan proceedings of acm  
+noncrossing partitions in surprising locations   preprint j mccammond university of californiaÃÂ¢ ?? santa barbara   santa barbara   ca    
+biodegradacja substancji tluszczowych z gruntow-izolowanie mikroorganizmow biodegradujacych t farbiszewska   j farbiszewska-bajer   t sudol fizykochemiczne problemy mineralurgii   1995.0 
+contribution to the theory and implementation of a magnetic cooling cycle with new thermal switches h quack & hellip ; eidgenoessische technische hochschule   zurich ( switzerland ) & hellip ;   1974.0 
+comparison of cognitive-behavioral therapy and clonazepam for treating periodic limb movement jd edinger   ai fins   rj sullivan   gr marsh   ds sleep-new york -   1996.0 
+good distance teaching : quality distance teaching = structured design + dialogue + communication ` in m parer  1994.0 
+neuronal operations in the visual cortex ga orban  1984.0 
+the use of the heimlich maneuver in near drowning : institute of medicine report mw platt   jc mclaughlin   gj gilson   mf wellhoner   journal of emergency medicine   1995.0 
+subdierentials of distance functions   approximations and enlargements . jp penot   r ratsimahalo   
+wildlife habitat te martin   ge canterbury   dr petit   lj petit & hellip ; loblolly/shortleaf pine demonstration interim report . epa / & hellip ;    
+population dynamics   species interactions   and non-equilibrium coexistence within rodent communities ar blaustein  1978.0 
+sustained helping without obligation : motivation   longevity of service   and perceived attitude am omoto   m snyder journal of personality and social psychology   1995.0 
+the boundary layer in three dimensional flow . part ii . the flow near a stagnation point l howarth phil . mag    
+mining generalized association rules and sequential patterns using sql queries s thomas   s sarawagi   
+technical article : ado performance best practice b vaughn  2001.0 
+the infrared spectra of carrageenans extracted from various algae s peats proc . int . seaweed symp    
+encoding   decoding and storing melodies for a data base of renaissance polyphony : a progress report hb lincoln vldb    
+taming text d robb computerworld    
+training neural nets for small word width l spaanenburgÃÂ¢ ? ÃÂ¦   
+the xyleme project s abiteboul   s cluet   g ferran   mc rousset computer networks   2002.0 
+hard times and hurtful partners : how financial strain affects depression and relationship ad vinokur   rh price   rd caplan journal of personality and social psychology   1996.0 
+distance education : agricultural student achievement mk swan proceedings of the 25 thnational agricultural education & hellip ;    
+despite hoopla   poetry remains a hard sell . j webb san  
+copy detection systems for digital documents rd smith  1999.0 
+information rules harvard business school press c shapiro   hr varian boston    
+a chlorination-atomic spectrometry method for the analysis of precious metal samples jc van loon   ms szeto   ww howson   i levin at . spectrosc.   1984.0 
+effects of surface treatment and corrosion on the peel strength of an electrodeposited epoxy resin j schultz j. schultz and others   procs . 13 th and 14 th confs . & hellip ;   1975.0 
+using a positivist case research methodology to test a theory about it-enabled business process s sarker   as lee   
+an empirical study of attending and comprehending multimedia presentations p faraday   a sutcliffe proceedings of the fourth acm international conference on & hellip ;   1997.0 
+worst-case complexity analysis of methods for logic query implementation a marchetti-spaccamella   a pelaggi   d sacca proceedings of the sixth acm sigact-sigmod-sigart symposium & hellip ;   1987.0 
+overview of the jasmin database machine dh fishman   my lai   wk wilkinson proceedings of the 1984 acm sigmod international conference & hellip ;   1984.0 
+boston a paterson   is groupoids   b their operator to  
+new approach for bone marrow transplantation in patients with class 3 thalassemia aged younger than p sodani   d gaziev   p polchi   b erer   c giardini   blood-new york -   2004.0 
+a 200 plus seat restaurant and cafe facility was constructed at a cost of $ 2 012 764 i september  2003.0 
+emergency department use by the rural elderly dm lishner   ra rosenblatt   lm baldwin   lg hart journal of emergency medicine   2000.0 
+the substance of image jc dvorak pc  
+a survey of current practice in aerospace software development r plant   p tsoumpas information and software technology   1995.0 
+das einen link zu einem programm oder dokument in e bild microsoft  
+fine-grain protocol execution mechanisms & scheduling policies on smp clusters b falsafi  1998.0 
+introduction   background   and international perspectives : korean history   culture   and education sj paik international journal of educational research   2001.0 
+data conversion rules from network to relational databases j fong   c bloor information and software technology    
+parallel query processing with zigzag trees m ziane   m zaÃÂ£ ÃÂ¯ t   p borla-salamet the vldb journal the international journal on very large & hellip ;   1993.0 
+cytoskeleton and red cell shape s svetina   a iglic   v kralj-iglic   b zeks cellular and molecular biology letters   1996.0 
+responding to writing on-line ge hawisher   c moran new directions for teaching and learning   1997.0 
+1995 . benchmarking spatial join operations with spatial output eg hoel   h samet proc . 21st int . conf . on very large data  
+lexical guidance in sentence processing : further support for aÃÂ¢ ÃÂ® filtering account bc adams   c clifton   dc mitchell unpublished manuscript    
+random sampling over joins : efficient implementations and limitations s chaudhuri   r motwani   v narasayya proceedings of the 1999 acm sigmod conference on management & hellip ;    
+ship shadowing : model and data comparisons ws helliwell   gn sullivan   b macdonald   kj voss proceedings of spie   2005.0 
+optimizing queries across diverse data sources h laura   hd kossmann   el wimmersÃÂ¢ ? ÃÂ¦ ptoc . 23rd int . conf . on vety large data bases    
+do diverse juries aid or impede justice ? ks klein   td klastorin wisconsin law review   1999.0 
+full text full text available on the publisher site publisher sitesource bt technology journal cm christensen   dl sundahl bt technology journal   2001.0 
+toolbook companion jr pierce  1990.0 
+closet : an efficient algorithm for mining frequent closed itemsets ( pdf ) '' j pei   j han   r mao proc . 2000 acm-sigmod int . workshop on data mining and  
+improved approximation algorithms for metric facility location problems m mahdian   y ye   j zhang lecture notes in computer science   2002.0 
+cascadia project t gonzales discovery institute   seattle    
+on the implementation of bayes-optimal generalizers d wolpert   p stolorz  1992.0 
+overestimation of mycophenolic acid by emit correlates with mpa metabolite m shipkova   e schutz   vw armstrong   pd niedmann   e transplantation proceedings   1999.0 
+the tenth text retrieval conference ( trec-2001 )   gaithersburg em voorhees   dk harman md    
+transformation behavior of a ti50ni47fe3 cm huang   m meichle   mb salamonÃÂ¢ ? ÃÂ¦  1983.0 
+d. suciu storing semistructured data with stored a deustsch   m fernandez sigmod int &#39; s conf . on management of data    
+amajorityconsensus approachtoconcurrency controlformultiplecopies databases rh thomas acm trans . on database systems    
+computing joins of relations lr gotlieb proceedings of the 1975 acm sigmod international conference & hellip ;   1975.0 
+transboundary environmental problems with a mobile population : is there a need for central policy ? m hoel   p shapiro   
+the stability of behavior : i. on predicting most of the people much of the time s epstein journal of personality and social psychology    
+high resolution wind fields retrieved from sar in comparison to numerical models j horstmann   w koch   s lehner   
+b2b e-commerce revisited : leading perspectives on the key issues and research directions i participants electronic markets   2002.0 
+optimization techniques for unstructured data p buneman   s davidson   g hillebrand   d suciu   a proc . of sigmod   san diego    
+embedded deterministic test for low cost manufacturing test j rajski   j tyszer   m kassab   n mukherjee   r   
+random forests l breiman machine learning   2001.0 
+information literacy : overcoming barriers to implementation dw farmer new directions for higher education   1992.0 
+cost savings and collaboration drive b2b e-payments m trombly computerworld    
+non-monotonic reasoning in florid . pt kandzia lecture notes in computer science   1997.0 
+mechanisms of brain injury ta gennarelli journal of emergency medicine   1993.0 
+attachment style   gender   and relationship stability : a longitudinal analysis la kirkpatrick   ke davis journal of personality and social psychology   1994.0 
+the logical framework method for defining project success d baccarini project management journal   1999.0 
+an empirical study of information technology outsourcing : benefits   risks   and performance l loh   n venkatraman proceedings of the international conference on information & hellip ;   1995.0 
+ttp-a protocol for ft-rt systems h kopetz   g grunsteidl ieee computer    
+van den bosch p.   klopman g. and broekens rdnumerical simulation of wave motion on and in coastal vderm jw   hah petit proceedings of the 23rd international conference on coastal  
+structure and function of the glycocalyx s ito fed . proc   1969.0 
+estimating models with sample selection bias : a survey f vella the journal of human resources   1998.0 
+g-whiz   a visual interface for the functional model witk recursioa s heiler   a rosenthal proc . 1 lth intl. conf . vldb   stockholm   sweden    
+continuity and change in geography textbooks : perspectives from the 1930s to the 1960s we marsden geography    
+airway management of aeromedically transported trauma patients . dj o'brien   df danzl   mb sowers   ea hooker journal of emergency medicine   1988.0 
+the interpersonal theory of psychiatry hs sullivan   
+modelling business rules in an office environment p loucopoulos   e katsouli acm sigois bulletin   1992.0 
+integrating mining with relational databases : alternatives and implications s sarawagi   s thomas   r agrawal acm sigmod conference    
+taking the risk and making a difference . s horn new directions for higher education   1988.0 
+depth-first generation of large itemsets for association rules r agrawal   c aggarwal   v prasad proc . 2000 acm knowledge discovery and data mining conf    
+inhaled vs oral steroids for adults with chronic asthma b mash   a bheekie   pw jonesÃÂ¢ ? ÃÂ¦ cochrane database syst rev   2000.0 
+minority achievement : policy implications of research rl crain   re mahard see hawley    
+commercial experience of sealed storage of bag stacks in indonesia yc nataredja   rj hodges aciar proceedings no. 25 . fumigation and controlled & hellip ;    
+grappling with knowledge g gartner computerworld    
+kspc ( keystrokes per character ) as a characteristic of text entry techniques is mackenzie lecture notes in computer science   2002.0 
+multi-resolution video representation for parallel disk arrays t chiueh   rh katz & hellip ; of the first acm international conference on multimedia   1993.0 
+employing the periphery : the window as interface . chi '99 extended abstracts   pittsburgh   may 1999 r rodenstein acm press   new  
+multi-body simulation of a helicopter landing with skid landing gear in various attitudes and soil c caprile   a airoldi   a biaggi   p mandelli european rotorcraft forum   25 th   rome   italy   proceedings.   1999.0 
+environmental control of hair and sporangial formation in the marine red alga acrochaetium ja west proc . int . seaweed symp    
+polymer   19   255 crc press n thomas   ah windle new york    
+critical chain project scheduling : do not oversimplify w herroelen   r leus   e demeulemeester project management journal   2002.0 
+pre-operative autologous donation for minimising perioperative allogeneic blood transfusion da henry   pa carless   aj moxey   do ` connell   ma cochrane database syst rev   2002.0 
+mats ( metric/allen time system ) documentation . at & t bell laboratories   1991 . 12   my kim and j. song . h kautz proc . acm  
+a macro for converting mean separation output to letter groupings in proc mixed . p. 1243-1246 am saxton proceedings of the 23rd annual sas users group inter . conf.   & hellip ;    
+theoretical perspectives on instructional problems rj menges   m svinicki new directions for teaching and learning    
+the pho 85 kinase   a member of the yeast cyclin - dependent kinase ( cdk ) family   has a regulation m nishizawa   k suzuki   m fujino   t oguchi   a toh-e genes to cells   1999.0 
+distributed output feedback control of two-time-scale hyperbolic pde systems pd christofides   p daoutidis applied mathematics and computer science   1998.0 
+industry perspectives on the impact of it and e-commerce k ruikar   cj anumba   pm carrillo proceedings of the 3rd international conference on & hellip ;    
+minority-serving institutions : an overview em o'brien   c zudak new directions for higher education   1998.0 
+a database management system for the federal courts jr buchanan   rd fennell   h samet acm transactions on database systems   1984.0 
+distributed sensor networks for detection of mobile radioactive sources rj nemzek   js dreicer   dc torney   tt warnock ieee transactions on nuclear science   2004.0 
+database machines syw su   pb berra   p fisher   h chang   s schuster   g proceedings of the 1978 acm sigmod international conference & hellip ;   1978.0 
+transfusion thresholds and other strategies for guiding allogeneic red blood cell transfusion sr hill   pa carless   da henry   jl carson   pc cochrane database syst rev   2002.0 
+on rules   procedures   caching and views m stonebrakerÃÂ¢ ? ÃÂ¦ proc . 1991 acm-sigmod conference on management of data   & hellip ;    
+transformation : the missing link of mda a gerber   m lawley   k raymond   j steel   a wood lecture notes in computer science   2002.0 
+operator scheduling in data stream systems b babcock   s babu   m datar   r motwani   d thomas the vldb journal the international journal on very large & hellip ;   2004.0 
+comparison of interface state density in mis structure using deduced dlts and terman measurements e rosenecher   d bois electronic letters    
+applying traits to the smalltalk collection classes ap black   n scharli   s ducasse   
+coexistence and transformation of data ed falkenberg vldb   1977.0 
+appreciating diverse learners in the social studies classroom . children 's literature . t mcgowanÃÂ¢ ? ÃÂ¦ social studies and the young learner   1995.0 
+updating xml views of relational data xl dong   p bohannon   hf korth   p narayan submitted for publication    
+acute and chronic toxicity of 75 pesticides to various animal species ee kenaga down to earth    
+the maple handbook d redfern  1993.0 
+embracing change with extreme programming k beck   
+siegel man ss s greenstein   ek fishman   sl kaufman   s kadir & hellip ; the retroperitoneum . ct demonstration . j computassit tomogr    
+three perspectives on school reform a sen   jb vaughn   t flanagan new directions for program evaluation   1993.0 
+vision : visual   vstore   and o-algebra nh balkir   y lin   n yazdani   g ozsoyoglu   zm unpublished manuscript    
+research articles and surveys j blakeley acm sigmod record   2005.0 
+honeycomb-automated nids signature generation using honeypots   poster paper c kreibich proceedings of acm sigcomm    
+new metric for object-oriented design jy chen   jf lu information and software technology   1993.0 
+magmillÃÂ¢ ? cents prototype testing rr oder   ed brandner   re jamison   
+function-class decomposition : a hybrid software engineering method ck chang   
+valuation implications of the components of earnings : cross-sectional evidence from greece a ballas   
+bounds for the positive eigenvectors of nonnegative matrices and for their approximations by pj courtois   p semal journal of the acm ( jacm )   1984.0 
+in vivo structure/function analyses of c. elegans mec-4   a candidate mechanosensory ion channel k hong   i mano   m driscoll   
+tricolor inheritance . i. the tricolor series in guinea-pigs hl ibsen   
+r.   marriott   k.ÃÂ¢ ?? constraints for the webÃÂ¢ ?? al borning proceedings of acm multimedia  
+efficacy of sane evidence collection : a minnesota study le ledray   k simmelink journal of emergency nursing   1997.0 
+a 42-year-old man with rhabdomyolysis from substance abuse and minor trauma c rush   j thomas journal of emergency nursing   1999.0 
+racism   conservatism   affirmative action   and intellectual sophistication : a matter of principled j sidanius   f pratto   l bobo journal of personality and social psychology   1996.0 
+the personal and professional challenge of peacekeeping r weekes   dj kealey   j mantha   d macdonald   e unpublished manuscript    
+words into type : meeting the corporate challenge d burns   s venit pc magazine . december    
+diverse world of unconventional hydrogen bonds . nv belkova   es shubina   lm epstein acc . chem . res   2005.0 
+soil analysis as a necessary complement to leaf analysis for fertilizer advisory purpose sf du plessis proc int soc citriculture    
+students ' perspectives on their master 's degree experiences : disturbing the conventional wisdom cf conrad   km duren   jg haworth new directions for higher education   1998.0 
+measurement and prediction of the verification cost of the design in a formalized methodology h robain   y albouy   m dabas   m descloitres   c information and software technology   1999.0 
+electron microscopy sample preparation for the biological and physical sciences using focused ion la giannuzzi   bi prenitzer   jl drown-macdonald   tl at process   1998.0 
+on longest cycles in a balanced bipartite graph with ore type condition i a kaneko   k yoshimoto   
+campus services : a variety of alternatives . ah degraff new directions for higher education   1979.0 
+chippewa flowage investigations . part 1 : summary report sm born   wb lord   f alston   w bernhagen   j binando inland lakes demonstration project   funded by the upper & hellip ;   1972.0 
+the effects of welfare reform in philadelphia . c michalopoulos new york : manpower demonstration research corporation   & hellip ;    
+interpolation of missing samples for audio restoration or jjk   wj fitzgerald electronic letters    
+color in business   science and industry db judd   
+serving culturally diverse populations : a social imperative for adult and continuing education . jm ross-gordon new directions for adult and continuing education   1990.0 
+using taxonomy   discriminants   and signatures for navigating in text databases ''   vldb 1997   446-455 s chakrabarti   d dom   r agrawal   p raghavan the vldb journal    
+facet ' - face gears in aerospace transmissions a caruso   c gorla european rotorcraft forum   25 th   rome   italy   proceedings.   1999.0 
+a study of high precision servo-spindle for hard gear finishing machines t emura   a arakawa   m hashitani proc . int . conf . advanced mechatronics    
+evaluation of the welding performance of a 1 kw pulsed nd : yag laser with fibre optic beam delivery as nasla & hellip ; applications in the automotive industry   proceedings   25 th & hellip ;   1992.0 
+antistreptococcal interventions for guttate and chronic plaque psoriasis cm owen   rj chalmers   to ` sullivan   ce griffiths cochrane database syst rev   2000.0 
+structural convergence of mood and personality : evidence for old and new directions gj meyer   jr shack journal of personality and social psychology   1989.0 
+optimizing queries across diverse data sources lm haas   d kossmann   el wimmers   j yang vldb   1997.0 
+on random sampling over joins s chaudhuri   r motwani   vr narasayya   
+secure statistical databases with random sample queries de denning acm transactions on database systems   1980.0 
+the manufacturing frontier : pioneer industry in antebellum wisconsin   1830-1860 m walsh  1969.0 
+a comparison of hardware prefetching techniques for multimedia df zuckerÃÂ¢ ? ÃÂ¦ technical report csl-tr-95-683   stanford university depts . of  
+design recovery for reuse and maintenance t biggerstaff ieee computer    
+mechanisms for biological effects of ultrasound el castensen   
+structure du sacerdoce chrÃÂ£ ÃÂ© tien y congar md    
+providing database-like access to the web using queries based on textual similarity ww cohen sigmod conference   1998.0 
+near neighbor search in large metric space in : proc . 21st int s brin conf . on vldb    
+the evolution of life histories : theory and analysis : chapman and hall da roff new york    
+the relationship of the glycemic index to lipogenesis in humans ej parks proceedings of the 6th ( millenium ) vahouny conference   [ d & hellip ;    
+forum closing panel rf rosin history of programming languages -- ii table of contents   1996.0 
+integrating contents and structure in text traversal r baeza-yates   g navarro sigmod record    
+the roles of fpgaÃÂ¢ ?? s in reprogrammable systems s hauk proceedings of the ieee    
+large-eddy simulation of a blu-body ow on unstructured grids s camarri   mv salvetti   b koobus   a dervieux submitted for publication   2001.0 
+others   schema and database evolution in the o 2 object database system f ferrandina   t meyer   r zicari proc . vldb ( sep. .  
+mis group regains end user 's confidence . j bartimo computerworld.   1982.0 
+australian managers ' perceptions   attitudes and use of information technology gj o'brien   wd wilde information and software technology   1996.0 
+three-dimensional modelling and rendering of the human skeletal trunk from 2d radiographic images s delorme   y petit   ja de guise   cÃÂ£ ? aubin   h   
+performance of an iterative reconstruction algorithm for near infrared absorption and scatter sr arridge   m schweiger   m hiraoka   dt delpy proc .  
+the third text retrieval conference ( trec-3 )   gaithersburg dk harman md    
+projet animÃÂ£ ÃÂ© par le cript du groupe des ecoles telecom c du moulin   
+efficient modelling and performance simulation of neural associative memory networks g athithan  1997.0 
+belief optimization for binary networks : a stable alternative to loopy belief propagation . accepted m welling   yw teh  2001.0 
+the value of a ged in a choice-based experimental sample g cave   j bos  1994.0 
+negotiating the margins : some principles for responding to our students ' writing   some strategies e hodges new directions for teaching and learning   1997.0 
+development of physics text corpora for latent semantic analysis dr franceschetti   a karnavat   j marineau   gl   
+kerberos authentication and workstation services and kerberos authentication at project athena . d davis   r swick  1990.0 
+the input and output of chinese and japanese characters jk huang ieee computer    
+a popularity-based prediction model for web prefetching x chen   
+sb thomas for the hires collaboration jn matthews proc . 28th int . cosmic ray conf . ( tsukuba )    
+mining frequent patterns without candidate j han   j pei   y yin proc . 2000 acmsigmod int . conf . on management of data ( & hellip ;    
+physical design for surface-micromachined mems gk fedder   t mukherjee   
+chemeca 95   3 : 45ÃÂ¢ ?? 49   canberra : the institution of engineers   australia t srinorakutara   z zhang   cr thomas isbn    
+iml-inscribed nets for modeling text processing and data ( base ) management systems g richter vldb    
+using laser to produce a new material for the automtive industry w prange   c schneider & hellip ; applications in the automotive industry   proceedings   25 th & hellip ;   1992.0 
+lnside com d rogerson  1997.0 
+anomalous behavior of the upper critical field in extreme type-ii superconductors at low s dukan   o vafek   
+european testbed for broadband communication   reference applications and infrastructure k jonas   k rebensburg tubkom   technical university berlin    
+dial access platform j chuter bt technology journal   2000.0 
+data base decomposition in a hierarchical computer system portal.acm.org   
+the xps approach to loading and unloading terabyte databases s atal proceedings of the international conference on very large & hellip ;   1996.0 
+grand challenges in embedded systems j sztipanovits   j glossner   t mudge   c rowen   a proceedings of the 5th acm international conference on & hellip ;   2005.0 
+public-key functions as intractable as factorization . '' m rabin   d signatures mit/lcs/tr -212   mit laboratory for computer science   cambridge    
+flow cytometry analysis : a high technology crossmatch technique facilitation transplantation mr garovoy   ma rheinschmidt   m bigosÃÂ¢ ? ÃÂ¦  1983.0 
+generation of views of tv content using tv viewersÃÂ¢ ?? perspectives expressed in live chats on the h miyamori   s nakamura   k tanaka proceedings of the 13th annual acm international conference & hellip ;   2005.0 
+bhavani thuraisingham the mitre corporation   burlington road   bedford   ma t r & d sigmod record   1992.0 
+acoustic indicators of topic segmentation j hirschberg   c nakatani   
+in search of software maintenance productivity and quality : does software complexity matter ? rd banker   sa slaughter proceedings of the international conference on information & hellip ;   1994.0 
+mining frequent patterns with out candidate generation j han   j pei   y yin proceedings ofacm international conference on management of & hellip ;    
+optimization methods for minimum power bidirectional topology construction in wireless networks with ak das   rj marks   m el-sharkawi   a gray submitted for  
+exclusion of four candidate kidney disease loci by linkage analysis in familial juvenile m greener   am marinaki   mm town   f moro   ha cellular and molecular biology letters   1999.0 
+rehabilitation and reuse of college and university facilities . hl goyette new directions for higher education   1980.0 
+governance structure in the deregulated trucking industry tn hubbard  1998.0 
+on the gravitational effects of distant rotating masses l bass   fae pirani phil . mag    
+fourier analysis with respect to bilinear maps o blasco   j calabuig   
+new approaches to parsing conjunctions using prolog s fong   rc berwick proceedings of the 23rd conference on association for & hellip ;   1985.0 
+co2 as an exhaust emissions surrogate in small dieselized mines mk gangal   ed dainty   g kunchur procs . 5th us mine ventilation symposium    
+weblab ! a universal and interactive teaching   learning   and laboratory environment for the world cm boroni   fw goosey   m grinder   rj ross   p   
+genetic control of fatty acid composition in oilseed crops rk downey   dg dorrell proc . int . flax . inst    
+modeling large scale olap scenarios w lehner lecture notes in computer science   1998.0 
+the martensite transformation in stainless steel ja venables phil . mag    
+a testbed fear wide area atm research dl tennenhouse   im leslie proc . acm  
+supporting full-text information retrieval with a persistent object store . acms anthology   
+solynin   ÃÂ¢ ?? modules and extremal-metric problems   ÃÂ¢ ?? a yu algebra i analiz    
+stress without distress h selye   
+lai and cl . lei . data prefetching for distributed shared memory systems a ic proc . of the 29th hawaii intÃÂ¢ ?? l conf . on system sciences (  
+accurate estimation of the number of tuples satisfying a condition gp shapiro   c connell proc . of sigmod    
+transient-state kinetic approach to mechanisms of enzymatic catalysis hf fisher acc . chem . res   2005.0 
+on the phenomenology of tilted domains in lamellar eutectic growth b caroli   c caroli   s fauve j. phys . i france   1992.0 
+the role of syntactic tree structure in the construction of subject-verb agreement g vigliocco   j nicol unpublished manuscript    
+the roles of neural and evolutionary computing in intelligent software systems kc tsui   b azvine   m plumbley bt technology journal    
+temperament and behavior disorders in children a thomas  1968.0 
+local constructions of infinity structures d sullivan to  
+the scattering of ÃÂ® ÃÂ± and ÃÂ® ÃÂ² particles by matter and the structure of the atom e rutherford phil . mag   1911.0 
+the hot-blooded insects : strategies and mechanisms of thermoregulation b heinrich  1993.0 
+the clinical development of 9-aminocamptothecin ch takimoto   r thomas annals-new york academy of sciences   2000.0 
+meeting the challenge . jm civikly new directions for teaching and learning   1986.0 
+the evolutionary cost of learning g mayley   
+learning through acquisitions f vermeulen   h barkema   
+is it too late to put the user back into html ? k magel   
+molecular support for vicariance as a source of diversity in rainforest l joseph   c moritz   a hugall proceedings : biological sciences   1995.0 
+sampling for histogram construction : how much is enough in sc cmn   r motwani   vr narasayya proceedings of the acm sigmod international conference on  
+storing semistructured data with stored a deuntsch   m fernandez   d suciu proceedings of acm  
+the cap framework for business process modeling p keith information and software technology    
+congressional government w wilson   
+case for output management systems . k schwaber computerworld.   1981.0 
+xml 's impact on databases and data sharing l seligman   
+constructivism : theory   perspectives   and practice ct fosnotÃÂ¢ ? ÃÂ¦  1996.0 
+taming the underlying challenges of reliable multihop routing a woo   t tong   d culler proc . acm  
+vegetation   cattle   and economic responses to grazing strategies and pressures wa manley   rh hart   mj samuel   ma smith   jt manley journal of range management   1997.0 
+for the pierre auger collaboration m roth proc . 28th icrc   ( tsukuba   japan   2003 )  
+random surface discretizations and the renormalization of the bending rigidity g gompper   dm kroll j. phys . i france   1996.0 
+on the origin of the hungarian method hw kuhn history of mathematical programming : a collection of  
+optimal software release time incorporating fault correction s gokhale   
+assessment of pain management skills in emergency medicine residents : the role of a pain education jb jones journal of emergency medicine   1999.0 
+making network interfaces less peripheral ss mukherjee   md hill ieee computer   1998.0 
+mentoring program practices and effectiveness . aw johnson   ja sullivan new directions for adult and continuing education   1995.0 
+information rules da stirling sigmod record   2003.0 
+automatic clustering for browsing personal photographs jc platt   m czerwinskim   bp field microsoft research technical report msr-tr-2002-17    
+decoupling partitioning and grouping : overcoming shortcomings of spatial indexing with bucketing h samet acm trans . database syst   2004.0 
+requirement of transfer-messenger rna for the growth of bacillus subtilis under stresses a muto   a fujihara   k ito   j matsuno   c ushida   h genes to cells   2000.0 
+parametric estimation and spectral analysis of chaotic time series a lopes   s lopes submitted for publication   1995.0 
+sar interferometry : an application of simulated annealing to phase unwrapping s dupont   d labrousse   m berthod   s antipolis proceedings of the scandinavian conference on image analysis   1995.0 
+nucleic acid res y furuichi  1974.0 
+ming frequent patterns without candidate generation p hanj   y yin dallas   tx   usa : proc . 2000 acm-sigmod int . conf . on & hellip ;    
+improved server assisted signatures k bicakci   n baykal   k bicakci   n baykal computer networks   2005.0 
+software pipelining : a comparison and improvement rb jones   vh allan   
+type safety and behavioural inheritance rg clark information and software technology   1995.0 
+trace element determinations in food and biological samples using icp-ms sa baker   dk bradshaw   nj miller-ihli at . spectrosc    
+high sample throughput with rapid microsampling flow injection icp-ms er denoyer   a stroch   q lu  1993.0 
+optimal one-sample testing procedures based on hyperplanes h oja   d paindaveine  2003.0 
+does reduced length of stay decrease the number of emergency department patients who leave without cmb fernandes   a price   jm christenson journal of emergency medicine   1997.0 
+selecting concise sets of samples for a reinforcement learning agent d ernst   
+kudoa-the irish experience . salmon industry perspectives r palmer & hellip ; of agriculture   fisheries and food   aquaculture industry & hellip ;    
+eiffel : a design and implementation language for software engineering b meyer inter.   university of california   santa barbara   novembre    
+the grieving soul in the transformation process sm scott new directions for adult and continuing education   1997.0 
+success and failure factors for implementing effective electronic markets t fong   d fowler   pmc swatman electronic markets   1998.0 
+radiation detection with distributed sensor networks sm brennan   am mielke   dc torney   ab maccabe   
+icarus corporation : rockville ip evaluator   
+prophylactic intravenous indomethacin for preventing mortality and morbidity in preterm infants pw fowlie   pg davis cochrane database syst rev   2002.0 
+distributed application support : survey and synthesis of existing approaches a schill information and software technology   1990.0 
+guerriers du sel   sauniers de la paix fm renard-casevitz see ref   1993.0 
+computing the ambiguity function on various domains l auslander   i gertner submitted for  
+in j. padhye und s. floyd oitcp behavior proceedings of acm siggcom    
+coarse-grain dynamics and the conley decomposition theorem de norton  1994.0 
+communication strategies for shared-bus embedded multiprocessors nk bambha   ss bhattacharyya proceedings of the 5th acm international conference on & hellip ;   2005.0 
+ground radar target classification using singular value decomposition and multilayer perceptron z matousek   j kurty   i mokris   
+output retrenchments   defaults   stronger compositions   feature engineering r banach   c jeske   
+multicommodity distribution system design by benders decomposition am geoffrion   gw graves management science   1974.0 
+minos 5.4 userÃÂ¢ ?? s guide ( preliminary ) ba murtagh   ma saunders & hellip ; of operations research stanford university   technical report & hellip ;    
+the design   implementation and evaluation of a software-based real-time ethernet protocol t chiueh   c venkatramani proceedings of acm sigcomm   1995.0 
+direct diode laser welding of aerospace alloys sw williams   g scott   nj calder laseropto-stuttgart -   2001.0 
+semantic integration in heterogeneous databases using neural networks ws li   c clifton vldb   1994.0 
+a vlsi decomposition of the de bruijn graph o collins   s dolinar   r mceliece   f pollara   
+zhemkov   ÃÂ¢ ?? radiation conditions during the preparation of irradiated bor-60 fuel assemblies for vv serebryakov   ap kirillovich   i yu at .  
+impacts of information systems : four perspectives vj symons information and software technology   1991.0 
+landfill gas in use as a fuel for process firing and power generation mg robinson proceedings of d. & e. conference on land-fill gas : energy & & hellip ;    
+concurrent signatures l chen   c kudla   kg paterson lecture notes in computer science   2004.0 
+id-nouveau ( version 88.0 ) reference manual rs nikhil technical report   mit laboratory for computer science   cambridge  
+fe-simulation of 3-d sheet metal forming processes in automotive industry j reissner zurich   switzerland   vdi-verlag    
+an evaluation paradigm for cumulative impact analysis ez stakhiv environmental management   1988.0 
+tree-gouging   exudate-eating and the ÃÂ¢ ?? short-tuskedÃÂ¢ ?? condition in callithrix and cebuella af coimbra-filho   ra mittermeier see ref    
+x-ray diffraction procedures for polycrystalline and amorphous materials hp klug   le alexander  1974.0 
+it industry lags behind nation in hiring blacks . l copeland computerworld    
+self-evaluative and self-efficacy mechanisms governing the motivational effects of goal systems a bandura   d cervone journal of personality and social psychology    
+second edition ole inside  1995.0 
+inside ole 2 > > k broekschmidt  1994.0 
+l. lozwiak   '' synthesis of xor storage schemes with different cost for minimization of memory s chen   a postula proceedings of the 25 &#39; h euromicro conference   sep    
+storing semi-structured data with stored dm fernandez   d suciu & hellip ;   pennslyvania : proceedings of the acm sigmod conference    
+fractional levy motion and its application to network traffic modeling n laskin   i lambadaris   fc harmantzis   m computer networks   2002.0 
+effect of cep-751 ( kt-6587 ) on neuroblastoma xenografts expressing trkb ae evans   kd kisselbach   x liu   a eggert   n   
+type inference and principal typings for symmetric record concatenation and mixin modules h makholm   jb wells   
+a view selection tool for multidimensional databases hm jamil   ga modica   
+modification of belief in evidential causal networks fj mcerlean   da bell   jw guan information and software technology   1999.0 
+r-trees : a dynamic index structure for spatial searching   in `` proc a guttman sigmod intl. conf . on management of data    
+spatial audio technology for telepresence mp hollier   an rimmell   d burraston bt technology journal   1997.0 
+o-policy temporal difference learning with function approximation d precup   r sutton   
+on holder estimtes for ou f on weakly pseudoconvex domains rm range to  
+harden the tcp/ip stack h to microsoft corporation    
+how much of immigrant wage assimilation is related to english language acquisition ? e funkhouser   
+neural networks for control ; proceedings of the 1999 american control conference m hagan   h demuth san diego    
+the rules of the game : the unwritten code of career mobility . m ross   m green new directions for higher education   1990.0 
+mullaproeessor hash-based jom algorithms d dewltt   r gerber & hellip ; of the 1985 vldb conference   stockholm   sweden   august    
+models for studying concurrency control performance : alternatives and implications r agrawal   mj carey   m livny proceedings of the 1985 acm sigmod international conference & hellip ;   1985.0 
+an application for process regulation and process control nr sripada   dg fisher   aj morris iee proceedings-d    
+assessing the departmental major . b fong new directions for teaching and learning   1988.0 
+the cultural portfolio in beginning teacher preparation : a practical approach to identifiying and v lea   b evans & hellip ; research association annual meeting   seattleÃÂ¢ ??   washington    
+the detection of asw aircraft by their underwater acoustic signaturesÃÂ¢ ?? a theoretical and j nitsche   j waters proc . 29th navy symp . underwater  
+an empirical study of a software reuse reference model dc rine   n nada information & software technology   2000.0 
+adapting packet fair queueing to wireless networks p ramanathan   p agrawal proc . of acm mobicomÃÂ¢ ?? 98    
+disconnected operation in publish/subscribe middleware i burcea   ha jacobsen   e de lara   v muthusamy   m   
+modeling and simulation of the cascade brushless doubly-fed machine s bian   y he   z pan submitted for  
+thermal decomposition of dinitrobenzofuroxan adducts with metal hydroxides b lurie   e nikitina   v sinditskii proc . of the 29th annual conf . on thermal analysis and  
+random summation : limit theorems and applications bv gnedenko   vy korolev  1996.0 
+indexing in a hypertext database c clifton   h garcia-molina vldb   1990.0 
+increased volume/length of stay for pediatric mental health patients : one ed 's response j meunier-sham journal of emergency nursing   2003.0 
+kinetics of complexation of ÃÂ® ÃÂ² - cyclodextrin with molecules confined in a single oil droplet e meyer   mf islam   w lau   hd ou-yang submitted to  
+vaginal prostaglandin ( pge2 and pgf2a ) for induction of labour at term aj kelly   j kavanagh   j thomas cochrane database syst rev   2001.0 
+content-based image indexing t chiueh vldb   1994.0 
+a cognitive model for minspeak nw bray 5th annual minspeak conference   seattle   washington   & hellip ;    
+using taxonomy   discriminan ts   and signatures for navigating in text databases . in : proc of the s chakrabarti   b dom   r agrawal  1997.0 
+adultlearnersand internetbased distance education in adult learning and the internet dv estmond new directions for adult and continuing education    
+molecular dynamics using the tight-binding approximation : application to liquid silicon ( abstract r virkkunen   k laasonen   rm nieminen oulu univ   proceedings of the 25 th annual conference of the & hellip ;   1991.0 
+afc programmer 's guide sr davis  1998.0 
+recovery of object-oriented design from existing data-intensive business programs hbk tan   tw ling information and software technology   1995.0 
+trends in world agricultural land use : potential and constraints r lal see ref    
+random cascade sputtering model mw thompson phil . mag    
+die das ergebnis einer katalytischen reaktion beeinflussen : js johnson   da evans b fr nichtkoordinierende liganden acc . chem . res    
+metric operations on fuzzy spatial objects in databases m schneider   
+some viscous flow problems b squire phil . mag    
+designing an atm switch for extreme reliability a hermelee   g mcelvany computer networks   1999.0 
+molecular approaches to assessing red sea urchin ( strongylocentrotus franciscanus ) populations : p debenham  1997.0 
+reuse of proofs in software verification w reif   k stenzel lecture notes in computer science   1993.0 
+block decomposition of inheritance hierarchies c capelle proceedings of the 23rd international workshop on graph - & hellip ;   1997.0 
+incremental distance join algorithms for spatial databases gr hjaltason   h samet sigmod conference   1998.0 
+physics of shock waves and high-temperature hydrodynamic phenomena ( academic   new york   1966 ) yb zel ` dovich   yp raizer vol .  
+maintaining unstructured case bases - group of 4 & raquo ; k racine   q yang lecture notes in computer science   1997.0 
+graph indexing : a frequent structure-based approach x yan   ps yu   j han & hellip ; . 2004 acm sigmod int . conf . on management of data ( sigmod  
+distributed dbms means cost   trouble js bozman computerworld    
+anthropology as the mutual interpretation of cultures . indian perspectives tn madan see fahim    
+spatial cognition gd richardson  1982.0 
+: a tool for identifying attribute correspondences in heterogeneous databases using neural networks ws li   c clifton data & knowledge engineering   2000.0 
+driving style and traffic measures-influence on vehicle emissions and fuel consumption j van mierlo   g maggetto   e van de burgwal   r proceedings of the i mech e part d journal of automobile & hellip ;   2004.0 
+the process specification language ( psl ) : overview and version 1.0 specification . nistir 6459   c schlenoff   m gruninger   f tissot   j valois   j   
+a performance comparison of the ibm rs/6000 and the astronautics zs-1 w mangione-smith   sg abraham   es davidson   
+icicles : selftuning samples for approximate query processing v ganti   ml lee   r ramakrishnan proceedings of vldb    
+sensorless force reflecting teleoperation for low cost web-interfaced systems r oboe   s piovan   
+the influence of size and life cycle duration of a lunar base on its logistics cost hh koelle technical university berlin   ilr mitt    
+acm multimedia '94 conference workshop on multimedia database management systems pb berra sigmod record   1995.0 
+performance of data-parallel spatial operations eg hoel   h samet proceedings of the international conference on very large & hellip ;   1994.0 
+13-cis retinoic acid and all-trans retinoic acid in the regulation of the proliferation and survival e czeczuga-semeniuk   s wolczynski   j dzieciol   m cellular and molecular biology letters   2001.0 
+molekulare analyse des sexpeptidgens aus drosophila melanogaster d styger  1992.0 
+transformation from html to xml : methodology and tools l bishay   jw rahayu   d taniar submitted for publication    
+function decomposition in machine learning b zupan   i bratko   m bohanec   j demsar   
+the challenge of serving teenage mothers : lessons from project redirection df polit  1988.0 
+netra : a toolbox for navigating large image databases   ieee int ' l conf wy ma   bs manjunath image process.   santa barbara   california    
+modeling dna transition using markov random network j white   j chen   j wang   kjr liu submitted for  
+conceptual modeling and specification generation for b2b business process based on ebxml . hd kim sigmod record   2002.0 
+d. kossmann . el wimmers . and j. yang . optimizing queries across diverse data sources l haas proceedings of international conference on very large  
+multivalueddependencieswithnullvaluesinrelationaldatabases e lien proc . 5th int . conf . very large data bases    
+supplemental instruction sessions in college algebra and calculus sl burmeister   jm carter   lr hockenberger   pa new directions for teaching and learning   1994.0 
+full text full text available on the publisher site publisher sitesource bt technology journal pj sheppard   gr walker bt technology journal   1997.0 
+inorganic reaction mechanisms meeting mj hynes athens   greece    
+the gdl cookbook d nicholson-cole   
+maintenance of stratified databases viewed as a belief revision system k apt   jm pugin proceedings of the sixth acm sigact-sigmod-sigart symposium & hellip ;   1987.0 
+constructive approximation for a class of perturbed hammerstein integral equations   december 1997 a sommariva   m vianello   
+fire dynamics simulatorÃÂ¢ ?? technical reference guide   version 2 . nistir 6783   national institute of kb mcgrattan   gp forney   j floyd md    
+taxonomies by the numbers : building high-performance taxonomies sc gates   w teiken   ksf cheng proceedings of the 14th acm international conference on & hellip ;   2005.0 
+pitch predictors with high temporal resolution p kroon   bs atal   
+institutional evolution and change : environmentalism and the us chemical industry aj hoffman the academy of management journal   1999.0 
+copy detection mechanismsfor digital documents s brin   j davis   h garcia-molina proceedings of the acm special interest group on management & hellip ;    
+inhibition of flavonoid biosynthesis by gibberellic acid in cell suspension cultures of daucus w hinderer   m petersen   hu seitz planta   1984.0 
+independent and cumulative yields of neutron-rich nuclei in symmetric fission induced by p and d on m leino   pp jauho   j aysto   p decrock   p dendooven oulu univ   proceedings of the 25 th annual conference of the & hellip ;   1991.0 
+interpolation of missing samples for audio restoration   wj fitzgerald electronic letters   1994.0 
+new yonk : random house u american   
+primary aortoenteric fistula in the emergency department fl mirarchi   md scheatzle   rj mitre journal of emergency medicine   2001.0 
+simulation of the ambler environment h thomas   d wettergreen   c thorpe   
+symmetric relations and cardinality-bounded multisets in database systems k ross   j stoyanovich proceedings of the international conference on very large & hellip ;   2004.0 
+economic integration in the americas : european perspectives a venables   l winters unpublished manuscript    
+tools for privacy preserving distributed data mining c clifton   m kantarcioglu   j vaidya   x lin   my zhu   
+organizational charts really do matter . m schrage computerworld    
+version 4.0 f simulator microsoft corporation    
+the implication problem for measure constraints b sayrafi   d van gucht   m gyssens  2005.0 
+neural networks in control tm willems technical university of eindhoven   eindhoven    
+african writing and text   ottawa : legas   2000 s battestini   
+using taxonomy   discriminants   and signatures for navigating in text databases s chakrabarti   b dom   r agrawal   p raghavan vldb   1997.0 
+ÃÂ¢ ?? neuralÃÂ¢ ?? computation of decisions in optimization problems jj hopfield   dw tank biological cybernetics   1985.0 
+candidate thesis in chemical sciences   nizhegorodsk ov vasil ` eva technical university   nizhnii novgorod    
+invited talk at theÃÂ¢ ?? int miniworkshop on neutrino masses and mixingsÃÂ¢ ?? w louis seattle   washington   april    
+dopaminergic mechanisms in drug induced temperature effects a horita   rm quock see ref    
+a query language and optimization techniques for unstructured data p buneman   s davidson   g hillebrand   d suciu sigmod conference   1996.0 
+the vienna development method : the meta-language d bjÃÂ£ ÃÂ¸ rner   cb jones lecture notes in computer science   1978.0 
+on the equilibrium of liquid conducting masses charged with electricity l rayleigh phil . mag    
+modular mixin-based inheritance for application frameworks d duggan   cc techaubol   
+the carteret islands : precedents of the greenhouse effect ? j connell geography    
+cigarette smoke : stimulatory effect of metabolism of 3   4 -- benzpyrene by enzymes in rat lung . rm welch   a loh   ah conney life sci . [ i ]   1971.0 
+an attention-based approach to content-based image retrieval a bamidele   fwm stentiford   j morphett bt technology journal   2004.0 
+slide insert into the fireplace far enough to attach connector to flue outlet fb fireplace see *  
+neural mechanisms of cortico-cortical interaction in texture boundary detection a thielscher   h neumann   
+storing semistructured data with stored admfd suciu proc of the acm sigmod international conference on & hellip ;   1999.0 
+embedded data glyph technology for hardcopy digital documents dl hecht proc . spie   1994.0 
+optimization-based verification and stability characterization of piecewise affine and hybrid a bemporad   fd torrisi   m morari lecture notes in computer science   2000.0 
+a taxonomy of ip traffic matrix estimation : existing techiniques and new directions a medina   n taft   k salamatian   s bhattacharyya   c proc . acm sigcomm    
+quality-of-service in packet networks : basic mechanisms and directions r guerin   v peris  1999.0 
+pricing strategies under heterogeneous service requirements m mandjes computer networks   2003.0 
+on the effect of join operations on relation sizes d gardy   c puech acm trans . database syst   1989.0 
+the influence of velocity profile on ultrasonic flowmeter performance aga 1998 operations conference ta grimley seattle   washington ( may 17-19    
+study of internal stresses of thin solar cell modules kj zimmermann   u haeverli  1982.0 
+the demarcation protocol : a technique for maintaining constraints in distributed database systems d barbarÃÂ£ ÃÂ¡ - millÃÂ£ ÃÂ¡   h garcia-molina the vldb journal the international journal on very large & hellip ;   1994.0 
+heterogeneous decomposition and inter-level coupling for combined modeling pa fishwick   
+evaluating training in business and industry r brinkerhoff new directions in program evaluation    
+upper and lower bounds for the tails of the distribution of the condition number of a gaussian jm azais   m wschebor submitted for publication   2003.0 
+efficient robust parallel computations zm kedem   kv palem   pg spirakis proceedings of the twenty-second annual acm symposium on & hellip ;   1990.0 
+in : folding of the ldl receptor in the endoplasmic reticulum a jansens  2002.0 
+data integration in the large : the challenge of reuse a rosenthal   lj seligman proceedings of the international conference on very large & hellip ;   1994.0 
+practical improvements to the lee-more conductivity near the metal-insulator transition mp desjarlais   
+processing in memory : the terasys mas-sively parallel processor-in-memory array m gohkle   b holmes   k iobst ieee  
+das management-audit : wie fit sind ihre fÃÂ£ 1/4 hrungskrÃÂ£ $ fte-faz-inst . fÃÂ£ 1/4 r management -   markt-und j samland   
+biologically inspired neural controllers for motor control in a quadruped robot aj ijspeert   a billard proceedings of the 23rd annual conference of the cognitive & hellip ;    
+chicano narrative : the dialectics of difference r saldÃÂ¤ ÃÂ± v  1990.0 
+implications of cscl for problem-based learning td koschmann   pj feltovich   ac myers   hs barrows acm sigcue outlook   1992.0 
+organizational technology ml tushman   w smith companion to organizations    
+ingham-type inequalities and riesz bases of divided differences s avdonin   w moran   
+iterative procedures for reduction of blocking effects in transform image coding re rosenholtz   a zakhor proceedings of  
+the shareholder wealth implications of corporate lawsuits s bhagat   j bizjak   jl coles   
+vertical cavity lasers fabricated using impurity induced disordering pd floyd  1996.0 
+the ecvam international validation study on in vitro embryotoxicity tests : results of the definitive e genschow   h spielmann   g scholz   a seiler   n alternatives to laboratory animals   2002.0 
+knowledge discovery in scientific data s rudolph data mining and knowledge discovery : theory   tools   and & hellip ;   2000.0 
+consequences of diverse reproductive strategies in marine invertebrates gl eckert  1999.0 
+inside ole 2 k broeksehmit  1994.0 
+memory hits a glass ceiling s canter pc magazine   1993.0 
+plastic microoptical interconnection modules for parallel free-space inter-and intra-mcm data h thienpont   c debaes   v baukens   h ottevaere   p proceedings-ieee   2000.0 
+fast incremental indexing for full-text information retrieval   vldbÃÂ¢ ?? 94 : proceedings of the 20th ew brown   jp callan   wb croft  1994.0 
+nsync - a toolkit for building interactive multimedia presentations b bailey   
+diagnosis and symptomatology k hodges new directions for program evaluation   1992.0 
+seila   output analysis for simulation f andrew proceedings of the 23rd conference on winter  
+prospero : a tool for organizing internet resources bc neuman   
+biogeographical studies of rocky shores near point conception   california rf doyle  1985.0 
+partial match retrieval of multidimensional data p flajolet   c puech journal of the acm ( jacm )   1986.0 
+designing buffers for router line cards s iyer   rr kompella   n mckeown stanford university hpng technical report-tr02-hpng-031001    
+protocols are programs too : the meta-heuristic search for security protocols ja clark   jl jacob   
+mude ( demonstration ) : a multimedia database engine for content-based retrieval jk wu   ad narasimhalu   yh ang   cp lam   hh loh   b proceedings of the second acm international conference on & hellip ;   1994.0 
+the cytochemistry of glycoconjugates in the planum nasolabial gland of the goat as studied by a tsukise   w meyer   o fujimori   k yamada the histochemical journal   1988.0 
+sleepers andworkaholicscaching strategiesinmobile environments d barbara   t imielinski proc . of acm sigmod int . conf . on management of  
+predicated register allocation ae eichenberger   es davidson   
+ÃÂ¢ ?? effi crently updatrng materlalrzed views ja blakeley   p larson   fw tompa proceedings of the 1986 acm-sigmod international conference & hellip ;    
+unsteady phenomena   hypersonic flows and co-operative flow visualization in aerospace research hg pagendarm   
+distributed multimedia systems vok li   w liao proceedings-ieee   1997.0 
+a complete axiomatization of real-time processes r gerber   i lee   a zwarico & hellip ; of pennsylvania { submitted for publication   february  
+economic and monetary union in europe and constraints on national budgetary policies al bovenberg   j kremers   p masson contributions to economic analysis   1993.0 
+course of acarine disease in the field g giordani proc . 26th int . apiculture congress   adelaide   australia    
+multilayer fuzzy control of multivariable systems by passive decomposition ae gegov applied mathematics and computer science   1995.0 
+delays in implementing admission orders for critical care patients associated with length of stay in k clark   lb normile journal of emergency nursing   2002.0 
+using a spatial synoptic climatological classification to assess changes in atmospheric pollution re davis   ls kalkstein physical geography    
+one-sided local large deviation and renewal theorems in the case of infinite mean ra doney probability theory and related fields   1997.0 
+analysis of the accuracy of the determination of the concentration of long-lived radionuclides in vl vysotskii   yv sivintsev at .  
+real algebraic threefolds i. terminal singularities   collectanea math j kollÃÂ£ ÃÂ¡ r to  
+computer animation with cinema dr kalasky   da davis   
+financial forecasting using neural networks t soulez msc thesis . computer science department   university of  
+newer biophysical methods for membrane analysis in ntact red cells sb shohet   
+constraints on energy expenditure by birds dm bryant proc . int . ornithol . congr    
+r-trees : a dynamic index structure for spatial searching   acm sigmod intl a guttman conference on management of data    
+microsoft windows 2000 server administrator 's companion c russel   s crawford  2000.0 
+full text html format htm ( 8 kb ) source international multimedia conference archive t even proceedings of the third acm international conference on & hellip ;   1995.0 
+integrating association rule mining with relational database systems : alternatives and implications s sarawagi   s thomas   r agrawal data mining and knowledge discovery   2000.0 
+design and evaluation of network interfaces for system area networks ss mukherjee  1998.0 
+electrodynamics in a rotating frame of reference mg trocheries phil . mag    
+implications for knowledge production and careers in science cd gaddy new directions for higher education   1998.0 
+a unified framework for resolving ambiguity in copy detection s roy   ec chang proceedings of the 13th annual acm international conference & hellip ;   2005.0 
+equation-based congestion control for unicast applications m handley   s floyd   j pahdye   j widmer proceedings of acm  
+connell . accurateestimationofthe numberof tuplessatisfyinga condition g piatetsky-shapiroandc proc . acm sigmod conference    
+somatostatin s yamada   m ito   s kobayashi horumon to rinsho   1976.0 
+extraction of object-oriented structures from existing relational databases s ramanathan   j hodges sigmod record   1997.0 
+indexing multispectral images for content-based retrieval j barros   j french   w martin   p kelly   jm white   
+belief reasoning in mls deductive databases hm jamil sigmod conference   1999.0 
+energy research and development corporation ( australia ) project report no. 37 rm gifford  1991.0 
+the role of the state in growth and welfare soÃÂ¢ ?? riain   poÃÂ¢ ?? connell bust to boom    
+programmed word length computer al lucke   
+craig stinson ÃÂ¨ ?? m dodge microsoft excel    
+bpr success or failure ? a business process reengineering project in the financial services industry ma larsen   md myers   
+analysis of random drop for gateway congestion control [ r ] . report lcs tr-465 e hashem  1989.0 
+statistical design using variable parameter variances and application to cellular neural networks i fajfar   
+theory based modeling of ec heated discharges g tardini   ag peeters   gv pereverzev   f ryterÃÂ¢ ? ÃÂ¦   
+certification programs for business and industry . tj settle new directions for adult and continuing education   1991.0 
+the american girls collection history project : a third grade and teacher education collaboration k hoelscher social studies and the young learner   1997.0 
+amantadine and memantine are nmda receptor antagonists with neuroprotective properties j kornhuber   m weller   k schoppmeyer   p riederer journal of neural transmission supplementum   1994.0 
+- lin [ 14 ] t. bozkaya and zm ozsoyoglu . distance based indexing for high dimensional metric spaces cc pan   kh yang proceedings of string processing and information retrieval & hellip ;    
+content-based image retrieval by viewpoint-invariant color indexing t gevers   awm smeulders image and vision computing   1999.0 
+a query languageand optimizationtechnieques for unstructured data p buneman   s davidson   g hillebrand   d suciu proceedings of the acm sigmod international conference on  
+lipotoxicity in the pathogenesis of obesity-dependent niddm : genetic and clinical implications rh unger diabetes-new  
+characterization of hypoxia : topic 1 report for the integrated assessment of hypoxia in the gulf of nn rabalais   re turner   d justic   q dortch   wj md    
+minimum cost selection of secondary indexes for formatted files hd anderson   pb berra acm transactions on database systems ( tods )   1977.0 
+kohonenÃÂ¢ ?? s self organizing feature maps for exploratory data analysis a ultsch   hp siemon proc . innc    
+recognition of sign language gestures using neural networks p vamplew   a adams & hellip ; journal of intelligent information processing systems   1998.0 
+thinking way-based systems and culture of manufacturing-engendering proposals for developing region - y ito 522 d. hell et al. proceedings of 2nd ims international  
+interest group interaction and groundwater policy formation in the southwest za smith  1983.0 
+alumni affinity cards-the developing relationship s horne   s worthington proceedings of the 23rd emac conference   maastricht   no    
+toward transformation in social knowledge kj gergen  1982.0 
+two time scale decomposition and stability analysis of power systems k khorasani   
+9227 apll reference   ibmon sh20  20.0 
+new neighbor search in large metric space s brin proceedings of the  
+perspectives on ÃÂ¢ ?? personal identityÃÂ¢ ?? c raab bt technology journal   2005.0 
+do south african fiscal deficits matter b standish   o beelders  1991.0 
+on the expressivity of a weakest precondition calculus for a simple data-parallel programming l bouge   y le guyadec   g uiard   b virot lecture notes in computer science   1994.0 
+a software engineering view of data base systems cdserv4.inria.fr vldb   1978.0 
+the hydrography of the mid-latitude northeast atlantic ocean ii : the intermediate water masses hm van aken deep-sea research i   2000.0 
+towards real-time business intelligence b azvine   z cui   dd nauck bt technology journal   2005.0 
+fuzzy heterogeneous neural networks for signal forecasting l belanche   jj valdes   r alquezar procs . of  
+mechanisms governing empowerment effects : a self-efficacy analysis em ozer   a bandura journal of personality and social psychology   1990.0 
+extreme nonmultiplicative operators   lecture notes j lindenstrauss   rpjv ryff university of washington   seattle    
+jellyfish blooms in the mediterranean : causes   mechanisms   impact on man and the environment . a v axiak   fs civili unep   athens ( greece ) . 1991.   1991.0 
+inigo jones ( ha : p ) sirjn summerson  1966.0 
+discovery chemistry : a laboratory-based approach to general chemistry ma ditzler   rw ricci new directions for teaching and learning   1994.0 
+too much of a good thing a hickman   j kaufthal   c levin   m perenson   s pc magazine ( 7 october )    
+converting nested relational algebra expressions into at algebra expressions j paredaens   d van gucht acm transaction on database systems    
+a secure hierarchical model for sensor network m tubaishat   j yin   b panja   s madria sigmod record   2004.0 
+perilous conduct : initiating   developing and transforming the relationship between student and p clarke   m fielding & hellip ; educational research association   seattle   washington    
+using taxonomy   dicriminants   and signatures to navigate in text databases s chakrabarti   b dom   r agrawal   p raghavan   
+active learning in continuing professional education : the challenge of leadership . jc novak new directions for adult and continuing education   1992.0 
+indigenous forest-dwelling communities in indonesiaÃÂ¢ ?? s outer islands : livelihood   rights   and c zerner unpublished manuscript    
+fast closing switches for low-impedance pulse generators jgh salge   u katschinski   j heuer   tu braunschweig   
+storing semi-structured data using stored a deutsch   m fernandez   d suciu proc.   acm sigmod    
+extending hierarchical reinforcement learning to continuous-time   average-reward   and multi-agent m ghavamzadeh   s mahadevan   r makar   
+bruce croft : fast incremental indexing for full-text information retrieval w eric   p brown james   w callan proc . of the 20th inter . conf . on very large databases ( vldb & hellip ;    
+microsoft access 97 developer 's handbook tm o'brien   sj pogge   ge white  1997.0 
+a new admission control metric for voip traffic in 802.11 networks s garg   
+september 1952 . the university of toronto model electronic computer rf johnston proc .  
+quasi-cubes : exploiting approximations in multidimensional databases d barbara   m sullivan sigmod record   1997.0 
+a distributed algorithm for finding k disjoint paths of minimum total length c cheng   spr kumar   jj garcia-luna-aceves proc . 28th annual allerton conference on communication   & hellip ;    
+extraction of object-oriented schemas from existing relational databases : a form-driven approach m malki   a flory   mk rahmouni informatica   2002.0 
+ecology and conservation biology of a large rainforest skink ( egernia major   scincidae ) a klingenbÃÂ£ ÃÂ¶ ck   k osterwalder  1999.0 
+construction firms builds on tech prowess l horwitt computerworld    
+organizational and retrieval processes in person memory : an examination of processing objectives   tk srull journal of personality and social psychology    
+performance of data-parallel spat ial operations eg hoelt   h samet   
+immunocytochemically detectable metallothionein in granulation tissue surrounding mucosal ulceration ag douglas-jones   nd thomas   me elmes   b jasani the histochemical journal   1992.0 
+dispersal   storage and transformation of metal-contaminated alluvium in the upper vistula basin   mg macklin   k klimek applied geography    
+server-supported signatures n asokan   g tsudik   m waidner lecture notes in computer science   1996.0 
+oopdarus department of housing and urban development ( 1979 ) ka peroff   cl davis   r jones gautreaux housing demonstration : an evaluation of its impact & hellip ;    
+experiments with a deductive question-answering system dh fishman & hellip ; of massachusetts   coins technical report 74c-10   december    
+optimizing queries across diverse data sources lm hass   d kossmann   el wimmers   j yang   l raschid proceedings of the 23rd vldb conference   athens   greece   acm & hellip ;    
+defects obtained by al $ sup + $ ion bombardment of polycrystalline aluminium samples . mo ruault   b jouffrey   p joyes phil . mag   1972.0 
+semantic b2b integration : issues in ontology-based approaches   d jones sigmod record   2002.0 
+time-domain electromagnetics and its applications cl bennett   gf ross ieee   proceedings   1978.0 
+individualism and collectivism : cross-cultural perspectives on self-ingroup relationships hc triandis   r bontempo   mj villareal   m asai   n journal of personality and social psychology   1988.0 
+task decomposition and dynamic role assignment for real-time strategic teamwork p stone   m veloso lecture notes in computer science   1999.0 
+extensible mpeg-4 textual format kmwsc lt proc . acm multimedia    
+poisson image editing p pÃÂ£ ÃÂ© rez   m gangnet   a blake acm transactions on graphics ( tog )   2003.0 
+graphics boom affecting mis . d friend computerworld.   1985.0 
+teaching global studies in elementary school : an eric/chess sample . vj schlene social studies and the young learner   1992.0 
+variational principles for problems with linear constraints i herrera university of  
+towards a reduces commitment j chen   k vijay-shanker d-theory style tag parser . '' in proceedings of the & hellip ;    
+laser welding thin sheets for car body structures m cantello   sl gobbi   jf flavenot   a diboine & hellip ; applications in the automotive industry   proceedings   25 th & hellip ;   1992.0 
+r. rakhlin   a. and verri a. : 2001   ÃÂ¢ ?? t poggio   sr mukherjee bÃÂ¢ ?? . technical report ai memo 2001-011   massachusetts institute  
+computer establishment . kd fishman computerworld.   1981.0 
+computer technology and collaborative learning p sullivan new directions for teaching and learning   1994.0 
+self-regulatory mechanisms governing the impact of social comparison on complex decision making a bandura   fj jourden journal of personality and social psychology    
+full text full text available on the publisher site publisher sitesource bt technology journal p muschamp   j hill bt technology journal   2004.0 
+extraction automatique dÃÂ¢ ?? associations textuelles ÃÂ£ ? partir de corpora non traitÃÂ£?s g dias   s guillorÃÂ£ ÃÂ©   jgp lopes   
+a substitution model draft for scheme : formal definitions ar meyer  1994.0 
+clusteringmethodsfortheanalysisofdnamicroarray data r tibshirani   t hastie   m eisen   d ross   d stanford university department of statistics technical report    
+developing a successful information and communication technology industry : the role of venture t vinig   r blocq   j braafhart   o laufer   
+semint : a system prototype for semantic integration in heterogeneous databases ws li   c clifton proceedings of the 1995 acm sigmod international conference & hellip ;   1995.0 
+x-ray diffraction procedures for crystalline and amorphous materials hp klong   le alexander  1954.0 
+bases for the development of last : a formal method for business software requirements specification jm almendros-jimenez   l gonzalez-jimenez information & software technology   2002.0 
+text formatting by demonstration . ba myers proceedings acm 1991.0 
+the demarcation protocol : a technique for maintaining arithmetic constraints in distributed database d barbara   h garcia-molina lecture notes in computer  
+taming the underlying challenges of reliable multihop routing in sensor networks a woo   t tong   d culler proceedings of the first international conference on & hellip ;   2003.0 
+a study of the dropout rates in longitudinal research on aging and the prediction of death kf riegel   rm riegel   g meyer journal of personality and social psychology   1967.0 
+a   du preez l and loubser jhn 1965 hb dyer   fa raal phil . mag    
+do mandates matter ? : the effects of a mandate to enter a welfare-to-work program jt knab   
+articialneuralnetworks : atutorial ak jain   j mao   km mohiuddin ieee computer    
+bireality : mutually-immersive telepresence np jouppi   s iyer   s thomas   a slayden proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+parenting behavior in a sample of young mothers in poverty : results of the new change observational mj zaslow   ca eldred  1998.0 
+differing perspectives of evaluation e chelimsky new directions for program evaluation    
+generating machine processable representations of textual representations of auml jl koning   i romero-hernandez lecture notes in computer science   2003.0 
+the icsi meeting corpus a janin   d baron   j edwards   d ellis   d gelbart   n   
+panel : the impact of database research on industrial products summary d fishman   d lomet   m stonebraker   
+computing frequent itemsets inside oracle 10g w li   a mozes   
+keypals for young children c finegan-stoll social studies and the young learner   1998.0 
+systems employing the dempster shafer uncertainty calculus kk bharadwaj   gc neerja   hcpr goel information and software  
+office implementation : a case study . ls albert   tj marchese new directions for higher education   1988.0 
+stream : the stanford stream data manager ( demonstration description ) a arasu   b babcock   s babu   m datar   k ito   i proceedings of the 2003 acm sigmod international conference & hellip ;   2003.0 
+on the decrease of velocity of swiftly moving electrified particles in passing through matter n bohr phil . mag    
+model environments for integration and support rp jones bt technology journal   1997.0 
+interleaving media data for mpeg-4 presentations j boston   m kim   w luken   e so   s wood   
+spatial approval voting jf laslier   
+pendulum swings between rock and hard place p keen computerworld    
+evaluating the cost of bird-related damage to civilian and military flights as a vital tool to y leshem proceedings of the 23rd international bird strike committee    
+contact chemoreceptor mechanisms in the california rock lobster   panulirus interruptus ( randall ) je lindsey  1976.0 
+environmental hazards : the challenge of change d jones geography    
+integrating segmentation and paging protection for safe   transparent and efficient software t chiuehÃÂ¢ ? ÃÂ¦ proc . acm sosp    
+asope and the fabled promise of process knowledge capture and reuse sg thompson   br odgers   e kendall bt technology journal   1999.0 
+a comparison of red 's byte and packet modes wm eddy   m allman computer networks   2003.0 
+deveopment of the richard j. brown library informational kiosk rr davis   
+detection of extreme waves in sar images and radar-image sequences h dankert   j horstmann   w rosenthal   
+much ado about shared-nothing mg norman   t zurek   p thanisch sigmod record   1996.0 
+evaluation procedures for reversed phase columns in the analysis of basic compounds by hplc ; dv mccalley   rg brereton proceedings of the 23rd international symposium on high  
+f16 jet engine trending and diagnostics with neural networks proc . spie   
+logistics and maritime transport : a fundamental transformation b slack   r mccalla   c comtois annual conference of the association of american geographers & hellip ;    
+programmerÃÂ¢ ?? s reference ole ole microsoft corporation    
+student writing in philosophy : a sketch of five techniques sm fishman new directions for teaching and learning   1997.0 
+model1 systeme fuer das studium von polypeptidhormon-receptor-wechselwlrkungen ( doctoral thesis ) e buerglsser umverslty of zurich   switzerland    
+basin-scale variability of phytoplankton biomass   production and growth in the atlantic ocean e maraÃÂ£ ÃÂ± ÃÂ£ ÃÂ³ n deep-sea research i   2000.0 
+the 18 th brumaire of louis bonaparte k marx   
+liquidÃÂ¢ ?? vapor separation coefficient of dilute solutions of dto in d 2 o yd zelÃÂ¢ ?? venskii   ae kovalenko   ap timashev   va at .  
+condition handling in sql persistent stored modules j richey sigmod record   1995.0 
+the relationship between upper-level divergent outflow magnitude as measured by doppler radar and a witt   sp nelson conference on radar meteorology   22 nd   zurich   switzerland   & hellip ;   1984.0 
+combining classifiers in text categorization sl leah   wb croft  1996.0 
+effects of treatment with cyclosporine   fk 506   rapamycin   mycophenolic acid   or deoxyspergualin on cr gregory   re pratt   p huie   r shorthouseÃÂ¢ ? ÃÂ¦ transplantation proceedings   1993.0 
+query decomposition for unstructured query languages d suciu vldb   september    
+field measurements of residual strain in granitic rock masses hs swolfs   j handin   hr pratt see price    
+an adaptative algorithm for incremental evaluation of production rules f fabret   m rÃÂ£ ÃÂ© gnier   e simon proc . international conference on very large  
+neftekhimiya ai akhmedov   am levshina   za sadykhov no . i    
+three presentations on geographical analysis and modeling : non-isotropic geographic modeling ; wr tobler  1993.0 
+an investigation of the performance of various dynamic scheduling tecniques y patt   m butler proceedings of the 25 thinternational symposium and workshop & hellip ;    
+incorporating diversity into the professoriate tl chandler new directions for teaching and learning   1993.0 
+entity relationship modelling addison-wesley pub co r barker  1990.0 
+static preservation of dynamic constraints : a semantics-based approach v benzaken   s cerrito   s praud   
+message proxies for e-cient bh lim   p heidelberger   p pattnaik   m snir & hellip ; communication on smp clusters   '' ibm almaden research report & hellip ;    
+informix-online xps : a dynamically scalable rdbms for open parallel platforms h spintzik proceedings of the international conference on very large & hellip ;   1995.0 
+audio illusions for audio feedback m beaudouin-lafon   s conversy companion proceedings of acm  
+the canonical metric for vector quantization j baxter submitted for publication   1995.0 
+12 tips for better presentations . g venditto pc  
+ÃÂ£ cents ÃÂ¢ ? ÃÂ¬ ÃÂ¥?sleepers and workaholics : caching strategies for mobile environments   ÃÂ£ cents ÃÂ¢ ? ÃÂ¬ ÃÂ¢ ? d barbara   t imielinski acm  
+course description : itop geography   
+content-based image retrieval based on local affinely invariant regions t tuytelaars   l van gool lecture notes in computer science   1999.0 
+mining large itemsets for association rules cc aggarwal   ps yu   
+an efficient algorithm for mining frequent sequences by a new strategy without support counting dycyh wu   alp chen data engineering   2004 . proceedings . 20th international  
+stream traffic management over an atm passive optical network m gagnaire   s stojanovski computer networks   2000.0 
+user interfaces challenges of media design ( panel ) m arent   a hodges   s houde   e waymire proceedings of the third acm international conference on & hellip ;   1995.0 
+architecture for distributed multimedia database systems . pb berra   cyr chen   a ghafoor   cc lin   tdc little     
+introducing software architecture specification and analysis in sam through an example j wang   x he   y deng information and software technology   1999.0 
+the essentials of the satÃÂ¢ ?? 03 competition d le berre   l simon proc . sat    
+a source-to-source meta-translation system for relational query languages di howells   nj fiddian   wa gray vldb   1987.0 
+381 p s ruipÃÂ£ ÃÂ© rez  1995.0 
+algebraic support for complex objects with arrays   identity and inheritance sl vandenburg   dj dewitt proc acm sigmod   denver   may    
+tracking text in mpeg videos j gllavata   r ewerth   b freisleben proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+thrombotic thrombocytopenic purpura presenting as bilateral flank pain and hematuria : a case report za qasim   ra partridge journal of emergency medicine   2001.0 
+origin of the economic order quantity formula ; transcription or transformation ? b roach   
+bone formation in vitro by stromal cells obtained from bone marrow of young adult rats c maniatopoulos   j sodek   ah melcher cell and tissue research   1988.0 
+mechanisms of osmolyte release rkh kinne contributions to nephrology   1998.0 
+building a scalable and accurate copy detection mechanism h garcia-molina   n shivakumar proceedings of 1st acm international conference on digital & hellip ;    
+optimal le distribution for partial match queries mh kim   s pramanik proceedings of acm sigmod    
+the frequent use of unemployment insurance in canada s schwartz   
+dynamic texture segmentation g doretto   d cremers   p favaro   s soatto proceedings of iccvÃÂ¢ ?? 03   2003.0 
+sptrx-2   a fusion protein composed of one thioredoxin and three tandemly repeated ndp-kinase domains cm sadek   ae damdimopoulos   m pelto-huikko   ja genes to cells   2001.0 
+changes in the volume of rat cerebellar cortex during preparation for electron microscopy rma napper   rj harvey  1988.0 
+peer mentoring among graduate students of color : expanding the mentoring relationship j bonilla   c pickron   t tatum new directions for teaching and learning   1994.0 
+grammar-like functional rules for representing @ erytinrition alternatives g ldrrrtan proc . 1988 sigmod   je    
+finding similar questions in large question and answer archives j jeon   wb croft   jh lee proceedings of the 14th acm international conference on & hellip ;   2005.0 
+diophantine approximations and diophantine equations wm schmidt  1996.0 
+database architecture for content-based image retrieval t kato proc . spie   1992.0 
+critical and postmodern perspectives on adult learning dw kilgore new directions for adult and continuing education   2001.0 
+rtrees : a dynamic index structure for spatial searching a guttman  1984.0 
+a multi-agent approach for peer-to-peer-based information retrieval systems h zhang   wb croft   b levine   v lesser   
+delivering presentations from multimedia servers nh balkir   g ozsoyoglu the vldb journal the international journal on very large & hellip ;   1998.0 
+castor oil   bath and/or enema for cervical priming and induction of labour aj kelly   j kavanagh   j thomas cochrane database syst rev   2002.0 
+webdav : work together . from m floyd pc  
+non ionizing near infrared radiation transillumination spectroscopy for breast tissue density and mk simick   r jong   bc wilson   l lilge submitted for  
+programming ado d sceppa  2000.0 
+perspective and the poetic process n sullivan wisconsin studies in contemporary literature   1965.0 
+eliminating fuzzy duplicates in data warehouses r ananthakrishna   s chaudhuri   v ganti vldb   2002.0 
+distance browsing in spatial databases t sellis   n roussopoulos acm transactions on database systems ( tods )    
+implementation and analysis of efficient graph planarity testing algorithms . rw shirey  1969.0 
+updating derived relations : detecting irrelevant and autonomously computable updates ja blakeley   n coburn   pv larson acm transactions on database systems   1989.0 
+a query languageand optimization techniquesfor unstructured data p buneman   s davidson   g hillebrand   d suciu proceedings of acm-sigmod international conference on & hellip ;    
+rrgion parotidienne p sebileau dÃÂ£ ÃÂ© monstration d &#39; anatomie . steinheil   paris    
+education for motherhood : advice for mothers in twentieth-century canada ( toronto : university of k arnup   
+a modification of davidon 's minimization method to accept difference approximations of derivatives gw stewart iii journal of the acm ( jacm )   1967.0 
+a note on the use of z for flowgraph transformation ne fenton   d mole information and software technology    
+hosting the . net runtime in microsoft sql server a acheson   m bendixen   ja blakeley   p carlin   e proceedings of the 2004 acm sigmod international conference & hellip ;   2004.0 
+communications for the construction industry gw popple   sp towndrow bt technology journal   1994.0 
+near infrared camera and multi-object spectrometer instrument handbook   version 4.1   june 2001   ab schultz md    
+sql query optimization : reordering for a general class of queries p goel   b iyer sigmod conference   1996.0 
+taking the initiative : alternatives to government regulation . l stamato new directions for higher education   1980.0 
+robotised applications using solid state laser for the automotive industry m dorronsoro & hellip ; applications in the automotive industry   proceedings   25 th & hellip ;   1992.0 
+hilbertÃÂ¢ ?? s programme and the search for automatic proof procedures g kreisel symposium on automatic demonstration   lecture notes in & hellip ;    
+azathioprine for maintaining remission of crohn 's disease dc pearson   gr may   g fick   lr sutherland cochrane database syst rev   2000.0 
+racer system description v haarslev   r moller lecture notes in computer science   2001.0 
+teaching to promote intellectual and personal maturity : incorporating students ' worldviews and mbb magoldaÃÂ¢ ? ÃÂ¦ new directions for teaching and learning   2000.0 
+beneficial reuse of foundry sand in controlled low strength materials ( clsm ) j spoerl   t green final report   demonstration  
+evaluation of various algorithms and display concepts for weather forecasting i adrianto   tm smith   ka scharfenberg   t trafalis   
+uml gains ground : what are people using the unified modeling language for ? how much of the language d melewski application development trends   1998.0 
+parallel and distributed database systems a procedures   
+learning conjuctive concepts in structural domains d haussler proceedings of 1987 aaai conference   seattle   washington   & hellip ;    
+origins of the apt language for automatically programmed tools dt ross history of programming languages   1978.0 
+security survey b sullivan computerworld    
+semantic b2b integration c bussler   
+analysis   modeling and generation of self-similar vbr traffic mw garrett   w willinger proceedings acm  
+dp maintenance : a costly   complex job . t scannell computerworld.   1982.0 
+using directional antennas for medium access control in ad hoc networks rr choudhury   x yang   r ramanathan   nh vaidya   
+approximation algorithms for minimum cost embeddings of graphs in the plane hmd hansen  1989.0 
+5th european vlbi network symposium je conway   rt schilizzi isbn    
+university buildings and energy-problems and perspectives e trianti   s stournas   c younis   p schoinas technical chamber of greece   conf . proceedings   athens   & hellip ;    
+proceedings of the 5th international iupac symposium on mycotoxins and phycotoxins cw thorp   gm ware   ae pohland technical university   vienna  
+incremental evaluation of schema-directed xml publishing p bohannon   b choi   w fan & hellip ; of the 2004 acm sigmod international conference on & hellip ;   2004.0 
+automatic generation of help from interface design models r moriyon   
+wavelength dependent reflection functions js gondek   gw meyer   jg newman computer graphics   proc . of acm siggraph    
+observations of the decomposition of crystals of lead iodide in the electron microscope aj forty phil . mag    
+cases of coincidence of the best uniform polynomial and rational approximations aa pekarskii j. technical university at  
+faster checking of software specifications by eliminating isomorphs - group of 2 & raquo ; d jackson   s jha   ca damon proceedings of the 23rd acm sigplan-sigact symposium on & hellip ;   1996.0 
+the failings of distance learning m deakin computerworld    
+theoretical pluralism and the construction of psychoanalytic knowledge d tuckett unpublished manuscript    
+alterations in the morphology of glycoconjugate molecules caused by histochemical procedures : e reale   l luciano   g brandes the histochemical journal   1992.0 
+ÃÂ¢ ?? self : a self-timed systems design technique ch lau electronic letters    
+aggression in psychiatric patients : using the hcr-20 to assess risk for violence in hospital and in dj ross   sd hart   cd webster unpublished manuscript    
+communicator style in teaching : giving good form to content . rw norton new directions for teaching and learning   1986.0 
+the spatial distribution of turloughs ce coxon irish geography    
+new tpc benchmarks for decision support and web commerce m poess   c floyd acm sigmod record   2000.0 
+the shannon sampling theorem - its various extensions and applications : a tutorial review aj jerri ieee   proceedings   1977.0 
+iÃÂ¢ ?? . kelly   and j. white . indexing multispectral images for content-based retrieval i barros   j french   w martin proceedings of the 23rd alÃÂ¢ ?? pr workshop on image and & hellip ;    
+dbms selection and evaluation : perspectives and practical issues b berlin   
+clean surfaces : their preparation and characterization for interfacial studies g goldfinger  1970.0 
+proximity matching using fixed-queries trees ra baeza-yates   w cunto   u manber   s wu lecture notes in computer science   1994.0 
+providing dynamic security control in a federated database nb idris   wa gray   rf churchhouse proceedings of the international conference on very large & hellip ;   1994.0 
+a word grammar of turkish with morphophonemic rules sm oztaner  1996.0 
+sigmod 2003 demo proposal : relational on-line exchange with xml p bohannon   xl dong   s ganguly   hf korth   c li     
+chain : operator scheduling for memory minimization in stream systems m dalar   b babcock   s babu   r motwani proceedings of acm-sigmod    
+processing aggregate relational queries with hard time constraints wh hot891   g ozsoyoglu   b taneja proceedings of the acm sigmod conference   pp    
+the influence of carbon dioxide and oxygen as additives on soot formation in diffusion flames dx du   rl axelbaum   ck law proceedings of the 23rd international symposium on & hellip ;    
+a and mott nf 1970 ea davis phil . mag    
+copy detection mechanisms for digital documents s brin   j davis   h garcia-molina sigmod conference   1995.0 
+a study of response time under various deadlock strategies sw sherman   jh howard   jc browne proc . 1974 acm natl.  
+s.   & han   j. ( 2000 ) . pushing support constraints into association mining z wang & hellip ; conference on very large data bases ( vldb &#39; 00 )   cairo    
+autonomous visual discovery mc burl   d lucchetti data mining and knowledge discovery : theory   tools   and & hellip ;   2000.0 
+das projekt teleteaching der universitÃÂ£ $ ten mannheim und heidelberg . w effelsberg proc . learntec    
+using laptops in engineering courses for real-time data collection and analysis mw ohland   ea stephan new directions for teaching and learning   2005.0 
+autocad release 12 reference manual a ltd  1994.0 
+retail exchanges push on despite b2b travails . c sliwa   
+closet + : searching for the best strategies for mining frequent closed itemsets j wang   j han   j pei   
+field . phototoc : automatic clustering for browsing personal photographs jc platt   m czerwinski   a brent technical report 17   microsoft research   1 microsoft way    
+fast structure search for gaussian mixture models p sand   aw moore submitted to knowledge discovery and data mining    
+algebraic specification through expression transformation mj fernandez-iglesias   m llamas-nistal procs . of the joint conference  
+incorporating holocaust education into k-4 curriculum and teaching in the united states . pull out 2 . hl sepinwall social studies and the young learner   1999.0 
+the bendix/bell mls signal-in-space ( microwave landing system with air-derived sample data and rj kelly national aerospace meeting   washington   d. c   proceedings   1973.0 
+converting prototypes to operational systems : evidence from preliminary industrial survey mp martin   jm carey information and software technology   1991.0 
+you too can be an overclocker b machrone pc magazine    
+1992 . a qualitative comparison study of data structures for large segment databases eg hoel   h samet proc . acm sigmod int . conf . on management of  
+random drop congestion control m allison proceedings of acm sigcomm    
+a deductive database language supporting modules b freitag   
+compile-time composition of run-time data and iteration reorderings mm strout   l carter   j ferrante   
+topology discovery in the network weather service m swany   r wolski submitted for  
+a pathogenesis of chronic subdural hematoma ; itÃÂ¢ ?? s relationship to subdural membrane t shimoji no to . shinkei geka   1992.0 
+using taxonomy   discriminants   and signatures for navigating in text databases scbdr agrawal   p raghavan   
+digitalized signatures and public key functions as intractable as intractable as factorization mo rabin  1979.0 
+attributional style in depression : a meta-analytic review pd sweeney   k anderson   s bailey journal of personality and social psychology   1986.0 
+an organizational-economic blueprint for information technology outsourcing : concepts and evidence l loh proceedings of the international conference on information & hellip ;   1994.0 
+ip flow identification for ip traffic carried over switched networks a john   ra copeland   lb keith computer networks    
+neural networks in antennas and microwaves : a practical approach z raida   
+nonlinear interactions and wave run-up near a gbs e jamois   o kimmoun   b molin   y stassen proc . 29th int . conf . coastal engineering ( this conference ) . & hellip ;    
+j. casegeoÃÂ¢ ?? a case tool for conceptual modeling and database schemas automatic generation using gis ma pereira   l filho procs . of gisbrasil    
+transformation of divide & conquer to nested parallel loops ca herrmann   c lengauer lecture notes in computer science   1997.0 
+online communities : they canÃÂ¢ ?? t happen without thought and hard work m honey electronic learning    
+incorporating xsl processing into database engines g moerkotte   
+why do south korean students study hard ? reflections on paik 's study y hwang international journal of educational research   2001.0 
+oxytocin for prelabour rupture of membranes at or near term bp tan   me hannah cochrane database syst rev   2001.0 
+stress-activated signalling pathways in yeast wm toone   n jones genes to cells   1998.0 
+topic   focus and the grammar pragmatics interface jk gundel   
+caring and paying : what fathers and mothers say about child support f see furstenberg   k sherwood   m sullivan  1992.0 
+self-assessment of performance in software inspection processes z yin   a dunsmore   j miller information and software technology   2004.0 
+best approximation in normed linear spaces by elements of linear subspaces i singer  1970.0 
+equity in tertiary mathematics : imaging a future r zevenbergen proceedings of the d   1999.0 
+automatic assignment of icd9 codes to discharge summaries ls larkey   wb croft   
+surface characterization of coated powders with xps : al 2 o 3-sio 2 coated tio 2 pigments ( abstract l johansson oulu univ   proceedings of the 25 th annual conference of the & hellip ;   1991.0 
+le pas plus favorise-t-il l'emploi ? : rÃÂ£ ÃÂ© sultat de l'ajout de services aux incitatifs financiers du ideas.repec.org   
+relationship of rickettsial physiology and composition to the rickettsia-host cell interaction fe austin   hh winkler see ref    
+doc . com : a framework for effective negotiation support in electronic marketplaces m schoop   c quix computer networks   2001.0 
+2531 to 2536   office of reference materials   nist   gaithersburg ne srms   
+contemporary deontology n davis a companion to ethics    
+learned helplessness in children : a longitudinal study of depression   achievement   and explanatory s nolen-hoeksema   js girgus   mep seligman journal of personality and social psychology   1986.0 
+thecomparativeaccuraciesofglobalpositioningsystemdierentialpositioning modes . '' de wells   da davidson   d delikaraoglou   rb langley proceedings of the iag symposia   symposium d   the future of & hellip ;    
+h   c. davis   d. richardson and tl groy om yaghi   h li acc . chem . res    
+attitude change and attitude attribution : effects of incentive   choice   and consequences bj calder   m ross   ca insko journal of personality and social psychology    
+u > choice of cobol for braille translation < / u > jk millen technical report mtr-1743 mitre corporation   bedford    
+optimizing queries across diverse data sources   23 rdintl l haas   d kossmann   el wimmers   j yang conf . on very large databases ( vldb &#39; 97 )    
+task decomposition support to reactive scheduling   in the proceedings of the 5th european conference b drabble  1999.0 
+water sample preparation for comprehensive health effects testing wc lauerÃÂ¢ ? ÃÂ¦  1988.0 
+impact of climate changes on the security of the water supply of the campaspe system qj wang   rj nathan   rj moran   b james proceedings of 25 thhydrology and water resources symposium    
+knowledge management at the mitre corporation mt maybury   
+neural networks and the automatic selection of financial ratios d trigueiros proc . of the 29th hawaii int . conference on systems science . & hellip ;    
+analysis of databases at the logical level : the dba compagnon project f de marchi   s lopes   jm petit   f toumani sigmod record    
+self-regulation mechanisms in galactic discs ( abstract only ) a romeo oulu univ   proceedings of the 25 th annual conference of the & hellip ;   1991.0 
+a framework for unifying reordering transformations   university of maryland at college park   college w kelly   w pugh md    
+convergence of sequential monte carlo methods d crisan   a doucet submitted for publication    
+analysis of dynamic congestion control protocols : a fokker-plank approach a mukherjee   jc strikwerda proc . acm sigcomm  
+transformation of whispering gallery mode propagating in a circular waveguide into a beam of waves sn vlasov   mi petelin radiotekh . i elektron   1975.0 
+a class meetings approach to classroom cohesiveness . perspectives . f miller social studies and the young learner   1997.0 
+fast incremental indexing for full-text information retrieval ew brown   jp callan   wb croft proceedings of the international conference on very large & hellip ;   1994.0 
+labor and the new deal m derber   e young  1957.0 
+operational planning for electronic toll collection : a unique approach to computer modeling analysis j danko   v gulewicz   
+graefe 1993 : ja blakeley   wj mckenna   and g. graefe   experiences building the open oodb query mk blakeley proc . acm sigmod  
+1991 new directions for uncertainty reasoning in deductive databases u guntzer   w kiesling   h thone proc . 1991 acm  
+integration of heterogeneous databases without common domains using queries based on textual ww cohen sigmod conference   1998.0 
+a robust   optimization-based approach for approximate answering of aggregation queries s chaudhuri   g das   v narasayya proc .  
+effects of crop rotation and nitrogen fertilization on crop production over a 20-year period . p. 13 - ap mallarino   k pecinovsky & hellip ; 1998 . northeast research and demonstration farm . isrf98ÃÂ¢ ?? 13 & hellip ;    
+the cerebellum as a neuronal machine jc eccles   m ito   j szentÃÂ£ ÃÂ¡ gothai  1967.0 
+the red queen : sex and the evolution of human nature m ridley   
+wide area trafficÃÂ¢ ?? the failure ofÃÂ¢ ?? poisson modehng v paxson   s floyd proc . acm  
+an ultrastructural study of the morphology and lectin-binding properties of human mast cell granules cjp jones   cj kirkpatrick   rw stoddart the histochemical journal   1988.0 
+full text full text available on the publisher site publisher sitesource bt technology journal i dufour bt technology journal   2004.0 
+g6ochimie de l'iode dans les principaux types de sols franais a saas extrait du procs verbal de la s6ance du    
+institutional approaches in economic geography r martin companion to economic geography   2000.0 
+service-oriented bi : towards tight integration of business intelligence into operational m dill   a kraiss   s sigg   t zurek proceedings of the 2004 acm sigmod international conference & hellip ;   2004.0 
+on a limitation of ban logic c boyd   w mao lecture notes in computer science   1994.0 
+network processor requirements and benchmarking f arts   p barri   i clemminck   a niemegeers   b computer networks   2003.0 
+nightcap measurement of sleep quality in self-described good and poor sleepers ef pace-schott   j kaji   r stickgold   ja hobson sleep-new york -   1994.0 
+beneficial effects of nalmefene augmentation in neuroleptic-stabilized schizophrenic patients mh rapaport   o wolkowitz   jr kelsoe   c pato neuropsychopharmacology-san diego -   1993.0 
+mapping extended entity relationship model to object modeling technique j fong sigmod record   1995.0 
+beyond aop : toward naturalistic programming cv lopes   p dourish   dh lorenz   k lieberherr   
+angiotensin converting enzyme inhibitors in normotensive diabetic patients with microalbuminuria hg lovell cochrane database syst rev   2000.0 
+properties and update semantics of consistent views g gottlob   p paolini   r zicari acm transactions on database systems   1988.0 
+fotochemische theorie des atmosph/irischen ozons unter berlicksichtigung von nichtgleichgewichtszust hu dotsch ph. d. thesis   university of zurich   switzerland  
+on the use of bayesian belief networks for the prediction of software productivity i stamelos   l angelis   p dimou   e sakellaris information & software technology   2003.0 
+transplantation of livers from non-heart-beating donors is possible by core cooling technique t hoshino   i koyama   n nagashima   m kadokura   m transplant proc   1989.0 
+abruptio placentae : perinatal outcome in normotensive and hypertensive patients . m morgan   k berkowitz   s thomas journal of emergency medicine   1995.0 
+recognizing financial distress patterns using a neural network tool pk coats   
+tricyclic drugs for depression in children and adolescents p hazell   doÃÂ¢ ?? connell   d heathcote   d henry cochrane database syst rev   2002.0 
+wright mh usersÃÂ¢ ?? s guide for npsol ( version 4.0 ) : a fortran package for non-linear programming pe gill   w murray   ma saunders technical report   department of operations research   stanford  
+r-trees : a dynamic index structurefor spatial searching a guttman proc . acm-sigmod international conference on management of  
+national storage industry consortium and optoelectronics industry development association noods roadmap san diego    
+on-board conversion of alcohols to ethers for fumigation in compression ignition engines h armbruster   s stucki   e olsson   s gjirja proceedings of the i mech e part d journal of automobile & hellip ;   2003.0 
+man 's impact on the environment : some recent perspectives . f oldfield geography   1983.0 
+the accuracy of stsegment deviation in prehospital cardiac monitoring ga hebel   k hutton   a kanowitz   t neuman journal of emergency medicine   1994.0 
+modeling and comparing change using spatiotemporal helixes   acm-gisÃÂ¢ ?? 03 a stefanidis   k eickhorst   p agouris   p  2003.0 
+on correctness of nonserializable executions r rastogi   s mehrotra   
+goal congruence   trust   and organizational culture : strengthening knowledge links je scott   g gable   
+the dynamics of belief in the transferable belief model f klawonn   p smets procs . of the 8th conf . on uncertainty in ai . morgan & hellip ;    
+profile-based routing : a new framework for mpls traffic engineering s suri   m waldvogel   pr warkhede lecture notes in computer science   2001.0 
+large deviation asymptotics and control variates for simulating large functions sp meyn submitted for publication   2004.0 
+time-varying sensitive regions in dynamic multimedia objects : a pragmatic approach to content-based v burrill   t kirste   j weiss information and software technology    
+emergency department treatment of migraine   tension   and mixed-type headache sh thomas   ck stone journal of emergency medicine   1994.0 
+generative teaching and learning of economic concepts : a sample lesson . jd laney social studies and the young learner   1990.0 
+tribeca : a stream database manager for network traffic analysis m sullivan proceedings of the international conference on very large & hellip ;   1996.0 
+early diagnosis of mis implementation failure : promising results and unanswered questions mj ginzberg management science   1981.0 
+efficacy of oral ketamine for providing sedation and analgesia to children requiring laceration f qureshi   p mellis   m mcfadden journal of emergency medicine   1996.0 
+human factors study of two screen-oriented query languages : stbe and qbe g ozsoyoglu   wa abdul-qader information and software technology   1992.0 
+a comprehensive review of wetland assessment procedures : a guide for wetland practitioners . cc bartoldus md    
+data cleaning in microsoft sql server 2005 s chaudhuri   k ganjam   v ganti   r kapoor   v proceedings of the 2005 acm sigmod international conference & hellip ;   2005.0 
+full text full text available on the publisher site publisher sitesource machine learning archive d fisher machine  
+principles and procedures of statistics : mcgraw-hill rgd steel   jh torrie new york    
+ziff davis media b magazine pc magazine   2004.0 
+m. ( 1997 ) . distance-based indexing for high-dimensional metric spaces to bozkaya proceedings acm sigmod international conference on  
+heytens   m.   kumar   k. and m. muralikrishna   ÃÂ¢ ?? gamma-a high performance datallow database machine   d dewitt   b gerber   g graefe proceedings of the 1986 vldb conference   japan august    
+optimization of entropy with neural networks phd thesis university of california nn schraudolph san diego    
+automatic discovery of language models for text documents j callan   m connell   a du acm sigmod conference    
+leitfaden zur softwaregestaltung d windows-oberflÃÂ£ $ che  1995.0 
+a generalization of projective covers of modules over finite group algebras t okuyama unpublished  
+effect of sample inhomogeneity on radiation-induced size changes in graphite va nikolaenko   vn kuznetsov   pa platonov   ok at . energ    
+computation based on a share of a patientÃÂ¢ ?? s national cost p person at  
+on the convergence of temporal-difference learning with linear function approximation v tadiÃÂ¤ ? machine learning   2001.0 
+the congressional research service bp duffy new directions for program evaluation   1992.0 
+thÃÂ£ ÃÂ© mis : a database programming language handling integrity constraints v benzaken   a doucet the vldb journal the international journal on very large & hellip ;   1995.0 
+network protocols and users-bridging the gap g ghinea   jp thomas   rsf multimedia proc of acm  
+specification and transformation of programs ha partsch  1990.0 
+distance-based indexing for high-dimensional metric spaces t bozkaya   m ozsoyoglu sigmod rec   1997.0 
+rationale and new experimental evidence on the adequacy of conducted instead of radiated r bersier   b szentkuti & hellip ; . 5th int . symp . electromagn . compat . ( zurich   switzerland )   & hellip ;    
+simple algorithm for robust pole assignment in linear output feedback gr duan   
+integration of heterogeneous databases without common domains using queries based textual similarity w cohen proceedings of the acm sigmod international conference on & hellip ;    
+transgenic plant research c meyer   k lindsey harwood academic publication   zurich    
+determination of detector efficiency in ÃÂ® ÃÂ³ spectrometry of large-volume samples ÃÂ£?g tertyshnik   at korsakov at .  
+learning by design rh davis new directions for higher education   1977.0 
+trans-european effects of ÃÂ¢ ?? trans-european networksÃÂ¢ ?? : a spatial cge analysis j brÃÂ£ ÃÂ¶ cker technical university dresden   mimeo    
+urban water reuse in australia r williams & hellip ; of case studies and demonstration projects in : american & hellip ;    
+an improved protocol validation technique ch west   j rubin computer networks    
+diode lasers-an innovative tool for production m haag laseropto-stuttgart -   2000.0 
+1978 new orleans data base design working report vy lumÃÂ¢ ? ÃÂ¦ 5th international conference on very large data  
+perspectives from the history and the politics of bilingualism and bilingual education in the united k hakuta   ef mostafapour see parasnis   1996.0 
+analysis of existing test suites d estival   k falkedal   l balkan   e dauphin   s   
+storing semistructured data with stored a deutsh   m fernandezÃÂ¢ ? ÃÂ¦ proc of acm sigmod conf . on management of data    
+the state role . pm callan   rw jonsen new directions for higher education   1976.0 
+videoq : an automated content-based video search system using visual cues c sh-fÃÂ¢ ? ÃÂ¦ proc of acm  
+global constraints for lexicographic orderings a frisch   b hnich   z kiziltan   i miguel   t walsh lecture notes in computer science   2002.0 
+taming the information tsunami b bruck  2002.0 
+basic physical mechanisms determining performance of the ch3f laser dt hodges   jr tucker   ts hartwick & hellip ; on infrared physics   zurich   switzerland   aug. 11-15   1975 . & hellip ;   1976.0 
+effect of the salvaging operations performed on nuclear-powered submarines on the radioecological va danilyan   vl vysotskii   aa maksimov   yv at .  
+enriching the curriculum through competitions fa karnes   tl riley social studies and the young learner   1998.0 
+rainforestÃÂ¢ ?? a framework for fast decision tree classification of large datasets j gehrke   r ramakrishnan   v ganti proc . of the vldb conference   august   new york city   ny    
+data collection and analysis for profiling programs : expectations and reality js kaser new directions for program evaluation   1996.0 
+the cost of ems . rr panko computer networks    
+content-based music audio recommendation p cano   m koppenberger   n wack proceedings of the 13th annual acm international conference & hellip ;   2005.0 
+requirements   10 rotatetext sample program   1150ÃÂ¢ ?? 1154 rows ce windows   
+on uplink call level qos in ds-cdma networks j misÃÂ£c   vb misÃÂ£c   yk tang computer networks    
+drosophila dsmad2 and atr-i transmit activin/tgf signals p das   h inoue   jc baker   h beppu   m kawabata   rm genes to cells   1999.0 
+the multicultural factor : a curriculum multiplier . m turkovich   p mueller social studies and the young learner   1989.0 
+version 3.99 . 03 ttr manual tallinn technical university    
+a fortran extension for engmeering/scientific computation with access to acrith mfsc metzger demonstration of the compiler and sample programs . in  
+active x and ole d chappell  1996.0 
+the fl language manual j backus   jh williams   el wimmers ibm almaden research center   san jose   ca   tech . rep. rj - & hellip ;    
+roles transformation within a software engineering master by immersion v ribaud   p saliou   
+decomposition -- a strategy for query processing e wong   k youssefi acm transactions on database systems   1976.0 
+source machine learning archive d aha   s mahadevan   re schapire   j shavlik   r machine learning   2001.0 
+distance browsing in spatial databases h samet   g hjaltason acm tods    
+the netherlands . a. vollhardt   entwurf und bau einer frontend-steuerung fÃÂ£ 1/4 r das cip-upgrade projekt p semiconductors diploma thesis ( 2001 )   university of zurich   switzerland    
+concurrency control performance modeling : alternatives and implications r agrawal   mj carey   m livny acm transactions on database systems   1987.0 
+the politics of congressional elections gc jacobson  1997.0 
+general-purpose models : expectations about the unexpected sw zucker   a rosenfeld   ls davis acm sigart bulletin   1975.0 
+a practical approach for modeling the quality of multimedia data ks na   dk baik   pk kim proceedings of the ninth acm international conference on & hellip ;   2001.0 
+a logic-programming/object-oriented cocktail a ct sigmod record   1986.0 
+spatial reuse in multihop packet radio networks l kleinrock   j silvester ieee   proceedings   1987.0 
+tardive dyskinesia outcomes : clinical and pharmacologic correlates of remission and persistence r cavallaro   mg regazzetti   e mundo   v brancato neuropsychopharmacology-san diego -   1993.0 
+five-level triage system more effective than three-level in tertiary emergency department da travers   ae waller   jm bowling   d flowers   j journal of emergency nursing   2002.0 
+data extraction and transformation for the data warehouse c squire proceedings of the 1995 acm sigmod international conference & hellip ;   1995.0 
+detection dans un guide dÃÂ¢ ?? onde par decomposition de lÃÂ¢ ?? operateur retournement temporel c prada   t folegot   n mordant   m fink proceedings des 5iemes journees dÃÂ¢ ?? acoustique sous marine    
+does fuel hedging make economic sense ? the case of the us airline industry da carter   da rogers   bj simkins  2003.0 
+improving project management through benchmarking . k emhjellen proc.   29th annual project management institute seminars and & hellip ;    
+linear approximation of planar spatial databases using transitive-closure logic f geerts   b kuijpers   
+paolini ( 1996 ) . information reuse in hypermedia applications m garzotto proceedings of acm  
+adoryphorus scarab in canterbury   new zealand kg somerfield   wp thomas proc . 29th nz weed and pest control conf    
+stride prefetching by dynamically inspecting objects t inagaki   t onodera   h komatsu   t nakatani   
+kerberos authentication and workstation services at project athena d davis   r swick mit laboratory for computer science technical  
+wa gray and rf churchhouse . ( 1994 ) providing dynamic security control in a federated database nb idris proc . 1994 intl. conf . on very large databases    
+full text full text available on the publisher site publisher sitesource bt technology journal p smyth bt technology journal   2003.0 
+us department of housing and urban development   office of policy development and research . 1979 ka peroff   cl davis   r jones gautreaux housing demonstration : an evaluation of its impact  
+drawing a bead and taking the lead on wireless t may   
+database language sql-part 9 : management of external data ( sql/med ) n mattos   j melton   j richey iso working draft   june    
+new tpc benchmarks for decision support and web commerce . the sigmod record   29 ( 4 ) m poess   c floyd  2000.0 
+magnetic recording system design to reduce medium noise through signal precompensation   '' ja oÃÂ¢ ?? sullivan   d agrawal   dg porter   rs indeck     
+validation of the use of doubly labeled water in the green turtle ( chelonia mydas ) : measurements of tt jones   m hastings   r andrews   dr jones proceedings from the 25 thannual international symposium on  
+leprosy : a concise text kk koticha  1990.0 
+scam : a copy detection mechanism for digital documents n shivakumar   h garcia-molina   
+incorporating planar resistors in pcb designs rm signer electronic manufacturing    
+geometrie diophantienne sur les modules de drinfeld l denis proceedings du \ \ workshop on function elds '' ohio   d. goss   d. & hellip ;    
+incorporating roads and footpaths in watershed-scale hydrologic and soil erosion models cp harden physical geography    
+runs of significant samples for processes with sharp non-stationarities - application to seismogram vf babkin   ne rybeva   ium shcharkov & hellip ; telemetering conference   washington   d. c   proceedings   1975.0 
+r.   g. siuzdak   g. ( 2001 ) mass spectrometry in viral proteomics jj thomas   r bakhtiar acc . chem .  
+statistical learning : well-posedness is necessary and sufficient for consistency of empirical risk s mukherjee   p niyogi   t poggio   r rifkin technical report 223   cbcl   massachusetts institute of  
+evaluation of highly complex modeling procedures with binomial and poisson data j ye   w wong unpublished manuscript    
+learning how to think : being earnest is important   but itÃÂ¢ ?? s not enough je stice new directions for teaching and learning   1987.0 
+parallel programming using shared objects and broadcasting as tanenbaum   mf kaashoek   he bal   
+photodynamic therapy of neoplastic disease d kessel  1990.0 
+integratingcontentsandstructuresintextretrieval r baeza-yates   g navarro sigmod record    
+the vertex-primitive 1 2-transitive graphs with the smallest orders sf du   
+converting java programs to use generic libraries a donovan   
+the demarcation protocol : a technique for maintaining arithmetic constraints in distributed database d barbara911 barbara cs-tr-320-9 1   princeton university   april 199  
+t.   & scheraga   ha ( 1989 ) g montelione acc . chem .  
+women   work and the family : control and constraints s bowlby geography    
+r-trees : a dynamic index structure for spatial searching . 1984 a guttman prog acm sigmod international conference on management of  
+quality of service : delivering qos on the internet and in computer networks   vol p ferguson   g huston   
+basic optimal approximation of csiszarÃÂ¢ ?? s f-divergence ga anastassiou  2004.0 
+inhaled fluticasone propionate for chronic asthma n adams   j bestall   pw jones cochrane database syst rev   2001.0 
+structure and implementation of a relational query language for the problem solver f antonacci   vn spadavecchia   a turtur vldb   1977.0 
+benchmarking simple database operations wrms kubicar   r cattell acm sigmod   may    
+a resource management framework for predictable quality of service in web servers m aron   s iyer   p druschel submitted for  
+retrofits of reinforced concrete columns to enhance the blast resistance of existing buildings . kb morrill   je crawford   lj malvar proc.   29th dod explosive safety seminar   dept. of defense   & hellip ;    
+design by contracts b meyer ieee computer    
+ontology-based semantic classification of unstructured documents ck cheng   x pan   f kurfess   
+impending disaster ' near ? ssa defends dp system before house group . j kirchner computerworld.   1981.0 
+theoretical models of the altitude distribution of the concentration of electrons and various ion mn fatkullin   oa maltseva   ti zelenova geomagnetizm i aeronomiia   1974.0 
+mining frequent itemsets using support constraints k wang   y he   j han vldb   2000.0 
+a decomposition storage model gp copeland   s khoshafian   
+ÃÂ¢ ?? a condition that is not yetÃÂ¢ ?? : reactions   reflections   and closing comments ba quigley   gw kuhne new directions for adult and continuing education   1997.0 
+incorporating developmental factors into models of accommodation and vergence pm riddell   ja bullinaria submitted for publication   1999.0 
+performance analysis of aimd mechanisms over a multi-state markovian path e altman   k avrachenkov   c barakat   p dube   e computer networks   2005.0 
+stream : the stanford data stream management system a arasu   b babcock   s babu   j cieslewicz   m datar     
+hipac : combining active databases and time constraints u dayal   b blaustein   a buchmann   s chakravarthy   acm sigmod record    
+architecture for a multimedia teleconferencing system la vi   jj garcia-luna-aceves   d moran   ej proc . acm sigcomw86 symposium   aug    
+_ _ basem a. nay & h   monica s. lam ; and kunlc oh & o : tun . software and hardware for exploiting j opiinger   d heine   sw liao technical report csl-tr-97-715   stanford university computer  
+values and methods : evaluation and management perspectives wd neigher   w metlay new directions for program evaluation   1983.0 
+boat-optimistic decision tree construction j gehrke   v ganti   r ramakrishnan   wy loh   
+models and issues in data streaming systems b babcock   s babu   r motwani   j widom sigmod record    
+vulcan : binary transformation in a distributed environment a edwards   a srivastava   h vo   
+a framework for level set segmentation of volume datasets r whitaker   d breen   k museth   n soni proceedings of acm intnl . wkshp .  
+a neural cocktail-party processor c malsburg   w schneider biological cybernetics   1986.0 
+the conventional ils - so what 's new ( ils capability improvements on localizer and glide-slope antenna jb battistelli national aerospace meeting   washington   d. c   proceedings   1973.0 
+professional development   artistry   and style . rg brockett new directions for adult and continuing education   1991.0 
+gendered fishing among the meriam : implications for sexual division of foraging labor r bliege bird   d bird  2001.0 
+a high-level hardware design methodology using c++ 4th high level design validation and test r roth   d ramanathan san diego    
+federal perspectives on child obesity r carmona presentation  
+practical aspects on a nd : yag laser robot for sheet metal welding q huang   bym karnermo   ho skoog & hellip ; applications in the automotive industry   proceedings   25 th & hellip ;   1992.0 
+kyzioz . shtsls ; l   jb z daszkiewicz   a domanski   jb kyziol org . prep . proc . int    
+near neighbor search in large metric spaces s brin vldb   1995.0 
+rise of end-user computing brings new challenges to mis/dp e goldberg computerworld    
+the role of object-oriented metrics b meyer ieee computer   1998.0 
+compactly representing parallel program executions a goel   a roychoudhury   t mitra   
+12301 parklawn drive   rockville atc collection   
+benchmarking as an administrative tool for institutional leaders be bender new directions for higher education   2002.0 
+sugar alcohols and diabetes : a review tms wolever   fg building   o toronto   
+incomplete information in object-oriented databases r zicari sigmod record   1990.0 
+class and channel condition based scheduler for edge/gprs r agrawal   a bedekar   rj la   rs pazhyannur   v proc . spie   2001.0 
+design alternatives for disk duplexing sw ng  1987.0 
+liveworld : a construction kit for animate systems m travers proceedings of acm chi   1994.0 
+antiplatelet therapy for preventing stroke in patients with nonvalvular atrial fibrillation and no o benavente   r hart   p koudstaalÃÂ¢ ? ÃÂ¦  2000.0 
+a 200 mhz cell for a parallel-successive-approximation adc in 0.8 ÃÂ¢ÃÂµ m cmos   using a reference pre - je eklund   
+emotional expression and brain physiology i. approach/withdrawal and cerebral asymmetry rj davidson   p ekman   c saron   j senulis   wv journal of personality and social psychology    
+content-based retrieval of music and audio j foote proc . spie   1997.0 
+the ninth text retrieval conference ( trec-9 )   gaithersburg em voorhees   dk harman md    
+query processing   resource management   and approximation in a data stream management system a arasu   b babcock   s babu   m datar   j rosenstein   procs . of 1st cidr  
+action representation   prediction and concepts m rosenstein   pr cohen   md schmill   ms atkin   
+therapecutic drug monitoring of mycophenolic acid : comparison of hplc and immunoassay reveals new   m shipkova   vw armstrongÃÂ¢ ? ÃÂ¦  1998.0 
+release 9.5 du manual ise integrated systems engineering ag   zurich   switzerland    
+benchmarking simple database operations wb rubenstein   ms kubicar   rgg cattell proceedings of the 1987 acm sigmod international conference & hellip ;   1987.0 
+successful intubation with the combitube [ r ] in acute asthmatic respiratory distress by a parkmedic d liao   m shalit journal of emergency medicine   1996.0 
+a foodborne outbreak causing a cholinergic syndrome c greenaway   p orr journal of emergency medicine   1996.0 
+conduction in non-crystaline systems v ea davis   nf mott phil . mag    
+a predictability analysis of network traffic a sang   s li computer networks   2002.0 
+transcriber   1820 us census   harlan county   kentucky   ( posted at ftp://ftp . rootsweb . com/pub / l jones   
+random sampling for histogram construction : how much is enough ? pages 436 -- 447 s chaudhuri   r motwani   v narasayya  1998.0 
+hypergraph partitioning for vlsi cad : methodology for reporting   and new results ae caldwell   ab kahng   aa kennings   il markov   
+inside ole k brockschmidt  1993.0 
+inner and outer ecology ; transitions to a sustainable worldview . rk hetzel   
+correctness of lazy database updates for object database systems f ferrandina   t meyer   r zicari   
+icon editor : the specification of graphic behavior without coding m rosenstein   l weitzman proceedings of the 23rd annual hawaii international & hellip ;    
+transparency and awareness in a real-time groupware system m beaudouin-lafon   a karsenty proceedings of the 5th annual acm symposium on user & hellip ;   1992.0 
+improved steiner tree approximation in graphs g robins   a zelikovsky   
+congestion pricing overlaid on edge-to-edge congestion control m yuksel   s kalyanaraman   a goel   
+aggregate instability in the fixed-cost approach to public spending pa pintus  2003.0 
+design and management of data warehouses : report on the dmdw '99 workshop s gatziu   ma jeusfeld   m staudt   y vassiliou sigmod record   1999.0 
+super-symmetric decomposition of the fourth-order cumulant tensor . blind identification of more jf cardoso   
+a model to query documents by contents and structure g navarro   r baeza-yates proc . acm sigir    
+educating feminists : life histories and pedagogy . s middleton  1993.0 
+the decomposition of leaves in two southern california streams sd hart  1975.0 
+a single nine-amlno acid peptide induces virus-specific   cd8 + human cytotoxic t lymphocyte clones of j zivny   i kurane   am leporati   ma brinton   fa   
+ed short staffing : it is time to take a hard look at a growing problem and strategies such as gp lenehan journal of emergency nursing   1999.0 
+sexual intercourse for cervical ripening and induction of labour j kavanagh   aj kelly   j thomas cochrane database syst rev   2005.0 
+modeling crosscutting in aspect-oriented mechanisms h masuhara   g kiczales lecture notes in computer science   2003.0 
+tpc-ds   taking decision support benchmarking to the next level m poess   b smith   l kollar   p larson sigmod conference   2002.0 
+probabilistic delay guarantees using delay distribution measurement k gopalan   t chiueh   yj lin proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+costly bidding in online markets for it services em snir   lm hitt management science   2003.0 
+distribution   abundance   and aspects of the life histories of the midwater fishes from three regions tg bailey  1984.0 
+phluid : the design of a parallel functional language implementation on workstations c flanagan   rs nikhil proceedings of the first acm sigplan international & hellip ;   1996.0 
+objektorientierte spezifikation von informationssystemen   teubnerÃÂ¢ ?? verlag   1993 [ sk94 ] a. sheth   n. g saake 20th vldb conference   poster paper collection    
+hard problems for simple logic programs yp saraiya   
+the amino terminal and e2f interaction domains are critical for c/ebpalpha-mediated induction of   lm johansen   ea nelson   hs radomska   ek evans   p blood-new york -   2003.0 
+preparation of carbon nanotube catalyst a note firstnano   santa barbara    
+data accessforthemasses through oledb j blakeley proc . acm sigmod conf    
+segmented minimax approximation cl lawson proc . acm natl. conf    
+a data transformation system for biological data sources p buneman   sb davidson   k hart   c overton   l wong vldb   1995.0 
+an o ( n ) algorithm for transistor stacking with performance constraintsÃÂ¢ ??   ra rutenbar  1996.0 
+desmopressin for minimising perioperative allogeneic blood transfusion da henry   aj moxey   pa carless   do ` connell   b cochrane database syst rev   2001.0 
+piece resolution : towards larger perspectives s coulondre   e salvat lecture notes in computer science   1998.0 
+perspectives of the use of tissue culture models as an alternative to human prostate cancer j romijn   s erkens-schulze   fh schroder contributions to  
+citizenship knowledge in young learners . j passe social studies and the young learner   1991.0 
+thin solid films dc meyer   aa levin   p paufler   
+random and imprinted monoallelic expression d watanabe   dp barlow genes to cells   1996.0 
+diverse divers : physiology and behavior gl kooyman  1989.0 
+adaptive and incremental processing for distance join queries hsbms lee   
+1975 national computer conferenceÃÂ¢ ?? report on selected sessions j hiles ieee computer    
+can we push more constraints into frequent pattern mining j pei   j han proceedings of the sixth acm sigkdd international conference & hellip ;   2000.0 
+inductive completion of monoidal categories and infinite net computations v sassone   j meseguer   u montanari submitted for  
+too close for comfort : sex differences in response to invasions of personal space jd fisher   d byrne journal of personality and social psychology    
+asim reference manual . alewife systems memo 28 d nussbaum  1991.0 
+a graphic method to simulate garment fitting on a human body model in various posture r matsuda   h imaoka fiber   1995.0 
+tetanus prophylaxis following ocular injuries wh benson   is snyder   v granus   jv odom journal of emergency medicine   1993.0 
+effects of instructional procedures on learning a first programming language p bayman  1983.0 
+synthesis of operating procedures for complete chemical plants   part i : hierarchical   structured l ramachandran   s george lispe technical report   massachusetts institute of technology    
+approach-withdrawal and cerebral asymmetry : emotional expression and brain physiology i rj davidson   p ekman   cd saron   ja senulis   wv journal of personality and social psychology   1990.0 
+the urban geography of sars : paradoxes and dilemmas in torontoÃÂ¢ ?? s health care dd affonso   gj andrews   l jeffs urban  
+copper-dioxygen chemistry   a bioinorganic challenge kd karlin   z tyeklar acc . chem . res    
+professional opinions on the current state of the municipal solid waste industry in the uk a read   p phillips   g robinson geography    
+preparation and properties of alkylphospholipid liposomes : a review r zeisig   i fichtner   d arndt cellular and molecular biology letters   1996.0 
+some approximations to hypergeometric functions d wrinch phil . mag    
+global value numbers and redundant computations '' . 15 thpopl bk rosen   mn wegman   fk zadeck san diego   california    
+a two-layered integration approach for product information in b2b e-commerce b omelayenko   d fensel lecture notes in computer science   2001.0 
+academics studying nike d boje  2002.0 
+hate crimes : a reference handbook a donald  1999.0 
+risks of the passport signon protocol dp kormann   ad rubin computer networks    
+treatment for primary postpartum haemorrhage ha mousa   z alfirevic cochrane database syst rev   2003.0 
+ica-based hierarchical text classification for multi-domain text-to-speech synthesis x sevillano   f alÃÂ¤ ÃÂ± as   jc socoro   
+benchmarking in student affairs re mosier   gj schwarzmueller new directions for higher education   2002.0 
+analogical modes of reasoning and process modeling bv funt ieee computer    
+conference : 1st annual international ieee-embs special topic conference on microtechnologies in s takayama   e ostuni   x oian   jc mcdonald   x jiang proceedings   ( eds )   a. dittmar and d. beebe   ( ieee   piscataway  
+evolution of b2b marketplaces k tomak electronic markets   2002.0 
+conditional random fields : probabilistic models for segmenting and labeling sequence data j lafferty   a mccallum   f pereira   
+convexity theories vi . l ^ n-convex modules and representations of n-distributive lattices h roehrl   
+integrating association rule mining with databases : alternatives and implications s sarawagi   s thomas   r agrawal acm sigmod intl. conf . management of data    
+using random sampling for histogram construction s chaudhuri   r motwani   v narasayya proc . acm sigmod conference    
+05/03/01 v easy the boeing company   seattle   washington    
+gpu-assisted decoding of video samples represented in the ycocg-r color space w de neve   d van rijsselbergen   c hollemeersch proceedings of the 13th annual acm international conference & hellip ;   2005.0 
+an algorithm for the identification of proteins in sequence databases using peptide masses and n-or c korostensky   w staudenmann   p dainese   g gonnet    1998.0 
+maintenance of automatic summary tables in ibm db2/udb w lehner   
+negative life events   perceived stress   negative affect   and susceptibility to the common cold s cohen   daj tyrrell   ap smith journal of personality and social psychology   1993.0 
+computer animated simulation of traffic flow fj sarno proc . acm urban symposium    
+improving index performance through prefetching s chen   pb gibbons   tc mowry   
+emerging alternatives to today 's advanced service architectures for internet telephony : in and rh glitho computer networks   2001.0 
+oral treatments for fungal infections of the skin of the foot ( cochrane review ) sem bell-syer   r hart   f crawford   dj torgerson   w cochrane database syst rev   2002.0 
+word97 fkgl assessment microsoft corporation    
+mining frequent patterns without candidate generation ( to appear ) j han   j pei   y yin proceedings of the 2000 acm sigmod international conference  
+probabilistic ranking of database query results s chaudhuri   g das   v hristidis   g weikum proceedings of the international conference on very large & hellip ;   2004.0 
+converting relational database into xml documents with dom j fong   hk wong   z cheng information and software technology   2003.0 
+mining frequent pattems without candidate generation j han   j pei   y yin prtoceedings of the 2000 acm sigmod international conference & hellip ;    
+a thin slice preparation for patch clamp recordings from neurones of the mammalian central nervous fa edwards   a konnerth   b sakmann   t takahashi pflÃÂ£ 1/4 gers archiv european journal of physiology   1989.0 
+hemopoietic colonies d metcalf  1977.0 
+strategic budgeting . dp jones new directions for higher education   1993.0 
+dos ; shuai   z. g jl brÃÂ£ ÃÂ© das   j cornil   d beljonne   da dos santos acc . chem . res    
+dna-miner : a system prototype for mining dna sequences j han   h jamil   y lu   l chen   y liao   j pei proceedings of the 2001 acm sigmod international conference & hellip ;   2001.0 
+fast lossy internet image transmission gm davis   
+design transformation and abstract design prototyping g friel   d budgen information and software technology   1991.0 
+professional learning through workplace partnerships . bk lovin new directions for adult and continuing education   1992.0 
+the d-policy for the m/g/1 queue : queue length and optimality rr artalejo electronic modelling    
+on the number of edges in geometric graphs with no self-intersecting cycle of length 4 r pinchasi   r radoicic to  
+bpms : business process management systems d karagiannis acm sigois bulletin   1995.0 
+userÃÂ¢ ?? s guide for the substitution model ar meyer  1994.0 
+plumage colour signals nutritional condition in the house finch ge hill   r montgomerie proceedings : biological sciences   1994.0 
+performance of multihop wireless networks : shortest path is not enough   d aguayo   ba chambers   r morris acm sigcomm computer communication review   2003.0 
+an examination of the effect of ecological factors   especially competitive exclusion   on the dj woodland proceedings of the 5 th indo-pacific fish conference   noumea & hellip ;   1999.0 
+the demarcation protocol : a technique for maintaining linear arithmetic constraints in distributed acms anthology   
+is the possibility of a costly aircraft bird strike growing ?   p. 169ÃÂ¢ ?? 178 : m robinson proceedings of the 25 thinternational bird strike committee . & hellip ;    
+crystal structure of the pyrococcus horikoshii dna primase-utp complex : implications for the n ito   o nureki   m shirouzu   s yokoyama   f hanaoka genes to cells   2003.0 
+user-assisted knowledge discovery : how much should the user be involved a silberschatz   a tuzhilin proceedings of the sigmod workshop on research issues on & hellip ;    
+data access for the masses through ole db . ja blakeley  1996.0 
+overview of the fth text retrieval conference ( trec-5 ) . the fth text retrieval conference ( trec-5 )   em voorhees   d harman md    
+the implementation of the cilk-5 multithreaded language . in 1998 acm sigplan conf . on programming m frigo   ce leiserson   kh randall  1998.0 
+comparison of ilp formulations for the rwa problem b jaumard   c meyer   b thiongane submitted for  
+studies on oceanography : a collection of papers dedicated to koji hidaka rw stewart  1964.0 
+multi-agent reinforcement learning with bidding for segmenting action sequences r sun   c sessions   
+the federal role . rh davidson   js stark new directions for higher education   1976.0 
+money   elections   and candidate quality s ansolabehere   j snyder unpublished manuscript    
+b.   1999   modern information retrieval r baeza-yates   b ribeiro-neto acm press   new  
+n. a game theory approach to digital robust control [ c ] dj limebeer proc . of 28th ieee conference on decision and control   usa    
+a randomized protocol for signing contracts s even   o goldreich   a lempel  1985.0 
+superoxide dismutase for preventing chronic lung disease in mechanically ventilated preterm infants gk suresh   jm davis   rf soll cochrane database syst rev   2001.0 
+a case study of electronic banking operations at meridian bancorp r banker   r kauffman information and software technology    
+storing semistructured data in relations a deutsch   m fernandez   d suciu   
+inspector joins s chen   a ailamaki   pb gibbons   tc mowry proceedings of the 31st international conference on very & hellip ;   2005.0 
+178 ] p. : ill.   maps e du chene  2002.0 
+constant response to change : the role of the financial aid office . nk hart new directions for higher education   1991.0 
+content-based image indexing and retrieval wy ma   hj zhang handbook of multimedia computing    
+distance learning through distributed collaborative video viewing a balachandran   jj cadiz   
+contamination of surfaces during high-energy electron irradiation rk hart   tf kassner   jk maurin phil mag   1970.0 
+jf lu . a new metric for object-oriented design jy chen information and software technology    
+vox populi no. 2 : a bilingual text and sound installation cl jaramillo proceedings of the 12th annual acm international conference & hellip ;   2004.0 
+lpminer : an algorithm for finding frequent itemsets using length-decreasing support constraint m seno   g karypis   
+two-view geometry estimation by random sample and consensus o chum  2005.0 
+characterization and generation of a general class of resource-constrained project scheduling r kolisch   a sprecher   a drexl management science   1995.0 
+a particulate matter risk analysis for philadelphia and los angeles . prepared by abt associates for a associates md    
+intelligent planning : a decomposition and abstraction based approach q yang   me pollack  1997.0 
+the variables of positive change df sullivan new directions for higher education   2002.0 
+evaluation of the focal distance of lenses by white-light lau phase interferometry m thakur   c shakher   
+gofer 2.30 a release notes mp jones unpublished manuscript    
+fracture-related amplitude variations with oset and azimuthin marineseismic data : 67th annual c macbeth   xy li   f ohlsen   h jakubowicz   w kirk expanded abstracts   i    
+full text full text available on the publisher site publisher sitesource bt technology journal c wheddon bt technology journal   1998.0 
+teaching in a diverse environment : knowledge and skills needed by tas . n chism new directions for teaching and learning   1989.0 
+a distance scan algorithm for spatial access structures a henrich   
+authenticating distributed data using web services and xml signatures dj polivy   r tamassia   
+using xml security mechanisms a selkirk bt technology journal   2001.0 

@@ -1,0 +1,131 @@
+privacy-enhanced data management for next-generation e-commerce   2003 
+an introduction to deductive database languages and systems k ramamohanarao j harland vldb j. 1994 
+information systems research at george mason university s jajodia d barbarÑ a brodsky l kerschberg a motro e sibley x wang sigmod record 1997 
+phrase matching in xml s amer-yahia m fernandez d srivastava y xu vldb 2003 
+time-parameterized queries in spatio-temporal databases y tao d papadias sigmod conference 2002 
+the aqua approximate query answering system s acharya p gibbons v poosala s ramaswamy sigmod conference 1999 
+holistic twig joins : optimal xml pattern matching n bruno n koudas d srivastava sigmod conference 2002 
+supporting incremental join queries on ranked inputs a natsev y chang j smith c li j vitter vldb 2001 
+selectivity estimation for spatio-temporal queries to moving objects y choi c chung sigmod conference 2002 
+an overview of db2 parallel edition c baru g fecteau a goyal h hsiao a jhingran s padmanabhan w wilson sigmod conference 1995 
+walrus : a similarity retrieval algorithm for image databases a natsev r rastogi k shim sigmod conference 1999 
+supporting periodic authorizations and temporal reasoning in database access control e bertino c bettini e ferrari p samarati vldb 1996 
+evaluating functional joins along nested reference sets in object-relational and object-oriented databases r braumandl j clauÐ¿en a kemper vldb 1998 
+scheduling for shared window joins over data streams m hammad m franklin w aref a elmagarmid vldb 2003 
+holistic twig joins on indexed xml documents h jiang w wang h lu j yu vldb 2003 
+of crawlers portals mice and men : is there more to mining the web ? ( panel ) m garofalakis s ramaswamy r rastogi k shim sigmod conference 1999 
+semantic assumptions and query evaluation in temporal databases c bettini x wang e bertino s jajodia sigmod conference 1995 
+diag-join : an opportunistic join algorithm for 1 : n relationships s helmer t westmann g moerkotte vldb 1998 
+enterprise java platform data access s white r cattell s finkelstein sigmod conference 1998 
+joining ranked inputs in practice i ilyas w aref a elmagarmid vldb 2002 
+design and analysis of parametric query optimization algorithms s ganguly vldb 1998 
+cure : an efficient clustering algorithm for large databases s guha r rastogi k shim sigmod conference 1998 
+algorithms for querying by spatial structure d papadias n mamoulis v delis vldb 1998 
+managing a db2 parallel edition database g fecteau vldb 1995 
+on database theory and xml d suciu sigmod record 2001 
+unisql 's next-generation object-relational database management system a d'andrea p janus sigmod record 1996 
+wavelet-based histograms for selectivity estimation y matias j vitter m wang sigmod conference 1998 
+new sampling-based summary statistics for improving approximate query answers p gibbons y matias sigmod conference 1998 
+evaluation of main memory join algorithms for joins with set comparison join predicates s helmer g moerkotte vldb 1997 
+fast incremental maintenance of approximate histograms p gibbons y matias v poosala vldb 1997 
+securing xml documents : the author-x project demonstration e bertino s castano e ferrari sigmod conference 2001 
+approximate query processing using wavelets k chakrabarti m garofalakis r rastogi k shim vldb 2000 
+dynamic maintenance of wavelet-based histograms y matias j vitter m wang vldb 2000 
+adaptive index structures y tao d papadias vldb 2002 
+exact indexing of dynamic time warping e keogh vldb 2002 
+optimizing the secure evaluation of twig queries s cho s amer-yahia l lakshmanan d srivastava vldb 2002 
+adaptive selectivity estimation using query feedback c chen n roussopoulos sigmod conference 1994 
+using latency-recency profiles for data delivery on the web l bright l raschid vldb 2002 
+adam : a testbed for exploring the use of data mining in intrusion detection d barbarÑ j couto s jajodia n wu sigmod record 2001 
+relating distributed objects b martin r cattell vldb 1994 
+describing semistructured data l cardelli sigmod record 2001 
+special issue on data mining for intrusion detection and threat analysis - guest editor 's introduction   2001 
+magic conditions i mumick s finkelstein h pirahesh r ramakrishnan acm trans . database syst . 1996 
+locally adaptive dimensionality reduction for indexing large time series databases e keogh k chakrabarti s mehrotra m pazzani sigmod conference 2001 
+declustering of key-based partitioned signature files p ciaccia p tiberio p zezula acm trans . database syst . 1996 
+models and languages for describing and discovering e-services   2001 
+including group-by in query optimization s chaudhuri k shim vldb 1994 
+guest editorial   2003 
+minimization of tree pattern queries s amer-yahia s cho l lakshmanan d srivastava sigmod conference 2001 
+a performance study of four index structures for set-valued attributes of low cardinality s helmer g moerkotte vldb j. 2003 
+hyperqueries : dynamic distributed query processing on the internet a kemper c wiesner vldb 2001 
+guest editorial   2003 
+guidelines for presentation and comparison of indexing techniques j zobel a moffat k ramamohanarao sigmod record 1996 
+optimizing disjunctive queries with expensive predicates a kemper g moerkotte k peithner m steinbrunn sigmod conference 1994 
+automated resolution of semantic heterogeneity in multidatabases m bright a hurson s pakzad acm trans . database syst . 1994 
+efficient algorithms for mining outliers from large data sets s ramaswamy r rastogi k shim sigmod conference 2000 
+generalised hash teams for join and group-by a kemper d kossmann c wiesner vldb 1999 
+odmg-93 : a standard for object-oriented dbmss r cattell sigmod conference 1994 
+editorial   2001 
+unisql/x unified relational and object-oriented database system w kim sigmod conference 1994 
+efficient processing of joins on set-valued attributes n mamoulis sigmod conference 2003 
+distributed query evaluation on semistructured data d suciu acm trans . database syst . 2002 
+multiway spatial joins n mamoulis d papadias acm trans . database syst . 2001 
+optimization of queries with user-defined predicates s chaudhuri k shim vldb 1996 
+editorial   2001 
+the implementation and performance of compressed databases t westmann d kossmann s helmer g moerkotte sigmod record 2000 
+logical design for temporal databases with multiple granularities x wang c bettini a brodsky s jajodia acm trans . database syst . 1997 
+ensuring consistency in multidatabases by preserving two-level serializability s mehrotra r rastogi h korth a silberschatz acm trans . database syst . 1998 
+anatomy of a real e-commerce system a jhingran sigmod conference 2000 
+extracting large data sets using db2 parallel edition s padmanabhan vldb 1996 
+an access control model supporting periodicity constraints and temporal reasoning e bertino c bettini e ferrari p samarati acm trans . database syst . 1998 
+inverted files versus signature files for text indexing j zobel a moffat k ramamohanarao acm trans . database syst . 1998 
+optimization of queries with user-defined predicates s chaudhuri k shim acm trans . database syst . 1999 
+multi-dimensional clustering : a new data layout scheme in db2 s padmanabhan b bhattacharjee t malkemus l cranston m huras sigmod conference 2003 
+fundamental techniques for order optimization d simmen e shekita t malkemus sigmod conference 1996 
+moving up the food chain : supporting e-commerce applications on databases a jhingran sigmod record 2000 
+learning response time for websources using query feedback and application in query optimization j gruser l raschid v zadorozhny t zhan vldb j. 2000 
+functional-join processing r braumandl j clauÐ¿en a kemper d kossmann vldb j. 2000 
+guest editorial : databases and the web   2000 
+selectivity estimation without the attribute value independence assumption v poosala y ioannidis vldb 1997 
+heuristic and randomized optimization for the join ordering problem m steinbrunn g moerkotte a kemper vldb j. 1997 
+local dimensionality reduction : a new approach to indexing high dimensional spaces k chakrabarti s mehrotra vldb 2000 
+quality of service in multimedia digital libraries e bertino a elmagarmid m hacid sigmod record 2001 
+parametric query optimization y ioannidis r ng k shim t sellis vldb j. 1997 
+concurrency control in hierarchical multidatabase systems s mehrotra h korth a silberschatz vldb j. 1997 
+m-tree : an efficient access method for similarity search in metric spaces p ciaccia m patella p zezula vldb 1997 
+the new middleware r finkelstein sigmod record 1995 
+querying multi-dimensional data indexed using the hilbert space-filling curve j lawder p king sigmod record 2001 
+spectral bloom filters s cohen y matias sigmod conference 2003 
+parallel query scheduling and optimization with time - and space-shared resources m garofalakis y ioannidis vldb 1997 
+optimizing queries with universal quantification in object-oriented and object-relational databases j clauÐ¿en a kemper g moerkotte k peithner vldb 1997 
+efficient concurrency control in multidimensional access methods k chakrabarti s mehrotra sigmod conference 1999 
+analysis of predictive spatio-temporal queries y tao j sun d papadias acm trans . database syst . 2003 
+efficient evaluation of queries in a mediator for websources v zadorozhny l raschid m vidal t urhan l bright sigmod conference 2002 
+editorial   2002 
+an authorization system for digital libraries e ferrari n adam v atluri e bertino u capuozzo vldb j. 2002 
+guest editorial   2002 
+tree pattern query minimization s amer-yahia s cho l lakshmanan d srivastava vldb j. 2002 
+searching in metric spaces with user-defined and approximate distances p ciaccia m patella acm trans . database syst . 2002 
+lockx : a system for efficiently querying secure xml s cho s amer-yahia l lakshmanan d srivastava sigmod conference 2003 
+spirit : sequential pattern mining with regular expression constraints m garofalakis r rastogi k shim vldb 1999 
+fast incremental maintenance of approximate histograms p gibbons y matias v poosala acm trans . database syst . 2002 
+locally adaptive dimensionality reduction for indexing large time series databases k chakrabarti e keogh s mehrotra m pazzani acm trans . database syst . 2002 
+cost models for overlapping and multiversion structures y tao d papadias j zhang acm trans . database syst . 2002 
+pix : exact and approximate phrase matching in xml s amer-yahia m fernandez d srivastava y xu sigmod conference 2003 
+bypassing joins in disjunctive queries m steinbrunn k peithner g moerkotte a kemper vldb 1995 
+aqua : a fast decision support systems using approximate query answers s acharya p gibbons v poosala vldb 1999 
+exploiting early sorting and early partitioning for decisionsupport query processing j clauÐ¿en a kemper d kossmann c wiesner vldb j. 2000 
+guest editorial   2000 
+spatial queries in dynamic environments y tao d papadias acm trans . database syst . 2003 
+cost-based optimization for magic : algebra and implementation p seshadri j hellerstein h pirahesh t leung r ramakrishnan d srivastava p stuckey s sudarshan sigmod conference 1996 
+guest editorial   2001 
+bifocal sampling for skew-resistant join size estimation s ganguly p gibbons y matias a silberschatz sigmod conference 1996 
+approximate query processing using wavelets k chakrabarti m garofalakis r rastogi k shim vldb j. 2001 
+integration of spatial join algorithms for processing multiple inputs n mamoulis d papadias sigmod conference 1999 
+e-services - guest editorial   2001 
+a database approach to quality of service specification in video databases e bertino a elmagarmid m hacid sigmod record 2003 
+response to the march 1994 odmg-93 commentary written by dr. won kim of unisql inc o group sigmod record 1994 
+query processing in spatial network databases d papadias j zhang n mamoulis y tao vldb 2003 
+supporting top-k join queries in relational databases i ilyas w aref a elmagarmid vldb 2003 
+the tpr * - tree : an optimized spatio-temporal access method for predictive queries y tao d papadias j sun vldb 2003 
+estimating the output cardinality of partial preaggregation with a measure of clusteredness s helmer t neumann g moerkotte vldb 2003 
+join algorithm costs revisited e harris k ramamohanarao vldb j. 1996 
+join synopses for approximate query answering s acharya p gibbons v poosala s ramaswamy sigmod conference 1999 
+efficient query processing for multi-dimensionally clustered tables in db2 b bhattacharjee s padmanabhan t malkemus t lai l cranston m huras vldb 2003 
+observations on the odmg-93 proposal w kim sigmod record 1994 
+multi-dimensional selectivity estimation using compressed histogram information j lee d kim c chung sigmod conference 1999 
+improved histograms for selectivity estimation of range predicates v poosala y ioannidis p haas e shekita sigmod conference 1996 
+the aditi deductive database system j vaghani k ramamohanarao d kemp z somogyi p stuckey t leask j harland vldb j. 1994 
+dynamic maintenance of data distribution for selectivity estimation k whang s kim g wiederhold vldb j. 1994 
+selectivity estimation in spatial databases s acharya v poosala s ramaswamy sigmod conference 1999 

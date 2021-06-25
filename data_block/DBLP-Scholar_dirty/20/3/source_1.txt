@@ -1,0 +1,131 @@
+towards a cooperative transaction model - the cooperative activity model m rusinkiewicz w klas t tesch j wÑsch p muth 1995  vldb  
+large-scale standards-based earth observation imagery and web mapping services p baumann vldb   2003.0 
+weaving relations for cache performance a ailamaki d dewitt m hill m skounakis 2001  vldb  
+versions and workspaces in microsoft repository 1999 t bergstraesser p bernstein s pal d shutt sigmod conference  
+from data independence to knowledge independence : an on-going story vldb l vieille  1998.0 
+time management for new faculty a ailamaki j gehrke sigmod record 2003.0 
+a database interface for file updates sigmod conference s abiteboul s cluet t milo  1995.0 
+the database and information system research group at the university of ulm p dadam w klas sigmod record   1997.0 
+the aqua approximate query answering system s acharya p gibbons v poosala s ramaswamy sigmod conference 1999    
+time-parameterized queries in spatio-temporal databases y tao d papadias sigmod conference   2002.0 
+efficient maintenance of materialized mediated views sigmod conference j lu g moerkotte j schÑ v subrahmanian  1995.0 
+mars : a system for publishing xml from mixed and redundant storage a deutsch v tannen vldb 2003    
+views in a large scale xml repository s cluet p veltri d vodislav vldb 2001.0 
+selectivity estimation for spatio-temporal queries to moving objects y choi c chung sigmod conference 2002    
+wavelet synopses with error guarantees 2002 m garofalakis p gibbons sigmod conference  
+shrinking the warehouse update window sigmod conference 1999 w labio r yerneni h garcia-molina   
+bigsur : a system for the management of earth science data p brown m stonebraker vldb 1995    
+evaluating functional joins along nested reference sets in object-relational and object-oriented databases r braumandl j clauÐ¿en a kemper vldb 1998    
+data management for earth system science j frew j dozier  sigmod record 1997.0 
+incremental maintenance of views with duplicates sigmod conference t griffin l libkin  1995.0 
+diag-join : an opportunistic join algorithm for 1 : n relationships s helmer t westmann g moerkotte vldb 1998.0 
+spatio-temporal retrieval with rasdaman vldb 1999 p baumann a dehmel p furtado r ritsch n widmann   
+xml repository and active views demonstration s abiteboul v aguilera s ailleret b amann s cluet b hills f hubert j mamou a marian l mignet t milo c santos b tessier a vercoustre vldb   1999.0 
+serviceglobe : distributing e-services across the internet m keidl s seltzsam k stocker a kemper  vldb 2002.0 
+efficient evaluation of xml middle-ware queries m fernandez a morishima d suciu 2001  sigmod conference  
+algorithms for querying by spatial structure vldb d papadias n mamoulis v delis  1998.0 
+repositories and object oriented databases sigmod record 1998 p bernstein   
+bank of america case study : the information currency advantage f cariÑo m jahnke vldb 1998.0 
+expiring data in a warehouse h garcia-molina w labio j yang vldb 1998    
+on database theory and xml sigmod record d suciu  2001.0 
+algorithms for materialized view design in data warehousing environment j yang k karlapalem q li  vldb 1997.0 
+infoharness : a system for search and retrieval of heterogeneous information l shklar a sheth v kashyap s thatte  sigmod conference 1995.0 
+dissemination of dynamic data p deolasee a katkar a panchbudhe k ramamritham p shenoy sigmod conference 2001.0 
+searching and mining fine-grained semi-structured data 2002    
+wavelet-based histograms for selectivity estimation 1998 y matias j vitter m wang sigmod conference  
+constraints for semi-structured data and xml sigmod record p buneman w fan j simÑon s weinstein  2001.0 
+updating xml sigmod conference i tatarinov z ives a halevy d weld  2001.0 
+evaluation of main memory join algorithms for joins with set comparison join predicates s helmer g moerkotte vldb 1997    
+fast incremental maintenance of approximate histograms vldb p gibbons y matias v poosala  1997.0 
+updates for structure indexes r kaushik p bohannon j naughton p shenoy vldb 2002.0 
+dynamic maintenance of wavelet-based histograms 2000 y matias j vitter m wang vldb  
+geo/environmental and medical data management in the rasdaman system p baumann p furtado r ritsch n widmann vldb 1997    
+independence is good : dependency-based histogram synopses for high-dimensional data a deshpande m garofalakis r rastogi  sigmod conference 2001.0 
+fine-grained sharing in a page server oodbms m carey m franklin m zaharioudakis sigmod conference 1994    
+an overview of repository technology p bernstein u dayal 1994  vldb  
+from structured documents to novel query facilities 1994 v christophides s abiteboul s cluet m scholl sigmod conference  
+the microsoft repository 1997 p bernstein b harry p sanders d shutt j zander vldb  
+maintaining coherency of dynamic data in cooperating repositories vldb s shah k ramamritham p shenoy  2002.0 
+adaptive selectivity estimation using query feedback c chen n roussopoulos sigmod conference 1994.0 
+the multidimensional database system rasdaman sigmod conference p baumann a dehmel p furtado r ritsch n widmann  1998.0 
+storhouse metanoia - new applications for database storage & data warehousing f cariÑo p kostamaa a kaufmann j burgess  sigmod conference 2001.0 
+rainforest - a framework for fast decision tree construction of large datasets j gehrke r ramakrishnan v ganti  vldb 1998.0 
+small materialized aggregates : a light weight index structure for data warehousing g moerkotte vldb   1998.0 
+selectivity estimation using probabilistic models l getoor b taskar d koller sigmod conference   2001.0 
+the national medical knowledge bank vldb w sterling  1998.0 
+the adabas buffer pool manager h schÑning 1998  vldb  
+plan-per-tuple optimization solution - parallel execution of expensive user-defined functions f cariÑo w o'connell 1998  vldb  
+a performance study of four index structures for set-valued attributes of low cardinality s helmer g moerkotte vldb j. 2003.0 
+cost-driven vertical class partitioning for methods in object oriented databases vldb j. c fung k karlapalem q li  2003.0 
+the xml typechecking problem sigmod record 2002 d suciu   
+optimizing disjunctive queries with expensive predicates a kemper g moerkotte k peithner m steinbrunn 1994  sigmod conference  
+iterative dynamic programming : a new class of query optimization algorithms d kossmann k stocker acm trans . database syst . 2000    
+congressional samples for approximate answering of group-by queries s acharya p gibbons v poosala sigmod conference 2000.0 
+highly concurrent cache consistency for indices in client-server database systems m zaharioudakis m carey 1997  sigmod conference  
+cache investment : integrating query optimization and distributed data placement d kossmann m franklin g drasch 2000  acm trans . database syst .  
+maintenance of data cubes and summary tables in a warehouse i mumick d quass b mumick  sigmod conference 1997.0 
+a chase too far ? l popa a deutsch a sahuguet v tannen sigmod conference 2000.0 
+an extensible compressor for xml data sigmod record h liefke d suciu  2000.0 
+efficient processing of joins on set-valued attributes n mamoulis 2003  sigmod conference  
+distributed query evaluation on semistructured data d suciu acm trans . database syst . 2002    
+metadata for digital media : introduction to the special issue w klas a sheth sigmod record 1994    
+multiway spatial joins n mamoulis d papadias  acm trans . database syst . 2001.0 
+transactional client-server cache consistency : alternatives and performance acm trans . database syst . 1997 m franklin m carey m livny   
+the implementation and performance of compressed databases t westmann d kossmann s helmer g moerkotte sigmod record 2000.0 
+adaptive fine-grained sharing in a client-server oodbms : a callback-based approach acm trans . database syst . 1997 m zaharioudakis m carey m franklin   
+performance issues in incremental warehouse maintenance w labio j yang y cui h garcia-molina j widom vldb   2000.0 
+using probabilistic information in data integration d florescu d koller a levy vldb 1997    
+review of data on the web : from relational to semistructured data and xml by serge abiteboul peter buneman and dan suciu . morgan kaufmann 1999   2003.0 
+set containment joins : the good the bad and the ugly k ramasamy j patel j naughton r kaushik  vldb 2000.0 
+on wrapping query languages and efficient xml integration v christophides s cluet j simÑon sigmod conference 2000    
+on relational support for xml publishing : beyond sorting and tagging s chaudhuri r kaushik j naughton sigmod conference 2003.0 
+functional-join processing r braumandl j clauÐ¿en a kemper d kossmann  vldb j. 2000.0 
+xmill : an efficient compressor for xml data h liefke d suciu sigmod conference 2000    
+toward network data independence j hellerstein sigmod record 2003    
+icicles : self-tuning samples for approximate query answering v ganti m lee r ramakrishnan vldb 2000.0 
+selectivity estimation without the attribute value independence assumption v poosala y ioannidis  vldb 1997.0 
+data management in ecommerce : the good the bad and the ugly   2000.0 
+location-based spatial queries sigmod conference 2003 j zhang m zhu d papadias y tao d lee   
+heuristic and randomized optimization for the join ordering problem 1997 m steinbrunn g moerkotte a kemper vldb j.  
+on-line warehouse view maintenance sigmod conference 1997 d quass j widom   
+supporting multiple view maintenance policies l colby a kawaguchi d lieuwen i mumick k ross  sigmod conference 1997.0 
+a logical view of structured files s abiteboul s cluet t milo vldb j. 1998    
+exposing undergraduate students to database system internals a ailamaki j hellerstein sigmod record 2003    
+optimizing queries with universal quantification in object-oriented and object-relational databases j clauÐ¿en a kemper g moerkotte k peithner vldb   1997.0 
+physical data independence constraints and optimization with universal plans vldb 1999 a deutsch l popa v tannen   
+covering indexes for branching path queries r kaushik p bohannon j naughton h korth 2002  sigmod conference  
+analysis of predictive spatio-temporal queries y tao j sun d papadias 2003  acm trans . database syst .  
+data page layouts for relational databases on deep memory hierarchies a ailamaki d dewitt m hill 2002  vldb j.  
+views in a large-scale xml repository v aguilera s cluet t milo p veltri d vodislav vldb j. 2002    
+design and implementation of rmp - a virtual electronic market place s boll w klas b battaglin sigmod record   1998.0 
+the piazza peer data management project 2003 i tatarinov z ives j madhavan a halevy d suciu n dalvi x dong y kadiyska g miklau p mork sigmod record  
+an xml query engine for network-bound data z ives a halevy d weld vldb j.   2002.0 
+silkroute : a framework for publishing relational data in xml m fernandez y kadiyska d suciu a morishima w tan 2002  acm trans . database syst .  
+fast incremental maintenance of approximate histograms acm trans . database syst . 2002 p gibbons y matias v poosala   
+objectglobe : ubiquitous query processing on the internet r braumandl m keidl a kemper d kossmann a kreutz s seltzsam k stocker vldb j.   2001.0 
+context-based prefetch - an optimization for implementing objects on relations p bernstein s pal d shutt  vldb j. 2000.0 
+bypassing joins in disjunctive queries m steinbrunn k peithner g moerkotte a kemper vldb 1995.0 
+aqua : a fast decision support systems using approximate query answers s acharya p gibbons v poosala vldb 1999    
+evaluating queries with generalized path expressions v christophides s cluet g moerkotte  sigmod conference 1996.0 
+an adaptive query execution system for data integration 1999 z ives d florescu m friedman a levy d weld sigmod conference  
+spatial queries in dynamic environments y tao d papadias acm trans . database syst . 2003    
+algorithms for deferred view maintenance sigmod conference l colby t griffin l libkin i mumick h trickey  1996.0 
+a query language for multidimensional arrays : design implementation and optimization techniques l libkin r machlin l wong sigmod conference   1996.0 
+boat-optimistic decision tree construction j gehrke v ganti r ramakrishnan w loh 1999  sigmod conference  
+integration of spatial join algorithms for processing multiple inputs n mamoulis d papadias  sigmod conference 1999.0 
+database patchwork on the internet r braumandl a kemper d kossmann sigmod conference 1999    
+query processing in spatial network databases d papadias j zhang n mamoulis y tao  vldb 2003.0 
+semantic and schematic similarities between database objects : a context-based approach v kashyap a sheth vldb j.   1996.0 
+active storage hierarchy database systems and applications - socratic exegesis f cariÑo w o'connell j burgess j saltz 1999  vldb  
+repository system engineering   1996.0 
+estimating the output cardinality of partial preaggregation with a measure of clusteredness s helmer t neumann g moerkotte 2003  vldb  
+join synopses for approximate query answering sigmod conference s acharya p gibbons v poosala s ramaswamy  1999.0 
+context-based prefetch for implementing objects on relations vldb 1999 p bernstein s pal d shutt   
+multi-dimensional selectivity estimation using compressed histogram information 1999 j lee d kim c chung sigmod conference  
+dbmss on a modern processor : where does time go ? a ailamaki d dewitt m hill d wood vldb 1999.0 
+management of multidimensional discrete data 1994 p baumann vldb j.  
+comprehension syntax p buneman l libkin d suciu v tannen l wong  sigmod record 1994.0 
+improved histograms for selectivity estimation of range predicates v poosala y ioannidis p haas e shekita sigmod conference 1996.0 
+active views for electronic commerce vldb 1999 s abiteboul b amann s cluet a eyal l mignet t milo   
+commercial use of database technology h schÑning  vldb 2003.0 
+selectivity estimation in spatial databases s acharya v poosala s ramaswamy  sigmod conference 1999.0 

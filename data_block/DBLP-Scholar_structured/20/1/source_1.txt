@@ -1,0 +1,131 @@
+sql/xml is making good progress a eisenberg j melton sigmod record 2002 
+the semantic web : semantics for data on the web   2003 
+processing complex aggregate queries over data streams a dobra m garofalakis j gehrke r rastogi sigmod conference 2002 
+editor 's notes l liu sigmod record 2002 
+e-commerce database issues and experience a rajaraman sigmod conference 1999 
+mining the world wide web : an information search approach - book review   2002 
+report on the nsf workshop on building an infrastructure for mobile and wireless systems   2002 
+editor 's notes l liu sigmod record 2003 
+query processing techniques for multiversion access methods j bercken b seeger vldb 1996 
+data mining : practical machine learning tools and techniques - book review j geller sigmod record 2002 
+xml schema c campbell a eisenberg j melton sigmod record 2003 
+book review column k aberer sigmod record 2002 
+editor 's notes m franklin sigmod record 1997 
+databases and transaction processing : an application-oriented approach - book review a kemper sigmod record 2002 
+virtual database technology a gupta v harinarayan a rajaraman sigmod record 1997 
+book review column k aberer sigmod record 2002 
+editor 's notes l liu sigmod record 2002 
+db2 spatial extender - spatial data within the rdbms d adler vldb 2001 
+editor 's notes l liu sigmod record 2002 
+report on the first international workshop an efficient web-based information systems   2003 
+xxl - a library approach to supporting efficient implementations of advanced database queries j bercken b blohsfeld j dittrich j krÑmer t schÑfer m schneider b seeger vldb 2001 
+report on the first international conference on ontologies databases and applications of semantics   2003 
+editor 's notes   1997 
+data warehousing and business intelligence for e-commerce - book review f goethals sigmod record 2002 
+data mining : concepts and techniques - book review f galiano n marÑn sigmod record 2002 
+the generalized pre-grouping transformation : aggregate-query optimization in the presence of dependencies a tsois t sellis vldb 2003 
+book review column k aberer sigmod record 2002 
+introduction to constraint databases - book review   2002 
+foundations of statistical natural language processing - book review   2002 
+bulk loading into an oodb : a performance study j wiener j naughton vldb 1994 
+processing star queries on hierarchically-clustered fact tables n karayannidis a tsois t sellis r pieringer v markl f ramsak r fenk k elhardt r bayer vldb 2002 
+report on the mobile search workshop at www 2002   2002 
+tree pattern aggregation for scalable xml data dissemination c chan w fan p felber m garofalakis r rastogi vldb 2002 
+incremental maintenance of views with duplicates t griffin l libkin sigmod conference 1995 
+report on the web dynamics workshop at www 2002   2002 
+editor 's notes m franklin sigmod record 1998 
+sql/med - a status report j melton j michels v josifovski k kulkarni p schwarz sigmod record 2002 
+standards in practice a eisenberg j melton sigmod record 1998 
+report on the semantic web workshop at www 2002   2002 
+ontologies : a silver bullet for knowledge management and electronic commerce - book review   2002 
+real world requirements for decision support - implications for rdbms s bansal sigmod conference 1995 
+editor 's notes l liu sigmod record 2002 
+editor 's notes m franklin sigmod record 1997 
+an evaluation of generic bulk loading techniques j bercken b seeger vldb 2001 
+book review column k aberer sigmod record 2002 
+os support for vldbs : unix enhancements for the teradata data base j catozzi s rabinovici vldb 1995 
+indexing multimedia databases ( tutorial )   1995 
+discovery of influence sets in frequently updated databases i stanoi m riedewald d agrawal a abbadi vldb 2001 
+data stream query processing : a tutorial   2003 
+report on first international workshop on real-time database systems   1996 
+efficient algorithms for processing xpath queries g gottlob c koch r pichler vldb 2002 
+semantic web workshop : models architectures and management   2001 
+editor 's notes j widom sigmod record 1996 
+scientist 's called upon to take actions x qian sigmod record 1996 
+editor 's notes   2001 
+a generic approach to bulk loading multidimensional index structures j bercken b seeger p widmayer vldb 1997 
+sql multimedia and application packages ( sql/mm ) j melton a eisenberg sigmod record 2001 
+re-tree : an efficient index structure for regular expressions c chan m garofalakis r rastogi vldb 2002 
+editor 's notes l liu sigmod record 2001 
+introduction to the career forum column a labrinidis sigmod record 2001 
+workshop report : the first international workshop on active and real-time database systems ( artdb-95 )   1996 
+decision tables : scalable classification exploring rdbms capabilities h lu h liu vldb 2000 
+shutdown budget and funding x qian sigmod record 1996 
+editor 's notes l liu sigmod record 2001 
+approximate join processing over data streams a das j gehrke m riedewald sigmod conference 2003 
+book review column k aberer sigmod record 2001 
+operating system extensions for the teradata parallel vldb j catozzi s rabinovici vldb 2001 
+opportunities in information management and assurance x qian sigmod record 1997 
+transactional information systems - book review   2001 
+information warfare and security - book review   2001 
+evolving teradata decision support for massively parallel processing with unix c ballinger sigmod conference 1994 
+re-tree : an efficient index structure for regular expressions c chan m garofalakis r rastogi vldb j. 2003 
+using the golden rule of sampling for query estimation y wu d agrawal a abbadi sigmod conference 2001 
+what will be - book review   2002 
+report from the nsf workshop on workflow and process automation in information systems   1996 
+mapinfo spatialware : a spatial information server for rdbms c mina vldb 1998 
+new programs at darpa and nsf x qian sigmod record 1996 
+editor 's notes j widom sigmod record 1996 
+formal query languages for secure relational databases m winslett k smith x qian acm trans . database syst . 1994 
+editor 's notes m franklin sigmod record 1999 
+turmoil at nasa and numerous funding announcements x qian sigmod record 1995 
+maintenance of data cubes and summary tables in a warehouse i mumick d quass b mumick sigmod conference 1997 
+object-oriented extensions in sql3 : a status report k kulkarni sigmod conference 1994 
+editor 's notes l liu sigmod record 2003 
+editor 's notes m franklin sigmod record 2000 
+editor 's notes and erratum   1994 
+database management systems and the internet s malaika vldb 1996 
+report on second international workshop on advanced issues of e-commerce and web-based information systems   2000 
+political winds change direction again x qian sigmod record 1995 
+efficient view maintenance at data warehouses d agrawal a abbadi a singh t yurek sigmod conference 1997 
+opportunities at arpa nsf and elsewhere x qian sigmod record 1995 
+report on the 1995 international workshop on temporal databases   1995 
+editor 's notes m franklin sigmod record 2000 
+book review column k aberer sigmod record 2003 
+integrating the ub-tree into a database system kernel f ramsak v markl r fenk m zirkel k elhardt r bayer vldb 2000 
+editor 's notes j widom sigmod record 1995 
+processing set expressions over continuous update streams s ganguly m garofalakis r rastogi sigmod conference 2003 
+editor 's notes m franklin sigmod record 2000 
+tutorial : data access   2000 
+stream processing of xpath queries with predicates a gupta d suciu sigmod conference 2003 
+sql and management of external data j melton j michels v josifovski k kulkarni p schwarz k zeidenstein sigmod record 2001 
+on-line warehouse view maintenance d quass j widom sigmod conference 1997 
+supporting multiple view maintenance policies l colby a kawaguchi d lieuwen i mumick k ross sigmod conference 1997 
+editor 's notes j widom sigmod record 1995 
+erratum : a database model for object dynamics m papazoglou b krÑmer vldb j. 1997 
+a database model for object dynamics m papazoglou b krÑmer vldb j. 1997 
+editor 's notes l liu sigmod record 2003 
+progress on hpcc and nii m winslett sigmod record 1994 
+editor 's notes l liu sigmod record 2003 
+document management as a database problem r bayer vldb 1995 
+editor 's notes m franklin sigmod record 1998 
+standards for databases on the grid s malaika a eisenberg j melton sigmod record 2003 
+efficient integration and aggregation of historical information m riedewald d agrawal a abbadi sigmod conference 2002 
+javax.xxl : a prototype for a library of query processing algorithms j bercken j dittrich b seeger sigmod conference 2000 
+efficient filtering of xml documents with xpath expressions c chan p felber m garofalakis r rastogi vldb j. 2002 
+editor 's notes m franklin sigmod record 1998 
+nsf workshop on industrial/academic cooperation in database systems   1999 
+xpath processing in a nutshell   2003 
+algorithms for deferred view maintenance l colby t griffin l libkin i mumick h trickey sigmod conference 1996 
+aggregate-query processing in data warehousing environments a gupta v harinarayan d quass vldb 1995 
+book review column k aberer sigmod record 2003 
+editor 's notes a segev sigmod record 1994 
+xpath processing in a nutshell g gottlob c koch r pichler sigmod record 2003 
+announcements from nsf nasa and elsewhere x qian sigmod record 1994 
+unix rdbms : the next generation b rosneblatt sigmod record 1994 
+editor 's notes m franklin sigmod record 1999 
+editor 's notes m franklin sigmod record 1999 
+editor 's notes a segev sigmod record 1994 
+database principles column - introduction l libkin sigmod record 1999 
+jumping on the nii bandwagon x qian sigmod record 1994 
+implementing data cubes efficiently v harinarayan a rajaraman j ullman sigmod conference 1996 
