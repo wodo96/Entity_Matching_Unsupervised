@@ -154,7 +154,7 @@ public:
 	double *t_score;
 	int word_num;
 	int pair_num;
-	constexpr static double scale = 1;
+	const static double scale = 1;
 
 	vector <vector<int> > edges;
 

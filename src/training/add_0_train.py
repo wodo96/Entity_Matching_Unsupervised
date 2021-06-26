@@ -30,7 +30,7 @@ def makefilecsv (train, tA, tB):
 		ran_number.insert(i,[str(random.randrange(0,lenTa)),str(random.randrange(0,lenTb)),'0'])
 	for j in range(len(ran_number)):
 		
-		if not(train.count(([str(ran_number[j][0]),str(ran_number[j][1]),'1'])>0)):
+		if not(train.count([str(ran_number[j][0]),str(ran_number[j][1]),'1'])>0):
 			train.append(ran_number[j])
 	
 	train_def = ""
