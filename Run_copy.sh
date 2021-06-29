@@ -33,7 +33,7 @@ cd $FILES_DIR
 python3 $FILES_DIR/create_match.py -dataset $DATASET -block $BLOCK
 
 #2
-#python3 $FILES_DIR/blocking.py -dataset $DATASET -block $BLOCK
+python3 $FILES_DIR/blocking.py -dataset $DATASET -block $BLOCK
 
 #3
 python3 $FILES_DIR/main.py -dataset $DATASET -block $BLOCK
