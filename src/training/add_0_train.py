@@ -42,5 +42,6 @@ def makefilecsv (train, tA, tB):
 
 new_train = makefilecsv (readcsv(train_file_path),readcsv(tableA_path),readcsv(tableB_path))
 
+print ("done")
 with open((data_block_path + "/train.csv" ),"w+", encoding="utf-8") as f:
     f.write(new_train)

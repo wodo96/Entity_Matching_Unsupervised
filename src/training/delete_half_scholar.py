@@ -52,7 +52,7 @@ def makefilecsv (train,test,valid,tableb):
 	tableb_def = ""
 
 	for tb in tableb:
-		tableb_def += ((str(tb[0])) + "," + (str(tb[1])) + "," + (str(tb[2])) + "," + (str(tb[3])) + "," + (str(tb[4])) + "\n")
+		tableb_def += ((str(tb[0])) + ",\"" + (str(tb[1])) + "\",\"" + (str(tb[2])) + "\",\"" + (str(tb[3])) + "\",\"" + (str(tb[4])) + "\"\n")
 	
 	return tableb_def,train_def,test_def,valid_def
 
