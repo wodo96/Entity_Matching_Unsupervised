@@ -138,11 +138,20 @@ Iteration 2
 Iteration 3
 Iteration 4
 Iteration 5
-Time lost: 22 : 47 : 13
+Time lost: 13 : 7 : 44
 all_precision done!!
 DATASET: DBLP-Scholar_dirty
 ==========result============
-total_pair:  1779 matches:  2793 count:  1054
-precision:  59.25
-recall:  37.74
-f1_score:  46.11
+total_pair:  1788 matches:  1911 count:  939
+precision:  52.52
+recall:  49.14
+f1_score:  50.77
+
+Old_touple:1789
+Those touple will be eliminate:
+>>>>><<<<<
+New_touple:1604
+done
+  
+All completed!! :)
+  
