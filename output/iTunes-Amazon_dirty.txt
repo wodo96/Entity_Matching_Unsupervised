@@ -138,19 +138,20 @@ Iteration 2
 Iteration 3
 Iteration 4
 Iteration 5
-Time lost: 1 : 5 : 52
+Time lost: 1 : 19 : 7
 all_precision done!!
 DATASET: iTunes-Amazon_dirty
 ==========result============
-total_pair:  3784 matches:  63 count:  19
-precision:  0.5
-recall:  30.16
-f1_score:  0.99
+total_pair:  3792 matches:  43 count:  17
+precision:  0.45
+recall:  39.53
+f1_score:  0.89
 
-Old_touple:3785
+Old_touple:3793
 Those touple will be eliminate:
 >>>>><<<<<
-New_touple:3779
+New_touple:3787
+done
   
 All completed!! :)
   
